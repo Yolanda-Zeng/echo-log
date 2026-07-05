@@ -36,6 +36,12 @@
 
 <img src="./docs/album-detail-features.png" alt="专辑详情页的曲目播放器和多来源评分切片" width="100%" />
 
+### 多来源精选评论
+
+页面底部以三栏卡片展示不同乐评来源的精选摘录。下图为 `BRAT` 的实际评论区域，分别收录 Album of the Year、豆瓣音乐与 Pitchfork 的评论文本。
+
+<img src="./docs/album-reviews.png" alt="BRAT 专辑详情页底部的 AOTY、豆瓣音乐和 Pitchfork 精选评论卡片" width="100%" />
+
 ## 功能一览
 
 | 模块 | 能力 |
