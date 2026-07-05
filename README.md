@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./docs/readme-hero.svg" alt="回响录 Echo Log 产品概览" width="100%" />
+  <img src="./docs/echo-log-3d-gallery.png" alt="回响录 Echo Log 真实运行界面：100 张专辑组成的 3D 旋转档案塔" width="100%" />
 
   <h1>回响录 · Echo Log</h1>
 
@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Status-MVP-B7FF40" alt="MVP" />
   </p>
 </div>
+
+> 上图为项目本地实际运行截图：100 张专辑封面由 React Three Fiber / Three.js 实时渲染为可拖拽、缩放和自动旋转的 3D 螺旋档案塔。
 
 ## 项目简介
 
