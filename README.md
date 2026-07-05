@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Node.js-22%2B-5FA04E?logo=nodedotjs&logoColor=white" alt="Node.js 22+" />
     <img src="https://img.shields.io/badge/SQLite-Embedded-003B57?logo=sqlite" alt="SQLite" />
     <img src="https://img.shields.io/badge/Status-MVP-B7FF40" alt="MVP" />
+    <img src="https://img.shields.io/badge/License-Apache%202.0-D22128?logo=apache" alt="Apache License 2.0" />
   </p>
 </div>
 
@@ -313,6 +314,10 @@ npm run build
 ```
 
 如果修改了数据采集逻辑，请在说明中注明数据来源、匹配策略、失败样本以及是否需要新的环境变量。
+
+## 开源许可证
+
+项目代码基于 [Apache License 2.0](./LICENSE) 开源。外部评分、评论摘录、专辑封面与试听内容的版权仍归各自权利方所有，不因本项目许可证而改变。
 
 ---
 
