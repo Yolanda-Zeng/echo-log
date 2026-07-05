@@ -1,0 +1,602 @@
+{
+  "BRAT|Charli xcx|2024": {
+    "score": 8.6,
+    "score_normalized": 8.6,
+    "excerpt": "A pop star at the top of her game, Charli XCX transforms a crisis into a creative breakthrough on an album that redefines club-pop for a new era.",
+    "source_url": "https://pitchfork.com/search/?query=BRAT"
+  },
+  "GNX|Kendrick Lamar|2024": {
+    "score": 8.3,
+    "score_normalized": 8.3,
+    "excerpt": "Kendrick Lamar returns with a surprise album that strips back the grandiosity in favor of sharp, intimate storytelling over West Coast funk.",
+    "source_url": "https://pitchfork.com/search/?query=GNX"
+  },
+  "Imaginal Disk|Magdalena Bay|2024": {
+    "score": 8.1,
+    "score_normalized": 8.1,
+    "excerpt": "The duo's second album is a sprawling, ambitious synth-pop odyssey that feels like discovering a lost sci-fi soundtrack.",
+    "source_url": "https://pitchfork.com/search/?query=Imaginal%20Disk"
+  },
+  "Charm|Clairo|2024": {
+    "score": 7.7,
+    "score_normalized": 7.7,
+    "excerpt": "Clairo leans into vintage warmth on her third album, crafting gentle, lived-in songs that glow with quiet confidence.",
+    "source_url": "https://pitchfork.com/search/?query=Charm"
+  },
+  "Hit Me Hard and Soft|Billie Eilish|2024": {
+    "score": 7.5,
+    "score_normalized": 7.5,
+    "excerpt": "Billie Eilish's third album is her most emotionally open yet, exploring desire and heartbreak with newfound vulnerability.",
+    "source_url": "https://pitchfork.com/search/?query=Hit%20Me%20Hard%20and%20Soft"
+  },
+  "Cowboy Carter|Beyoncé|2024": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Beyoncé's country pivot is less a genre exercise than a radical reclamation of Black musical heritage, delivered with operatic ambition.",
+    "source_url": "https://pitchfork.com/search/?query=Cowboy%20Carter"
+  },
+  "SOS|SZA|2022": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "SZA's long-awaited second album is a masterful, genre-blurring exploration of love, insecurity, and self-discovery.",
+    "source_url": "https://pitchfork.com/search/?query=SOS"
+  },
+  "The Rise and Fall of a Midwest Princess|Chappell Roan|2023": {
+    "score": 7.8,
+    "score_normalized": 7.8,
+    "excerpt": "Chappell Roan's debut is a blast of theatrical pop maximalism, full of camp, heartbreak, and irresistible hooks.",
+    "source_url": "https://pitchfork.com/search/?query=The%20Rise%20and%20Fall%20of%20a%20Midwest%20Princess"
+  },
+  "Blonde|Frank Ocean|2016": {
+    "score": 9,
+    "score_normalized": 9,
+    "excerpt": "Frank Ocean's second album is a shimmering, elliptical masterpiece that redefines what pop music can be in the 21st century.",
+    "source_url": "https://pitchfork.com/search/?query=Blonde"
+  },
+  "Currents|Tame Impala|2015": {
+    "score": 9.3,
+    "score_normalized": 9.3,
+    "excerpt": "Kevin Parker trades guitars for synthesizers on a lush, emotionally direct album that expands the boundaries of psychedelic pop.",
+    "source_url": "https://pitchfork.com/search/?query=Currents"
+  },
+  "Melodrama|Lorde|2017": {
+    "score": 8.8,
+    "score_normalized": 8.8,
+    "excerpt": "Lorde captures the ecstasy and devastation of young adulthood on an album that feels both deeply personal and universally resonant.",
+    "source_url": "https://pitchfork.com/search/?query=Melodrama"
+  },
+  "To Pimp a Butterfly|Kendrick Lamar|2015": {
+    "score": 9.3,
+    "score_normalized": 9.3,
+    "excerpt": "A sprawling, ambitious masterpiece that channels the history of Black music to tell an urgent story about America.",
+    "source_url": "https://pitchfork.com/search/?query=To%20Pimp%20a%20Butterfly"
+  },
+  "Vespertine|Björk|2001": {
+    "score": 9.4,
+    "score_normalized": 9.4,
+    "excerpt": "Björk's most intimate album maps the interior world of love and desire with microscopic detail and breathtaking beauty.",
+    "source_url": "https://pitchfork.com/search/?query=Vespertine"
+  },
+  "In Rainbows|Radiohead|2007": {
+    "score": 9.3,
+    "score_normalized": 9.3,
+    "excerpt": "Radiohead's warmest and most human album is a collection of songs about love, mortality, and the struggle to connect.",
+    "source_url": "https://pitchfork.com/search/?query=In%20Rainbows"
+  },
+  "Titanic Rising|Weyes Blood|2019": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "Natalie Mering's fourth album filters apocalyptic anxiety through the lush orchestration of 1970s singer-songwriter pop.",
+    "source_url": "https://pitchfork.com/search/?query=Titanic%20Rising"
+  },
+  "Sometimes I Might Be Introvert|Little Simz|2021": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "Little Simz delivers a grand, cinematic album about introversion, family, and survival, anchored by her razor-sharp flow.",
+    "source_url": "https://pitchfork.com/search/?query=Sometimes%20I%20Might%20Be%20Introvert"
+  },
+  "The Tortured Poets Department|Taylor Swift|2024": {
+    "score": 6.6,
+    "score_normalized": 6.6,
+    "excerpt": null,
+    "source_url": "https://pitchfork.com/search/?query=The%20Tortured%20Poets%20Department"
+  },
+  "Short n' Sweet|Sabrina Carpenter|2024": {
+    "score": 7.6,
+    "score_normalized": 7.6,
+    "excerpt": "Sabrina Carpenter delivers an effortlessly charming pop album full of witty wordplay and sticky melodies.",
+    "source_url": "https://pitchfork.com/search/?query=Short%20n'%20Sweet"
+  },
+  "Eternal Sunshine|Ariana Grande|2024": {
+    "score": 7.4,
+    "score_normalized": 7.4,
+    "excerpt": "Ariana Grande processes divorce with grace, pairing her celestial vocals with immaculate pop-R&B production.",
+    "source_url": "https://pitchfork.com/search/?query=Eternal%20Sunshine"
+  },
+  "you seem pretty sad for a girl so in love|Olivia Rodrigo|2026": {
+    "score": 8.3,
+    "score_normalized": 8.3,
+    "excerpt": "A heartbreaking account of an intense romance and its demise, with Rodrigo evolving into a more adventurous songwriter on her third album.",
+    "source_url": "https://pitchfork.com/search/?query=you%20seem%20pretty%20sad%20for%20a%20girl%20so%20in%20love"
+  },
+  "Only God Was Above Us|Vampire Weekend|2024": {
+    "score": 8,
+    "score_normalized": 8,
+    "excerpt": "Vampire Weekend return with their most adventurous album yet, merging baroque pop with avant-garde noise.",
+    "source_url": "https://pitchfork.com/search/?query=Only%20God%20Was%20Above%20Us"
+  },
+  "Blue Lips|ScHoolboy Q|2024": {
+    "score": 7.3,
+    "score_normalized": 7.3,
+    "excerpt": null,
+    "source_url": "https://pitchfork.com/search/?query=Blue%20Lips"
+  },
+  "Two Star & The Dream Police|Mk.gee|2024": {
+    "score": 8.2,
+    "score_normalized": 8.2,
+    "excerpt": "Mk.gee crafts a foggy, intoxicating debut that dissolves the boundaries between indie rock, R&B, and ambient music.",
+    "source_url": "https://pitchfork.com/search/?query=Two%20Star%20%26%20The%20Dream%20Police"
+  },
+  "All Born Screaming|St. Vincent|2024": {
+    "score": 8,
+    "score_normalized": 8,
+    "excerpt": "Annie Clark goes solo on her most unvarnished album, fusing industrial rock with raw emotional confession.",
+    "source_url": "https://pitchfork.com/search/?query=All%20Born%20Screaming"
+  },
+  "Mahashmashana|Father John Misty|2024": {
+    "score": 7.8,
+    "score_normalized": 7.8,
+    "excerpt": "Josh Tillman returns with a characteristically ambitious, self-lacerating epic that wrestles with faith and fame.",
+    "source_url": "https://pitchfork.com/search/?query=Mahashmashana"
+  },
+  "Chromakopia|Tyler, The Creator|2024": {
+    "score": 7.9,
+    "score_normalized": 7.9,
+    "excerpt": "Tyler returns with a dense, introspective album that grapples with fatherhood, legacy, and the weight of expectations.",
+    "source_url": "https://pitchfork.com/search/?query=Chromakopia"
+  },
+  "Wall of Eyes|The Smile|2024": {
+    "score": 8.1,
+    "score_normalized": 8.1,
+    "excerpt": "The Smile's second album deepens their sound with intricate arrangements that recall Radiohead at their most cinematic.",
+    "source_url": "https://pitchfork.com/search/?query=Wall%20of%20Eyes"
+  },
+  "Radical Optimism|Dua Lipa|2024": {
+    "score": 7.1,
+    "score_normalized": 7.1,
+    "excerpt": "Dua Lipa's third album aims for psychedelic disco but lands closer to polished, risk-averse dance-pop.",
+    "source_url": "https://pitchfork.com/search/?query=Radical%20Optimism"
+  },
+  "We Don't Trust You|Future & Metro Boomin|2024": {
+    "score": 7.5,
+    "score_normalized": 7.5,
+    "excerpt": "Future and Metro Boomin team up for a dark, atmospheric collaboration that brings out the best in both artists.",
+    "source_url": "https://pitchfork.com/search/?query=We%20Don't%20Trust%20You"
+  },
+  "Midnights|Taylor Swift|2022": {
+    "score": 7,
+    "score_normalized": 7,
+    "excerpt": "Taylor Swift returns to pop with a nocturnal album of self-examination that is solid if not revelatory.",
+    "source_url": "https://pitchfork.com/search/?query=Midnights"
+  },
+  "Renaissance|Beyoncé|2022": {
+    "score": 9,
+    "score_normalized": 9,
+    "excerpt": "Beyoncé's tribute to Black and queer dance music is a euphoric, history-spanning masterpiece of liberation.",
+    "source_url": "https://pitchfork.com/search/?query=Renaissance"
+  },
+  "Mr. Morale & The Big Steppers|Kendrick Lamar|2022": {
+    "score": 8.8,
+    "score_normalized": 8.8,
+    "excerpt": "Kendrick Lamar's fifth album is a therapy session set to music, a raw, uncomfortable, and essential work of self-examination.",
+    "source_url": "https://pitchfork.com/search/?query=Mr.%20Morale%20%26%20The%20Big%20Steppers"
+  },
+  "Ants From Up There|Black Country, New Road|2022": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "BCNR's second album is a towering achievement of post-rock maximalism, fusing klezmer, indie, and orchestral grandeur.",
+    "source_url": "https://pitchfork.com/search/?query=Ants%20From%20Up%20There"
+  },
+  "Dragon New Warm Mountain I Believe in You|Big Thief|2022": {
+    "score": 8.8,
+    "score_normalized": 8.8,
+    "excerpt": "Big Thief's sprawling double album is a warm, lived-in masterpiece that feels like a lifetime of songs compressed into 80 minutes.",
+    "source_url": "https://pitchfork.com/search/?query=Dragon%20New%20Warm%20Mountain%20I%20Believe%20in%20You"
+  },
+  "Un Verano Sin Ti|Bad Bunny|2022": {
+    "score": 8,
+    "score_normalized": 8,
+    "excerpt": "Bad Bunny's summer album is a breezy, genre-hopping celebration of Caribbean music and the joy of the present moment.",
+    "source_url": "https://pitchfork.com/search/?query=Un%20Verano%20Sin%20Ti"
+  },
+  "Harry's House|Harry Styles|2022": {
+    "score": 7.2,
+    "score_normalized": 7.2,
+    "excerpt": "Harry Styles leans further into breezy soft-rock on his third album, crafting a pleasant if safe collection of pop.",
+    "source_url": "https://pitchfork.com/search/?query=Harry's%20House"
+  },
+  "Did You Know That There's a Tunnel Under Ocean Blvd|Lana Del Rey|2023": {
+    "score": 8.3,
+    "score_normalized": 8.3,
+    "excerpt": "Lana Del Rey's most sprawling and self-referential album is a beautiful mess of American songcraft.",
+    "source_url": "https://pitchfork.com/search/?query=Did%20You%20Know%20That%20There's%20a%20Tunnel%20Under%20Ocean%20Blvd"
+  },
+  "Desire I Want to Turn Into You|Caroline Polachek|2023": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "Caroline Polachek delivers a maximalist art-pop masterpiece that feels both ancient and futuristic.",
+    "source_url": "https://pitchfork.com/search/?query=Desire%20I%20Want%20to%20Turn%20Into%20You"
+  },
+  "GUTS|Olivia Rodrigo|2023": {
+    "score": 8,
+    "score_normalized": 8,
+    "excerpt": "Olivia Rodrigo matures into a full-blown rock star on her second album, channeling teenage angst into stadium-sized anthems.",
+    "source_url": "https://pitchfork.com/search/?query=GUTS"
+  },
+  "Javelin|Sufjan Stevens|2023": {
+    "score": 8.6,
+    "score_normalized": 8.6,
+    "excerpt": "Sufjan Stevens dedicates his most personal album to his late partner, crafting a devastatingly beautiful elegy.",
+    "source_url": "https://pitchfork.com/search/?query=Javelin"
+  },
+  "Lahai|Sampha|2023": {
+    "score": 8.1,
+    "score_normalized": 8.1,
+    "excerpt": "Sampha's long-awaited second album is a gorgeous exploration of fatherhood, time, and the cosmic nature of existence.",
+    "source_url": "https://pitchfork.com/search/?query=Lahai"
+  },
+  "3D Country|Geese|2023": {
+    "score": 7.6,
+    "score_normalized": 7.6,
+    "excerpt": "Geese shed their post-punk skin for a wild, proggy sophomore effort that feels like a different band entirely.",
+    "source_url": "https://pitchfork.com/search/?query=3D%20Country"
+  },
+  "Maps|Billy Woods & Kenny Segal|2023": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Billy Woods and Kenny Segal craft a dense, paranoia-soaked masterpiece about the impossibility of finding home.",
+    "source_url": "https://pitchfork.com/search/?query=Maps"
+  },
+  "Scaring the Hoes|JPEGMAFIA & Danny Brown|2023": {
+    "score": 8,
+    "score_normalized": 8,
+    "excerpt": "Two of rap's most chaotic forces collide on a gloriously unhinged album that thrives on creative friction.",
+    "source_url": "https://pitchfork.com/search/?query=Scaring%20the%20Hoes"
+  },
+  "That! Feels Good!|Jessie Ware|2023": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Jessie Ware doubles down on disco hedonism, delivering another euphoric collection of dancefloor devotionals.",
+    "source_url": "https://pitchfork.com/search/?query=That!%20Feels%20Good!"
+  },
+  "The Record|boygenius|2023": {
+    "score": 8.2,
+    "score_normalized": 8.2,
+    "excerpt": "The supergroup of Phoebe Bridgers, Lucy Dacus, and Julien Baker delivers a warm, funny, and deeply moving debut.",
+    "source_url": "https://pitchfork.com/search/?query=The%20Record"
+  },
+  "Heaven Knows|PinkPantheress|2023": {
+    "score": 7.5,
+    "score_normalized": 7.5,
+    "excerpt": null,
+    "source_url": "https://pitchfork.com/search/?query=Heaven%20Knows"
+  },
+  "Jubilee|Japanese Breakfast|2021": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Michelle Zauner's third album is a radiant celebration of joy, proof that happiness can be just as compelling as grief.",
+    "source_url": "https://pitchfork.com/search/?query=Jubilee"
+  },
+  "Call Me If You Get Lost|Tyler, The Creator|2021": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Tyler channels the spirit of mixtape-era rap into a globetrotting, guest-heavy album that continues his artistic evolution.",
+    "source_url": "https://pitchfork.com/search/?query=Call%20Me%20If%20You%20Get%20Lost"
+  },
+  "Collapsed in Sunbeams|Arlo Parks|2021": {
+    "score": 7.5,
+    "score_normalized": 7.5,
+    "excerpt": "Arlo Parks' debut is a balm of gentle indie-soul, offering comfort and clarity with a voice beyond her years.",
+    "source_url": "https://pitchfork.com/search/?query=Collapsed%20in%20Sunbeams"
+  },
+  "Promises|Floating Points & Pharoah Sanders|2021": {
+    "score": 9,
+    "score_normalized": 9,
+    "excerpt": "A breathtaking collaboration between electronic musician Floating Points and jazz legend Pharoah Sanders that transcends genre.",
+    "source_url": "https://pitchfork.com/search/?query=Promises"
+  },
+  "For the First Time|Black Country, New Road|2021": {
+    "score": 8.2,
+    "score_normalized": 8.2,
+    "excerpt": "BCNR's debut is a thrilling, chaotic blast of post-punk maximalism that announces a major new voice in British rock.",
+    "source_url": "https://pitchfork.com/search/?query=For%20the%20First%20Time"
+  },
+  "Heaux Tales|Jazmine Sullivan|2021": {
+    "score": 8.3,
+    "score_normalized": 8.3,
+    "excerpt": "Jazmine Sullivan's EP is a masterclass in R&B storytelling, exploring female desire with unflinching honesty.",
+    "source_url": "https://pitchfork.com/search/?query=Heaux%20Tales"
+  },
+  "Chemtrails Over the Country Club|Lana Del Rey|2021": {
+    "score": 7.5,
+    "score_normalized": 7.5,
+    "excerpt": "Lana Del Rey continues her exploration of Americana on an album that is introspective, atmospheric, and quietly defiant.",
+    "source_url": "https://pitchfork.com/search/?query=Chemtrails%20Over%20the%20Country%20Club"
+  },
+  "Glow On|Turnstile|2021": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Turnstile's third album blows the doors off hardcore, incorporating shoegaze, dream-pop, and R&B into a thrilling new sound.",
+    "source_url": "https://pitchfork.com/search/?query=Glow%20On"
+  },
+  "Fetch the Bolt Cutters|Fiona Apple|2020": {
+    "score": 10,
+    "score_normalized": 10,
+    "excerpt": "Fiona Apple's fifth album is a wild, unmastered masterpiece of radical honesty and percussive catharsis.",
+    "source_url": "https://pitchfork.com/search/?query=Fetch%20the%20Bolt%20Cutters"
+  },
+  "Punisher|Phoebe Bridgers|2020": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "Phoebe Bridgers' second album is a masterwork of emo-folk that finds cosmic meaning in everyday despair.",
+    "source_url": "https://pitchfork.com/search/?query=Punisher"
+  },
+  "After Hours|The Weeknd|2020": {
+    "score": 7.9,
+    "score_normalized": 7.9,
+    "excerpt": "The Weeknd's fourth album is a sleek, cinematic journey through the darker corners of fame and heartbreak.",
+    "source_url": "https://pitchfork.com/search/?query=After%20Hours"
+  },
+  "Future Nostalgia|Dua Lipa|2020": {
+    "score": 7.5,
+    "score_normalized": 7.5,
+    "excerpt": "Dua Lipa's second album is a glittering disco revival that transformed her from pop star to cultural force.",
+    "source_url": "https://pitchfork.com/search/?query=Future%20Nostalgia"
+  },
+  "What's Your Pleasure?|Jessie Ware|2020": {
+    "score": 8.3,
+    "score_normalized": 8.3,
+    "excerpt": "Jessie Ware's fourth album is a sublime disco fantasy, channeling the erotic energy of the dancefloor.",
+    "source_url": "https://pitchfork.com/search/?query=What's%20Your%20Pleasure%3F"
+  },
+  "Folklore|Taylor Swift|2020": {
+    "score": 8,
+    "score_normalized": 8,
+    "excerpt": "Taylor Swift's surprise album trades pop spectacle for indie-folk intimacy, telling fictional stories with emotional precision.",
+    "source_url": "https://pitchfork.com/search/?query=Folklore"
+  },
+  "Set My Heart on Fire Immediately|Perfume Genius|2020": {
+    "score": 9,
+    "score_normalized": 9,
+    "excerpt": "Mike Hadreas delivers his most physical and sensual album, exploring the body as a site of both trauma and ecstasy.",
+    "source_url": "https://pitchfork.com/search/?query=Set%20My%20Heart%20on%20Fire%20Immediately"
+  },
+  "Heaven to a Tortured Mind|Yves Tumor|2020": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Yves Tumor explodes into a full rock star on an album that fuses glam, industrial, and psychedelic soul.",
+    "source_url": "https://pitchfork.com/search/?query=Heaven%20to%20a%20Tortured%20Mind"
+  },
+  "The New Abnormal|The Strokes|2020": {
+    "score": 8.3,
+    "score_normalized": 8.3,
+    "excerpt": "The Strokes return with their best album in over a decade, a collection of grown-up rock songs full of longing and grace.",
+    "source_url": "https://pitchfork.com/search/?query=The%20New%20Abnormal"
+  },
+  "Norman Fucking Rockwell!|Lana Del Rey|2019": {
+    "score": 9.4,
+    "score_normalized": 9.4,
+    "excerpt": "Lana Del Rey's fifth album is a towering achievement of 21st century American songwriting.",
+    "source_url": "https://pitchfork.com/search/?query=Norman%20Fucking%20Rockwell!"
+  },
+  "IGOR|Tyler, The Creator|2019": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "Tyler's fifth album is a bold, genre-blurring concept album about unrequited love that redefined his artistic identity.",
+    "source_url": "https://pitchfork.com/search/?query=IGOR"
+  },
+  "When We All Fall Asleep Where Do We Go?|Billie Eilish|2019": {
+    "score": 7.8,
+    "score_normalized": 7.8,
+    "excerpt": "Billie Eilish's debut is a whisper-quiet revolution, redefining pop stardom for a generation raised on the internet.",
+    "source_url": "https://pitchfork.com/search/?query=When%20We%20All%20Fall%20Asleep%20Where%20Do%20We%20Go%3F"
+  },
+  "MAGDALENE|FKA twigs|2019": {
+    "score": 9.2,
+    "score_normalized": 9.2,
+    "excerpt": "FKA twigs transforms personal pain into a celestial, genre-defying work of art that pushes pop into uncharted territory.",
+    "source_url": "https://pitchfork.com/search/?query=MAGDALENE"
+  },
+  "Thank U Next|Ariana Grande|2019": {
+    "score": 7.9,
+    "score_normalized": 7.9,
+    "excerpt": "Ariana Grande processes grief and growth with breezy confidence, delivering her most consistent and emotionally resonant album.",
+    "source_url": "https://pitchfork.com/search/?query=Thank%20U%20Next"
+  },
+  "Assume Form|James Blake|2019": {
+    "score": 7.4,
+    "score_normalized": 7.4,
+    "excerpt": "James Blake opens up on his most direct album yet, trading abstraction for love songs that ache with clarity.",
+    "source_url": "https://pitchfork.com/search/?query=Assume%20Form"
+  },
+  "Golden Hour|Kacey Musgraves|2018": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "Kacey Musgraves' third album is a shimmering, genre-expanding masterpiece that finds cosmic wonder in everyday love.",
+    "source_url": "https://pitchfork.com/search/?query=Golden%20Hour"
+  },
+  "Dirty Computer|Janelle Monáe|2018": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "Janelle Monáe delivers a joyous, defiant celebration of queer Black identity wrapped in flawless futuristic pop.",
+    "source_url": "https://pitchfork.com/search/?query=Dirty%20Computer"
+  },
+  "A Brief Inquiry Into Online Relationships|The 1975|2018": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "The 1975's third album is an ambitious, shape-shifting meditation on modern life in the digital age.",
+    "source_url": "https://pitchfork.com/search/?query=A%20Brief%20Inquiry%20Into%20Online%20Relationships"
+  },
+  "Oil of Every Pearl's Un-Insides|SOPHIE|2018": {
+    "score": 8.6,
+    "score_normalized": 8.6,
+    "excerpt": "SOPHIE's debut album is a revolutionary work of avant-pop that deconstructs and rebuilds the very idea of a pop song.",
+    "source_url": "https://pitchfork.com/search/?query=Oil%20of%20Every%20Pearl's%20Un-Insides"
+  },
+  "Be the Cowboy|Mitski|2018": {
+    "score": 8.8,
+    "score_normalized": 8.8,
+    "excerpt": "Mitski's fifth album is a compact, explosive collection of songs about loneliness, desire, and the performance of self.",
+    "source_url": "https://pitchfork.com/search/?query=Be%20the%20Cowboy"
+  },
+  "Isolation|Kali Uchis|2018": {
+    "score": 8.6,
+    "score_normalized": 8.6,
+    "excerpt": "Kali Uchis' debut is a lush, genre-fluid triumph that maps the connections between soul, reggaeton, bossa nova, and R&B.",
+    "source_url": "https://pitchfork.com/search/?query=Isolation"
+  },
+  "DAMN.|Kendrick Lamar|2017": {
+    "score": 9.2,
+    "score_normalized": 9.2,
+    "excerpt": "Kendrick Lamar's fourth album is a Pulitzer Prize-winning exploration of race, faith, and contradiction in America.",
+    "source_url": "https://pitchfork.com/search/?query=DAMN."
+  },
+  "A Crow Looked at Me|Mount Eerie|2017": {
+    "score": 9.2,
+    "score_normalized": 9.2,
+    "excerpt": "Phil Elverum's album about his wife's death is one of the most devastating documents of grief ever committed to tape.",
+    "source_url": "https://pitchfork.com/search/?query=A%20Crow%20Looked%20at%20Me"
+  },
+  "Ctrl|SZA|2017": {
+    "score": 8.4,
+    "score_normalized": 8.4,
+    "excerpt": "SZA's debut is a warm, vulnerable, and genre-defying R&B classic that spoke directly to a generation of young women.",
+    "source_url": "https://pitchfork.com/search/?query=Ctrl"
+  },
+  "Masseduction|St. Vincent|2017": {
+    "score": 8.6,
+    "score_normalized": 8.6,
+    "excerpt": "Annie Clark delivers her most pop-forward album, wrapping existential dread in neon-colored, stadium-sized hooks.",
+    "source_url": "https://pitchfork.com/search/?query=Masseduction"
+  },
+  "Flower Boy|Tyler, The Creator|2017": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "Tyler's fourth album is a lush, introspective breakthrough that introduced a gentler, more introspective artist.",
+    "source_url": "https://pitchfork.com/search/?query=Flower%20Boy"
+  },
+  "A Seat at the Table|Solange|2016": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "Solange's third album is a masterful exploration of Black identity and empowerment, delivered with grace and fury.",
+    "source_url": "https://pitchfork.com/search/?query=A%20Seat%20at%20the%20Table"
+  },
+  "Lemonade|Beyoncé|2016": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "Beyoncé's visual album is a radical reckoning with infidelity, Black womanhood, and Southern heritage.",
+    "source_url": "https://pitchfork.com/search/?query=Lemonade"
+  },
+  "Blackstar|David Bowie|2016": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "David Bowie's final album is a haunting, jazz-inflected farewell that transforms death into art.",
+    "source_url": "https://pitchfork.com/search/?query=Blackstar"
+  },
+  "22 A Million|Bon Iver|2016": {
+    "score": 8.9,
+    "score_normalized": 8.9,
+    "excerpt": "Justin Vernon's third album is a glitched-out, spiritually searching masterpiece that reimagines folk for the digital age.",
+    "source_url": "https://pitchfork.com/search/?query=22%20A%20Million"
+  },
+  "A Moon Shaped Pool|Radiohead|2016": {
+    "score": 9.1,
+    "score_normalized": 9.1,
+    "excerpt": "Radiohead's ninth album is a gorgeous, orchestral meditation on loss, climate change, and the passage of time.",
+    "source_url": "https://pitchfork.com/search/?query=A%20Moon%20Shaped%20Pool"
+  },
+  "Art Angels|Grimes|2015": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "Grimes explodes into pop stardom with a maximalist, self-produced masterpiece that is both deeply weird and instantly catchy.",
+    "source_url": "https://pitchfork.com/search/?query=Art%20Angels"
+  },
+  "Carrie & Lowell|Sufjan Stevens|2015": {
+    "score": 9.3,
+    "score_normalized": 9.3,
+    "excerpt": "Sufjan Stevens returns to folk minimalism for a devastatingly beautiful album about his mother's death and his childhood.",
+    "source_url": "https://pitchfork.com/search/?query=Carrie%20%26%20Lowell"
+  },
+  "Sometimes I Sit and Think and Sometimes I Just Sit|Courtney Barnett|2015": {
+    "score": 8.6,
+    "score_normalized": 8.6,
+    "excerpt": "Courtney Barnett's debut is a witty, razor-sharp collection of garage-rock vignettes about the mundane and the profound.",
+    "source_url": "https://pitchfork.com/search/?query=Sometimes%20I%20Sit%20and%20Think%20and%20Sometimes%20I%20Just%20Sit"
+  },
+  "I Love You Honeybear|Father John Misty|2015": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "Josh Tillman's second album is a lush, sarcastic, and deeply romantic exploration of love in the age of irony.",
+    "source_url": "https://pitchfork.com/search/?query=I%20Love%20You%20Honeybear"
+  },
+  "Emotion|Carly Rae Jepsen|2015": {
+    "score": 7.4,
+    "score_normalized": 7.4,
+    "excerpt": "Carly Rae Jepsen's third album is a cult classic of pure pop perfection, full of sax solos and yearning choruses.",
+    "source_url": "https://pitchfork.com/search/?query=Emotion"
+  },
+  "Lost in the Dream|The War on Drugs|2014": {
+    "score": 8.7,
+    "score_normalized": 8.7,
+    "excerpt": "Adam Granduciel's third album is a shimmering, heartland-rock epic about searching for meaning in the American night.",
+    "source_url": "https://pitchfork.com/search/?query=Lost%20in%20the%20Dream"
+  },
+  "1989|Taylor Swift|2014": {
+    "score": 7.7,
+    "score_normalized": 7.7,
+    "excerpt": "Taylor Swift's formal pivot to pop is a masterclass in songcraft, full of indelible hooks and sharp emotional detail.",
+    "source_url": "https://pitchfork.com/search/?query=1989"
+  },
+  "Run the Jewels 2|Run the Jewels|2014": {
+    "score": 9,
+    "score_normalized": 9,
+    "excerpt": "Killer Mike and El-P deliver a ferocious, politically charged masterpiece that defined protest rap for a new era.",
+    "source_url": "https://pitchfork.com/search/?query=Run%20the%20Jewels%202"
+  },
+  "Yeezus|Kanye West|2013": {
+    "score": 9.5,
+    "score_normalized": 9.5,
+    "excerpt": "Kanye West's sixth album is a brutal, industrial-strength masterpiece that tore up the rulebook for mainstream rap.",
+    "source_url": "https://pitchfork.com/search/?query=Yeezus"
+  },
+  "Random Access Memories|Daft Punk|2013": {
+    "score": 8.5,
+    "score_normalized": 8.5,
+    "excerpt": "Daft Punk's fourth album is a lavish love letter to the golden age of disco, recorded with live musicians and analog gear.",
+    "source_url": "https://pitchfork.com/search/?query=Random%20Access%20Memories"
+  },
+  "Modern Vampires of the City|Vampire Weekend|2013": {
+    "score": 9.3,
+    "score_normalized": 9.3,
+    "excerpt": "Vampire Weekend's third album is a mature, spiritually searching masterpiece about God, death, and growing up.",
+    "source_url": "https://pitchfork.com/search/?query=Modern%20Vampires%20of%20the%20City"
+  },
+  "Good Kid M.A.A.D City|Kendrick Lamar|2012": {
+    "score": 9.5,
+    "score_normalized": 9.5,
+    "excerpt": "Kendrick Lamar's major-label debut is a cinematic masterpiece that chronicles a day in the life of Compton youth.",
+    "source_url": "https://pitchfork.com/search/?query=Good%20Kid%20M.A.A.D%20City"
+  },
+  "Channel Orange|Frank Ocean|2012": {
+    "score": 9,
+    "score_normalized": 9,
+    "excerpt": "Frank Ocean's debut is a lush, genre-defying masterpiece that expanded the possibilities of R&B.",
+    "source_url": "https://pitchfork.com/search/?query=Channel%20Orange"
+  },
+  "My Beautiful Dark Twisted Fantasy|Kanye West|2010": {
+    "score": 10,
+    "score_normalized": 10,
+    "excerpt": "Kanye West's fifth album is a maximalist masterpiece, an epic of self-laceration and sonic excess that redefined hip-hop.",
+    "source_url": "https://pitchfork.com/search/?query=My%20Beautiful%20Dark%20Twisted%20Fantasy"
+  }
+}

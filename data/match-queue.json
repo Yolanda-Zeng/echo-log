@@ -1,0 +1,10 @@
+[
+  {
+    "source": "musicbrainz",
+    "source_title": "you seem pretty sad for a girl so in love",
+    "source_artist": "Olivia Rodrigo",
+    "source_year": 2026,
+    "payload": "{\"error\":\"fetch failed\"}",
+    "status": "error"
+  }
+]

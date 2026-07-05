@@ -1,0 +1,7733 @@
+{
+  "BRAT|Charli xcx|2024": {
+    "source": "musicbrainz",
+    "mbid": "8b3b6e9c-4ecc-404a-ab2f-79830dba03e2",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/de9e79511cda59914de9add50946e43c/500x500-000000-80-0-0.jpg",
+    "matched_title": "BRAT",
+    "matched_artist": "Charli xcx",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "360",
+        "duration": 134,
+        "track_number": 1
+      },
+      {
+        "title": "Club classics",
+        "duration": 153,
+        "track_number": 2
+      },
+      {
+        "title": "Sympathy is a knife",
+        "duration": 151,
+        "track_number": 3
+      },
+      {
+        "title": "I might say something stupid",
+        "duration": 109,
+        "track_number": 4
+      },
+      {
+        "title": "Talk talk",
+        "duration": 162,
+        "track_number": 5
+      },
+      {
+        "title": "Von dutch",
+        "duration": 164,
+        "track_number": 6
+      },
+      {
+        "title": "Everything is romantic",
+        "duration": 203,
+        "track_number": 7
+      },
+      {
+        "title": "Rewind",
+        "duration": 168,
+        "track_number": 8
+      },
+      {
+        "title": "So I",
+        "duration": 211,
+        "track_number": 9
+      },
+      {
+        "title": "Girl, so confusing",
+        "duration": 175,
+        "track_number": 10
+      },
+      {
+        "title": "Apple",
+        "duration": 152,
+        "track_number": 11
+      },
+      {
+        "title": "B2b",
+        "duration": 178,
+        "track_number": 12
+      },
+      {
+        "title": "Mean girls",
+        "duration": 189,
+        "track_number": 13
+      },
+      {
+        "title": "I think about it all the time",
+        "duration": 136,
+        "track_number": 14
+      },
+      {
+        "title": "365",
+        "duration": 204,
+        "track_number": 15
+      }
+    ],
+    "billboard_rank": 1,
+    "cover_source": "deezer"
+  },
+  "GNX|Kendrick Lamar|2024": {
+    "source": "musicbrainz",
+    "mbid": "ab97a501-5505-427a-b9cd-81e3e6c1085c",
+    "cover_url": "https://coverartarchive.org/release/ab97a501-5505-427a-b9cd-81e3e6c1085c/40476627968-500.jpg",
+    "matched_title": "GNX",
+    "matched_artist": "Kendrick Lamar",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "wacced out murals",
+        "duration": 317,
+        "track_number": 1
+      },
+      {
+        "title": "squabble up",
+        "duration": 158,
+        "track_number": 2
+      },
+      {
+        "title": "luther",
+        "duration": 178,
+        "track_number": 3
+      },
+      {
+        "title": "man at the garden",
+        "duration": 233,
+        "track_number": 4
+      },
+      {
+        "title": "hey now",
+        "duration": 217,
+        "track_number": 5
+      },
+      {
+        "title": "reincarnated",
+        "duration": 276,
+        "track_number": 6
+      },
+      {
+        "title": "tv off",
+        "duration": 221,
+        "track_number": 7
+      },
+      {
+        "title": "dodger blue",
+        "duration": 131,
+        "track_number": 8
+      },
+      {
+        "title": "peekaboo",
+        "duration": 156,
+        "track_number": 9
+      },
+      {
+        "title": "heart pt. 6",
+        "duration": 292,
+        "track_number": 10
+      },
+      {
+        "title": "gnx",
+        "duration": 194,
+        "track_number": 11
+      },
+      {
+        "title": "gloria",
+        "duration": 288,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 2
+  },
+  "Imaginal Disk|Magdalena Bay|2024": {
+    "source": "musicbrainz",
+    "mbid": "24e93d85-dc05-4cbd-8da4-753885218550",
+    "cover_url": "https://coverartarchive.org/release/24e93d85-dc05-4cbd-8da4-753885218550/39699945042-500.jpg",
+    "matched_title": "Imaginal Disk",
+    "matched_artist": "Magdalena Bay",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "She Looked Like Me!",
+        "duration": 193,
+        "track_number": 1
+      },
+      {
+        "title": "Killing Time",
+        "duration": 234,
+        "track_number": 2
+      },
+      {
+        "title": "True Blue Interlude",
+        "duration": 109,
+        "track_number": 3
+      },
+      {
+        "title": "Image",
+        "duration": 213,
+        "track_number": 4
+      },
+      {
+        "title": "Death & Romance",
+        "duration": 315,
+        "track_number": 5
+      },
+      {
+        "title": "Fear, Sex",
+        "duration": 152,
+        "track_number": 6
+      },
+      {
+        "title": "Vampire in the Corner",
+        "duration": 202,
+        "track_number": 7
+      },
+      {
+        "title": "Watching T.V.",
+        "duration": 245,
+        "track_number": 8
+      },
+      {
+        "title": "Tunnel Vision",
+        "duration": 306,
+        "track_number": 9
+      },
+      {
+        "title": "Love Is Everywhere",
+        "duration": 194,
+        "track_number": 10
+      },
+      {
+        "title": "Feeling DiskInserted?",
+        "duration": 59,
+        "track_number": 11
+      },
+      {
+        "title": "That’s My Floor",
+        "duration": 210,
+        "track_number": 12
+      },
+      {
+        "title": "Cry for Me",
+        "duration": 307,
+        "track_number": 13
+      },
+      {
+        "title": "Angel on a Satellite",
+        "duration": 243,
+        "track_number": 14
+      },
+      {
+        "title": "The Ballad of Matt & Mica",
+        "duration": 240,
+        "track_number": 15
+      }
+    ],
+    "billboard_rank": 3
+  },
+  "Charm|Clairo|2024": {
+    "source": "musicbrainz",
+    "mbid": "3d32b603-6e9d-424b-bc44-0c834fb0e0c4",
+    "cover_url": "https://coverartarchive.org/release/3d32b603-6e9d-424b-bc44-0c834fb0e0c4/39325062206-500.jpg",
+    "matched_title": "Charm",
+    "matched_artist": "Clairo",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Nomad",
+        "duration": 226,
+        "track_number": 1
+      },
+      {
+        "title": "Sexy to Someone",
+        "duration": 208,
+        "track_number": 2
+      },
+      {
+        "title": "Second Nature",
+        "duration": 227,
+        "track_number": 3
+      },
+      {
+        "title": "Slow Dance",
+        "duration": 235,
+        "track_number": 4
+      },
+      {
+        "title": "Thank You",
+        "duration": 205,
+        "track_number": 5
+      },
+      {
+        "title": "Terrapin",
+        "duration": 180,
+        "track_number": 6
+      },
+      {
+        "title": "Juna",
+        "duration": 195,
+        "track_number": 7
+      },
+      {
+        "title": "Add Up My Love",
+        "duration": 205,
+        "track_number": 8
+      },
+      {
+        "title": "Echo",
+        "duration": 230,
+        "track_number": 9
+      },
+      {
+        "title": "Glory of the Snow",
+        "duration": 171,
+        "track_number": 10
+      },
+      {
+        "title": "Pier 4",
+        "duration": 205,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 4
+  },
+  "Hit Me Hard and Soft|Billie Eilish|2024": {
+    "source": "musicbrainz",
+    "mbid": "27dbc9ae-aab6-4957-a82c-5170d97d920b",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/5d284b31cb9ddeb1a0c79aede5a94e1c/500x500-000000-80-0-0.jpg",
+    "matched_title": "HIT ME HARD AND SOFT",
+    "matched_artist": "Billie Eilish",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "SKINNY",
+        "duration": 220,
+        "track_number": 1
+      },
+      {
+        "title": "LUNCH",
+        "duration": 179,
+        "track_number": 2
+      },
+      {
+        "title": "CHIHIRO",
+        "duration": 303,
+        "track_number": 3
+      },
+      {
+        "title": "BIRDS OF A FEATHER",
+        "duration": 210,
+        "track_number": 4
+      },
+      {
+        "title": "WILDFLOWER",
+        "duration": 261,
+        "track_number": 5
+      },
+      {
+        "title": "THE GREATEST",
+        "duration": 294,
+        "track_number": 6
+      },
+      {
+        "title": "L’AMOUR DE MA VIE",
+        "duration": 334,
+        "track_number": 7
+      },
+      {
+        "title": "THE DINER",
+        "duration": 186,
+        "track_number": 8
+      },
+      {
+        "title": "BITTERSUITE",
+        "duration": 298,
+        "track_number": 9
+      },
+      {
+        "title": "BLUE",
+        "duration": 343,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 5,
+    "cover_source": "deezer"
+  },
+  "Cowboy Carter|Beyoncé|2024": {
+    "source": "musicbrainz",
+    "mbid": "efd76a1d-551d-4cc5-a0ae-dc8e0dbd643b",
+    "cover_url": "https://coverartarchive.org/release/efd76a1d-551d-4cc5-a0ae-dc8e0dbd643b/38463162028-500.jpg",
+    "matched_title": "COWBOY CARTER",
+    "matched_artist": "Beyoncé",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "AMERIICAN REQUIEM",
+        "duration": 325,
+        "track_number": 1
+      },
+      {
+        "title": "BLACKBIIRD",
+        "duration": 132,
+        "track_number": 2
+      },
+      {
+        "title": "16 CARRIAGES",
+        "duration": 227,
+        "track_number": 3
+      },
+      {
+        "title": "PROTECTOR",
+        "duration": 180,
+        "track_number": 4
+      },
+      {
+        "title": "MY ROSE",
+        "duration": 53,
+        "track_number": 5
+      },
+      {
+        "title": "SMOKE HOUR ★ WILLIE NELSON",
+        "duration": 51,
+        "track_number": 6
+      },
+      {
+        "title": "TEXAS HOLD ’EM",
+        "duration": 233,
+        "track_number": 7
+      },
+      {
+        "title": "BODYGUARD",
+        "duration": 240,
+        "track_number": 8
+      },
+      {
+        "title": "DOLLY P",
+        "duration": 23,
+        "track_number": 9
+      },
+      {
+        "title": "JOLENE",
+        "duration": 190,
+        "track_number": 10
+      },
+      {
+        "title": "DAUGHTER",
+        "duration": 203,
+        "track_number": 11
+      },
+      {
+        "title": "ALLIIGATOR TEARS",
+        "duration": 179,
+        "track_number": 12
+      },
+      {
+        "title": "SMOKE HOUR II",
+        "duration": 30,
+        "track_number": 13
+      },
+      {
+        "title": "JUST FOR FUN",
+        "duration": 204,
+        "track_number": 14
+      },
+      {
+        "title": "II MOST WANTED",
+        "duration": 209,
+        "track_number": 15
+      },
+      {
+        "title": "LEVII’S JEANS",
+        "duration": 253,
+        "track_number": 16
+      },
+      {
+        "title": "FLAMENCO",
+        "duration": 102,
+        "track_number": 17
+      },
+      {
+        "title": "DESERT EAGLE",
+        "duration": 72,
+        "track_number": 18
+      },
+      {
+        "title": "RIIVERDANCE",
+        "duration": 268,
+        "track_number": 19
+      },
+      {
+        "title": "II HANDS II HEAVEN",
+        "duration": 357,
+        "track_number": 20
+      },
+      {
+        "title": "TYRANT",
+        "duration": 266,
+        "track_number": 21
+      },
+      {
+        "title": "SWEET ★ HONEY ★ BUCKIIN’",
+        "duration": 296,
+        "track_number": 22
+      },
+      {
+        "title": "AMEN",
+        "duration": 145,
+        "track_number": 23
+      }
+    ],
+    "billboard_rank": 6
+  },
+  "SOS|SZA|2022": {
+    "source": "musicbrainz",
+    "mbid": "b6e42e04-1600-4276-a71f-38e16e6dff14",
+    "cover_url": "https://coverartarchive.org/release/b6e42e04-1600-4276-a71f-38e16e6dff14/34648317073-500.jpg",
+    "matched_title": "SOS",
+    "matched_artist": "SZA",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "SOS",
+        "duration": 118,
+        "track_number": 1
+      },
+      {
+        "title": "Kill Bill",
+        "duration": 154,
+        "track_number": 2
+      },
+      {
+        "title": "Seek & Destroy",
+        "duration": 204,
+        "track_number": 3
+      },
+      {
+        "title": "Low",
+        "duration": 181,
+        "track_number": 4
+      },
+      {
+        "title": "Love Language",
+        "duration": 184,
+        "track_number": 5
+      },
+      {
+        "title": "Blind",
+        "duration": 151,
+        "track_number": 6
+      },
+      {
+        "title": "Used",
+        "duration": 146,
+        "track_number": 7
+      },
+      {
+        "title": "Snooze",
+        "duration": 202,
+        "track_number": 8
+      },
+      {
+        "title": "Notice Me",
+        "duration": 161,
+        "track_number": 9
+      },
+      {
+        "title": "Gone Girl",
+        "duration": 244,
+        "track_number": 10
+      },
+      {
+        "title": "Smoking on My Ex Pack",
+        "duration": 84,
+        "track_number": 11
+      },
+      {
+        "title": "Ghost in the Machine",
+        "duration": 219,
+        "track_number": 12
+      },
+      {
+        "title": "F2F",
+        "duration": 185,
+        "track_number": 13
+      },
+      {
+        "title": "Nobody Gets Me",
+        "duration": 181,
+        "track_number": 14
+      },
+      {
+        "title": "Conceited",
+        "duration": 151,
+        "track_number": 15
+      },
+      {
+        "title": "Special",
+        "duration": 159,
+        "track_number": 16
+      },
+      {
+        "title": "Too Late",
+        "duration": 164,
+        "track_number": 17
+      },
+      {
+        "title": "Far",
+        "duration": 181,
+        "track_number": 18
+      },
+      {
+        "title": "Shirt",
+        "duration": 182,
+        "track_number": 19
+      },
+      {
+        "title": "Open Arms",
+        "duration": 240,
+        "track_number": 20
+      },
+      {
+        "title": "I Hate U",
+        "duration": 174,
+        "track_number": 21
+      },
+      {
+        "title": "Good Days",
+        "duration": 278,
+        "track_number": 22
+      },
+      {
+        "title": "Forgiveless",
+        "duration": 142,
+        "track_number": 23
+      },
+      {
+        "title": "PSA",
+        "duration": 99,
+        "track_number": 24
+      },
+      {
+        "title": "Open Arms (just SZA)",
+        "duration": 215,
+        "track_number": 25
+      }
+    ],
+    "billboard_rank": 7
+  },
+  "The Rise and Fall of a Midwest Princess|Chappell Roan|2023": {
+    "source": "musicbrainz",
+    "mbid": "99b69971-5030-4ab2-bd2a-ba102ed6312d",
+    "cover_url": "https://coverartarchive.org/release/99b69971-5030-4ab2-bd2a-ba102ed6312d/39110256637-500.jpg",
+    "matched_title": "The Rise and Fall of a Midwest Princess",
+    "matched_artist": "Chappell Roan",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "Femininomenon",
+        "duration": 220,
+        "track_number": 1
+      },
+      {
+        "title": "Red Wine Supernova",
+        "duration": 193,
+        "track_number": 2
+      },
+      {
+        "title": "After Midnight",
+        "duration": 205,
+        "track_number": 3
+      },
+      {
+        "title": "Coffee",
+        "duration": 206,
+        "track_number": 4
+      },
+      {
+        "title": "Casual",
+        "duration": 233,
+        "track_number": 5
+      },
+      {
+        "title": "Super Graphic Ultra Modern Girl",
+        "duration": 184,
+        "track_number": 6
+      },
+      {
+        "title": "HOT TO GO!",
+        "duration": 185,
+        "track_number": 7
+      },
+      {
+        "title": "My Kink Is Karma",
+        "duration": 223,
+        "track_number": 8
+      },
+      {
+        "title": "Picture You",
+        "duration": 187,
+        "track_number": 9
+      },
+      {
+        "title": "Kaleidoscope",
+        "duration": 223,
+        "track_number": 10
+      },
+      {
+        "title": "Pink Pony Club",
+        "duration": 258,
+        "track_number": 11
+      },
+      {
+        "title": "Naked in Manhattan",
+        "duration": 211,
+        "track_number": 12
+      },
+      {
+        "title": "California",
+        "duration": 198,
+        "track_number": 13
+      },
+      {
+        "title": "Guilty Pleasure",
+        "duration": 225,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 8
+  },
+  "Blonde|Frank Ocean|2016": {
+    "source": "musicbrainz",
+    "mbid": "b6981b3a-00a1-414b-a149-f3e17c7df060",
+    "cover_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/43618141393-500.jpg",
+    "matched_title": "Blonde",
+    "matched_artist": "Frank Ocean",
+    "matched_year": 2016,
+    "tracks": [
+      {
+        "title": "Nikes",
+        "duration": 314,
+        "track_number": 1
+      },
+      {
+        "title": "Ivy",
+        "duration": 249,
+        "track_number": 2
+      },
+      {
+        "title": "Pink + White",
+        "duration": 185,
+        "track_number": 3
+      },
+      {
+        "title": "Be Yourself",
+        "duration": 87,
+        "track_number": 4
+      },
+      {
+        "title": "Solo",
+        "duration": 257,
+        "track_number": 5
+      },
+      {
+        "title": "Skyline To",
+        "duration": 185,
+        "track_number": 6
+      },
+      {
+        "title": "Self Control",
+        "duration": 250,
+        "track_number": 7
+      },
+      {
+        "title": "Good Guy",
+        "duration": 67,
+        "track_number": 8
+      },
+      {
+        "title": "Nights",
+        "duration": 307,
+        "track_number": 9
+      },
+      {
+        "title": "Solo (reprise)",
+        "duration": 79,
+        "track_number": 10
+      },
+      {
+        "title": "Pretty Sweet",
+        "duration": 158,
+        "track_number": 11
+      },
+      {
+        "title": "Facebook Story",
+        "duration": 69,
+        "track_number": 12
+      },
+      {
+        "title": "Close to You",
+        "duration": 86,
+        "track_number": 13
+      },
+      {
+        "title": "White Ferrari",
+        "duration": 249,
+        "track_number": 14
+      },
+      {
+        "title": "Seigfried",
+        "duration": 335,
+        "track_number": 15
+      },
+      {
+        "title": "Godspeed",
+        "duration": 178,
+        "track_number": 16
+      },
+      {
+        "title": "Futura Free",
+        "duration": 564,
+        "track_number": 17
+      }
+    ],
+    "billboard_rank": 9
+  },
+  "Currents|Tame Impala|2015": {
+    "source": "musicbrainz",
+    "mbid": "031ecbde-35e1-4d3a-917f-f89f31aca1c9",
+    "cover_url": "http://coverartarchive.org/release/031ecbde-35e1-4d3a-917f-f89f31aca1c9/24206709908-500.jpg",
+    "matched_title": "Currents",
+    "matched_artist": "Tame Impala",
+    "matched_year": 2015,
+    "tracks": [
+      {
+        "title": "Let It Happen",
+        "duration": 466,
+        "track_number": 1
+      },
+      {
+        "title": "Nangs",
+        "duration": 107,
+        "track_number": 2
+      },
+      {
+        "title": "The Moment",
+        "duration": 255,
+        "track_number": 3
+      },
+      {
+        "title": "Yes I’m Changing",
+        "duration": 270,
+        "track_number": 4
+      },
+      {
+        "title": "Eventually",
+        "duration": 319,
+        "track_number": 5
+      },
+      {
+        "title": "Gossip",
+        "duration": 55,
+        "track_number": 6
+      },
+      {
+        "title": "The Less I Know the Better",
+        "duration": 218,
+        "track_number": 7
+      },
+      {
+        "title": "Past Life",
+        "duration": 227,
+        "track_number": 8
+      },
+      {
+        "title": "Disciples",
+        "duration": 108,
+        "track_number": 9
+      },
+      {
+        "title": "Cause I’m a Man",
+        "duration": 241,
+        "track_number": 10
+      },
+      {
+        "title": "Reality in Motion",
+        "duration": 252,
+        "track_number": 11
+      },
+      {
+        "title": "Love/Paranoia",
+        "duration": 186,
+        "track_number": 12
+      },
+      {
+        "title": "New Person, Same Old Mistakes",
+        "duration": 362,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 10
+  },
+  "Melodrama|Lorde|2017": {
+    "source": "musicbrainz",
+    "mbid": "0da8f3d1-b43e-457d-ac03-574e7ec820b7",
+    "cover_url": "https://coverartarchive.org/release/0da8f3d1-b43e-457d-ac03-574e7ec820b7/43717202960-500.jpg",
+    "matched_title": "Melodrama",
+    "matched_artist": "Lorde",
+    "matched_year": 2017,
+    "tracks": [
+      {
+        "title": "Green Light",
+        "duration": 235,
+        "track_number": 1
+      },
+      {
+        "title": "Sober",
+        "duration": 197,
+        "track_number": 2
+      },
+      {
+        "title": "Homemade Dynamite",
+        "duration": 190,
+        "track_number": 3
+      },
+      {
+        "title": "The Louvre",
+        "duration": 271,
+        "track_number": 4
+      },
+      {
+        "title": "Liability",
+        "duration": 172,
+        "track_number": 5
+      },
+      {
+        "title": "Hard Feelings/Loveless",
+        "duration": 367,
+        "track_number": 6
+      },
+      {
+        "title": "Sober II (Melodrama)",
+        "duration": 179,
+        "track_number": 7
+      },
+      {
+        "title": "Writer in the Dark",
+        "duration": 217,
+        "track_number": 8
+      },
+      {
+        "title": "Supercut",
+        "duration": 278,
+        "track_number": 9
+      },
+      {
+        "title": "Liability (reprise)",
+        "duration": 136,
+        "track_number": 10
+      },
+      {
+        "title": "Perfect Places",
+        "duration": 222,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 11
+  },
+  "To Pimp a Butterfly|Kendrick Lamar|2015": {
+    "source": "musicbrainz",
+    "mbid": "866c59a1-9e25-4859-a360-04ceec3f6108",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/3cb4c99dc0f8b954b8b7470e72df8152/500x500-000000-80-0-0.jpg",
+    "matched_title": "To Pimp a Butterfly",
+    "matched_artist": "Kendrick Lamar",
+    "matched_year": 2015,
+    "tracks": [
+      {
+        "title": "Wesley’s Theory",
+        "duration": 287,
+        "track_number": 1
+      },
+      {
+        "title": "For Free? (interlude)",
+        "duration": 131,
+        "track_number": 2
+      },
+      {
+        "title": "King Kunta",
+        "duration": 235,
+        "track_number": 3
+      },
+      {
+        "title": "Institutionalized",
+        "duration": 272,
+        "track_number": 4
+      },
+      {
+        "title": "These Walls",
+        "duration": 301,
+        "track_number": 5
+      },
+      {
+        "title": "u",
+        "duration": 268,
+        "track_number": 6
+      },
+      {
+        "title": "Alright",
+        "duration": 219,
+        "track_number": 7
+      },
+      {
+        "title": "For Sale? (interlude)",
+        "duration": 292,
+        "track_number": 8
+      },
+      {
+        "title": "Momma",
+        "duration": 283,
+        "track_number": 9
+      },
+      {
+        "title": "Hood Politics",
+        "duration": 293,
+        "track_number": 10
+      },
+      {
+        "title": "How Much a Dollar Cost",
+        "duration": 262,
+        "track_number": 11
+      },
+      {
+        "title": "Complexion (A Zulu Love)",
+        "duration": 263,
+        "track_number": 12
+      },
+      {
+        "title": "The Blacker the Berry",
+        "duration": 329,
+        "track_number": 13
+      },
+      {
+        "title": "You Ain’t Gotta Lie (Momma Said)",
+        "duration": 242,
+        "track_number": 14
+      },
+      {
+        "title": "i",
+        "duration": 336,
+        "track_number": 15
+      },
+      {
+        "title": "Mortal Man",
+        "duration": 727,
+        "track_number": 16
+      }
+    ],
+    "billboard_rank": 12,
+    "cover_source": "deezer"
+  },
+  "Vespertine|Björk|2001": {
+    "source": "musicbrainz",
+    "mbid": "7bd378a9-e8bf-4914-ab60-b5adfc1c0876",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/4bd6b0232c2092faf145101453cb1051/500x500-000000-80-0-0.jpg",
+    "matched_title": "Vespertine",
+    "matched_artist": "Björk",
+    "matched_year": 2001,
+    "tracks": [
+      {
+        "title": "Hidden Place",
+        "duration": 285,
+        "track_number": 1
+      },
+      {
+        "title": "Pagan Poetry",
+        "duration": 318,
+        "track_number": 2
+      },
+      {
+        "title": "It’s Not Up to You",
+        "duration": 317,
+        "track_number": 3
+      },
+      {
+        "title": "Undo",
+        "duration": 339,
+        "track_number": 4
+      },
+      {
+        "title": "Harm of Will",
+        "duration": 286,
+        "track_number": 5
+      },
+      {
+        "title": "Hidden Place (edit)",
+        "duration": 242,
+        "track_number": 6
+      },
+      {
+        "title": "Our Hands",
+        "duration": 259,
+        "track_number": 7
+      },
+      {
+        "title": "Mouth",
+        "duration": 274,
+        "track_number": 8
+      },
+      {
+        "title": "Sun In",
+        "duration": 180,
+        "track_number": 9
+      },
+      {
+        "title": "Heirloom",
+        "duration": 313,
+        "track_number": 10
+      },
+      {
+        "title": "Unison",
+        "duration": 410,
+        "track_number": 11
+      },
+      {
+        "title": "Crave (Odd Duck mix)",
+        "duration": 181,
+        "track_number": 12
+      },
+      {
+        "title": "Generous Palmstroke",
+        "duration": 265,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 13,
+    "cover_source": "deezer"
+  },
+  "In Rainbows|Radiohead|2007": {
+    "source": "musicbrainz",
+    "mbid": "3b408cb5-7d51-4188-b07c-fabcf308cda3",
+    "cover_url": "http://coverartarchive.org/release/3b408cb5-7d51-4188-b07c-fabcf308cda3/32957124197-500.jpg",
+    "matched_title": "In Rainbows",
+    "matched_artist": "Radiohead",
+    "matched_year": 2007,
+    "tracks": [
+      {
+        "title": "15 Step",
+        "duration": 238,
+        "track_number": 1
+      },
+      {
+        "title": "Bodysnatchers",
+        "duration": 242,
+        "track_number": 2
+      },
+      {
+        "title": "Nude",
+        "duration": 255,
+        "track_number": 3
+      },
+      {
+        "title": "Weird Fishes/Arpeggi",
+        "duration": 318,
+        "track_number": 4
+      },
+      {
+        "title": "All I Need",
+        "duration": 229,
+        "track_number": 5
+      },
+      {
+        "title": "Faust Arp",
+        "duration": 130,
+        "track_number": 6
+      },
+      {
+        "title": "Reckoner",
+        "duration": 290,
+        "track_number": 7
+      },
+      {
+        "title": "House of Cards",
+        "duration": 328,
+        "track_number": 8
+      },
+      {
+        "title": "Jigsaw Falling Into Place",
+        "duration": 249,
+        "track_number": 9
+      },
+      {
+        "title": "Videotape",
+        "duration": 283,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 14
+  },
+  "Titanic Rising|Weyes Blood|2019": {
+    "source": "musicbrainz",
+    "mbid": "fda29280-78f2-4e03-8108-f34a4cf5aae9",
+    "cover_url": "http://coverartarchive.org/release/fda29280-78f2-4e03-8108-f34a4cf5aae9/38028719330-500.jpg",
+    "matched_title": "Titanic Rising",
+    "matched_artist": "Weyes Blood",
+    "matched_year": 2019,
+    "tracks": [
+      {
+        "title": "A Lot’s Gonna Change",
+        "duration": 262,
+        "track_number": 1
+      },
+      {
+        "title": "Andromeda",
+        "duration": 280,
+        "track_number": 2
+      },
+      {
+        "title": "Everyday",
+        "duration": 307,
+        "track_number": 3
+      },
+      {
+        "title": "Something to Believe",
+        "duration": 286,
+        "track_number": 4
+      },
+      {
+        "title": "Titanic Rising",
+        "duration": 96,
+        "track_number": 5
+      },
+      {
+        "title": "Movies",
+        "duration": 354,
+        "track_number": 6
+      },
+      {
+        "title": "Mirror Forever",
+        "duration": 306,
+        "track_number": 7
+      },
+      {
+        "title": "Wild Time",
+        "duration": 369,
+        "track_number": 8
+      },
+      {
+        "title": "Picture Me Better",
+        "duration": 222,
+        "track_number": 9
+      },
+      {
+        "title": "Nearer to Thee",
+        "duration": 66,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 15
+  },
+  "Sometimes I Might Be Introvert|Little Simz|2021": {
+    "source": "musicbrainz",
+    "mbid": "e36fa449-19f3-46cf-9c24-01a262a6194c",
+    "cover_url": "http://coverartarchive.org/release/e36fa449-19f3-46cf-9c24-01a262a6194c/30926833215-500.jpg",
+    "matched_title": "Sometimes I Might Be Introvert",
+    "matched_artist": "Little Simz",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "Introvert",
+        "duration": 362,
+        "track_number": 1
+      },
+      {
+        "title": "Woman",
+        "duration": 269,
+        "track_number": 2
+      },
+      {
+        "title": "Two Worlds Apart",
+        "duration": 178,
+        "track_number": 3
+      },
+      {
+        "title": "I Love You, I Hate You",
+        "duration": 255,
+        "track_number": 4
+      },
+      {
+        "title": "Little Q, Pt. 1 (interlude)",
+        "duration": 68,
+        "track_number": 5
+      },
+      {
+        "title": "Little Q, Pt. 2",
+        "duration": 226,
+        "track_number": 6
+      },
+      {
+        "title": "Gems (interlude)",
+        "duration": 177,
+        "track_number": 7
+      },
+      {
+        "title": "Speed",
+        "duration": 160,
+        "track_number": 8
+      },
+      {
+        "title": "Standing Ovation",
+        "duration": 248,
+        "track_number": 9
+      },
+      {
+        "title": "I See You",
+        "duration": 238,
+        "track_number": 10
+      },
+      {
+        "title": "The Rapper That Came to Tea (interlude)",
+        "duration": 165,
+        "track_number": 11
+      },
+      {
+        "title": "Rollin Stone",
+        "duration": 219,
+        "track_number": 12
+      },
+      {
+        "title": "Protect My Energy",
+        "duration": 188,
+        "track_number": 13
+      },
+      {
+        "title": "Never Make Promises (interlude)",
+        "duration": 62,
+        "track_number": 14
+      },
+      {
+        "title": "Point and Kill",
+        "duration": 185,
+        "track_number": 15
+      },
+      {
+        "title": "Fear No Man",
+        "duration": 243,
+        "track_number": 16
+      },
+      {
+        "title": "The Garden (interlude)",
+        "duration": 158,
+        "track_number": 17
+      },
+      {
+        "title": "How Did You Get Here",
+        "duration": 296,
+        "track_number": 18
+      },
+      {
+        "title": "Miss Understood",
+        "duration": 206,
+        "track_number": 19
+      }
+    ],
+    "billboard_rank": 16
+  },
+  "The Tortured Poets Department|Taylor Swift|2024": {
+    "source": "musicbrainz",
+    "mbid": "92011a5d-479f-449f-87a6-0db49bf435fd",
+    "cover_url": "https://coverartarchive.org/release/92011a5d-479f-449f-87a6-0db49bf435fd/39672849627-500.jpg",
+    "matched_title": "THE TORTURED POETS DEPARTMENT",
+    "matched_artist": "Taylor Swift",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Fortnight",
+        "duration": 229,
+        "track_number": 1
+      },
+      {
+        "title": "The Tortured Poets Department",
+        "duration": 293,
+        "track_number": 2
+      },
+      {
+        "title": "My Boy Only Breaks His Favorite Toys",
+        "duration": 204,
+        "track_number": 3
+      },
+      {
+        "title": "Down Bad",
+        "duration": 261,
+        "track_number": 4
+      },
+      {
+        "title": "So Long, London",
+        "duration": 263,
+        "track_number": 5
+      },
+      {
+        "title": "But Daddy I Love Him",
+        "duration": 340,
+        "track_number": 6
+      },
+      {
+        "title": "Fresh Out the Slammer",
+        "duration": 211,
+        "track_number": 7
+      },
+      {
+        "title": "Florida!!!",
+        "duration": 215,
+        "track_number": 8
+      },
+      {
+        "title": "Guilty as Sin?",
+        "duration": 254,
+        "track_number": 9
+      },
+      {
+        "title": "Who’s Afraid of Little Old Me?",
+        "duration": 334,
+        "track_number": 10
+      },
+      {
+        "title": "I Can Fix Him (No Really I Can)",
+        "duration": 156,
+        "track_number": 11
+      },
+      {
+        "title": "loml",
+        "duration": 277,
+        "track_number": 12
+      },
+      {
+        "title": "I Can Do It With a Broken Heart",
+        "duration": 218,
+        "track_number": 13
+      },
+      {
+        "title": "The Smallest Man Who Ever Lived",
+        "duration": 246,
+        "track_number": 14
+      },
+      {
+        "title": "The Alchemy",
+        "duration": 197,
+        "track_number": 15
+      },
+      {
+        "title": "Clara Bow",
+        "duration": 217,
+        "track_number": 16
+      },
+      {
+        "title": "The Manuscript",
+        "duration": 225,
+        "track_number": 17
+      }
+    ],
+    "billboard_rank": 17
+  },
+  "Short n' Sweet|Sabrina Carpenter|2024": {
+    "source": "musicbrainz",
+    "mbid": "9a47c140-b360-46af-af60-b878b0bf742c",
+    "cover_url": "https://coverartarchive.org/release/9a47c140-b360-46af-af60-b878b0bf742c/39690134568-500.jpg",
+    "matched_title": "Short n' Sweet",
+    "matched_artist": "Sabrina Carpenter",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Taste",
+        "duration": 157,
+        "track_number": 1
+      },
+      {
+        "title": "Please Please Please",
+        "duration": 186,
+        "track_number": 2
+      },
+      {
+        "title": "Good Graces",
+        "duration": 185,
+        "track_number": 3
+      },
+      {
+        "title": "Sharpest Tool",
+        "duration": 218,
+        "track_number": 4
+      },
+      {
+        "title": "Coincidence",
+        "duration": 164,
+        "track_number": 5
+      },
+      {
+        "title": "Bed Chem",
+        "duration": 171,
+        "track_number": 6
+      },
+      {
+        "title": "Espresso",
+        "duration": 175,
+        "track_number": 7
+      },
+      {
+        "title": "Dumb & Poetic",
+        "duration": 133,
+        "track_number": 8
+      },
+      {
+        "title": "Slim Pickins",
+        "duration": 152,
+        "track_number": 9
+      },
+      {
+        "title": "Juno",
+        "duration": 223,
+        "track_number": 10
+      },
+      {
+        "title": "Lie to Girls",
+        "duration": 202,
+        "track_number": 11
+      },
+      {
+        "title": "Don’t Smile",
+        "duration": 206,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 18
+  },
+  "Eternal Sunshine|Ariana Grande|2024": {
+    "source": "musicbrainz",
+    "mbid": "59690caf-68ea-4228-b4ad-1f823570d46e",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/9349b2fcb4bd060060a33f054a619e83/500x500-000000-80-0-0.jpg",
+    "matched_title": "eternal sunshine",
+    "matched_artist": "Ariana Grande",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "intro (end of the world)",
+        "duration": 92,
+        "track_number": 1
+      },
+      {
+        "title": "bye",
+        "duration": 164,
+        "track_number": 2
+      },
+      {
+        "title": "don’t wanna break up again",
+        "duration": 174,
+        "track_number": 3
+      },
+      {
+        "title": "Saturn Returns Interlude",
+        "duration": 42,
+        "track_number": 4
+      },
+      {
+        "title": "eternal sunshine",
+        "duration": 210,
+        "track_number": 5
+      },
+      {
+        "title": "supernatural",
+        "duration": 163,
+        "track_number": 6
+      },
+      {
+        "title": "true story",
+        "duration": 163,
+        "track_number": 7
+      },
+      {
+        "title": "the boy is mine",
+        "duration": 173,
+        "track_number": 8
+      },
+      {
+        "title": "yes, and?",
+        "duration": 214,
+        "track_number": 9
+      },
+      {
+        "title": "we can’t be friends (wait for your love)",
+        "duration": 228,
+        "track_number": 10
+      },
+      {
+        "title": "i wish i hated you",
+        "duration": 153,
+        "track_number": 11
+      },
+      {
+        "title": "imperfect for you",
+        "duration": 182,
+        "track_number": 12
+      },
+      {
+        "title": "ordinary things",
+        "duration": 168,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 19,
+    "cover_source": "deezer"
+  },
+  "Diamond Jubilee|Cindy Lee|2024": {
+    "source": "musicbrainz",
+    "mbid": "135c3530-ee97-44ee-ab00-0aa022fe00e4",
+    "cover_url": null,
+    "matched_title": "Diamond Jubilee",
+    "matched_artist": "Cindy Lee",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Diamond Jubilee",
+        "duration": 322,
+        "track_number": 1
+      },
+      {
+        "title": "Glitz",
+        "duration": 250,
+        "track_number": 2
+      },
+      {
+        "title": "Baby Blue",
+        "duration": 235,
+        "track_number": 3
+      },
+      {
+        "title": "Dreams of You",
+        "duration": 166,
+        "track_number": 4
+      },
+      {
+        "title": "All I Want Is You",
+        "duration": 180,
+        "track_number": 5
+      },
+      {
+        "title": "Dallas",
+        "duration": 195,
+        "track_number": 6
+      },
+      {
+        "title": "Olive Drab",
+        "duration": 91,
+        "track_number": 7
+      },
+      {
+        "title": "Always Dreaming",
+        "duration": 223,
+        "track_number": 8
+      },
+      {
+        "title": "Wild One",
+        "duration": 124,
+        "track_number": 9
+      },
+      {
+        "title": "Flesh and Blood",
+        "duration": 313,
+        "track_number": 10
+      },
+      {
+        "title": "Le machiniste fantôme",
+        "duration": 62,
+        "track_number": 11
+      },
+      {
+        "title": "Kingdom Come",
+        "duration": 282,
+        "track_number": 12
+      },
+      {
+        "title": "Demon Bitch",
+        "duration": 264,
+        "track_number": 13
+      },
+      {
+        "title": "I Have My Doubts",
+        "duration": 212,
+        "track_number": 14
+      },
+      {
+        "title": "Til Polarity’s End",
+        "duration": 244,
+        "track_number": 15
+      },
+      {
+        "title": "Realistik Heaven",
+        "duration": 222,
+        "track_number": 16
+      },
+      {
+        "title": "Stone Faces",
+        "duration": 262,
+        "track_number": 17
+      },
+      {
+        "title": "GAYBLEVISION",
+        "duration": 176,
+        "track_number": 18
+      },
+      {
+        "title": "Dracula",
+        "duration": 368,
+        "track_number": 19
+      },
+      {
+        "title": "Lockstepp",
+        "duration": 279,
+        "track_number": 20
+      },
+      {
+        "title": "Government Cheque",
+        "duration": 306,
+        "track_number": 21
+      },
+      {
+        "title": "Deepest Blue",
+        "duration": 177,
+        "track_number": 22
+      },
+      {
+        "title": "To Heal This Wounded Heart",
+        "duration": 213,
+        "track_number": 23
+      },
+      {
+        "title": "Golden Microphone",
+        "duration": 169,
+        "track_number": 24
+      },
+      {
+        "title": "If You Hear Me Crying",
+        "duration": 241,
+        "track_number": 25
+      },
+      {
+        "title": "Darling of the Diskoteque",
+        "duration": 184,
+        "track_number": 26
+      },
+      {
+        "title": "Don’t Tell Me I’m Wrong",
+        "duration": 288,
+        "track_number": 27
+      },
+      {
+        "title": "What’s It Going to Take",
+        "duration": 209,
+        "track_number": 28
+      },
+      {
+        "title": "Wild Rose",
+        "duration": 230,
+        "track_number": 29
+      },
+      {
+        "title": "Durham City Limit",
+        "duration": 324,
+        "track_number": 30
+      },
+      {
+        "title": "Crime of Passion",
+        "duration": 193,
+        "track_number": 31
+      },
+      {
+        "title": "24/7 Heaven",
+        "duration": 325,
+        "track_number": 32
+      }
+    ],
+    "billboard_rank": 20,
+    "cover_source": null
+  },
+  "Only God Was Above Us|Vampire Weekend|2024": {
+    "source": "musicbrainz",
+    "mbid": "6398cc20-5e20-4d67-aa42-61e30fa12dbe",
+    "cover_url": "https://coverartarchive.org/release/6398cc20-5e20-4d67-aa42-61e30fa12dbe/38483164953-500.jpg",
+    "matched_title": "Only God Was Above Us",
+    "matched_artist": "Vampire Weekend",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Ice Cream Piano",
+        "duration": 216,
+        "track_number": 1
+      },
+      {
+        "title": "Classical",
+        "duration": 260,
+        "track_number": 2
+      },
+      {
+        "title": "Capricorn",
+        "duration": 250,
+        "track_number": 3
+      },
+      {
+        "title": "Connect",
+        "duration": 310,
+        "track_number": 4
+      },
+      {
+        "title": "Prep‐School Gangsters",
+        "duration": 229,
+        "track_number": 5
+      },
+      {
+        "title": "The Surfer",
+        "duration": 347,
+        "track_number": 6
+      },
+      {
+        "title": "Gen‐X Cops",
+        "duration": 228,
+        "track_number": 7
+      },
+      {
+        "title": "Mary Boone",
+        "duration": 266,
+        "track_number": 8
+      },
+      {
+        "title": "Pravda",
+        "duration": 251,
+        "track_number": 9
+      },
+      {
+        "title": "Hope",
+        "duration": 478,
+        "track_number": 10
+      },
+      {
+        "title": "Broken Washing Machine",
+        "duration": 163,
+        "track_number": 11
+      },
+      {
+        "title": "Gen‐X Cops (acoustic)",
+        "duration": 191,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 21
+  },
+  "Blue Lips|ScHoolboy Q|2024": {
+    "source": "musicbrainz",
+    "mbid": "fe3e9efd-6c48-44c6-8981-a5d032b25465",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/4b57a92bbafb3992c2050d403d804da3/500x500-000000-80-0-0.jpg",
+    "matched_title": "BLUE LIPS",
+    "matched_artist": "ScHoolboy Q",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Funny Guy",
+        "duration": 158,
+        "track_number": 1
+      },
+      {
+        "title": "Pop",
+        "duration": 197,
+        "track_number": 2
+      },
+      {
+        "title": "THank god 4 me",
+        "duration": 177,
+        "track_number": 3
+      },
+      {
+        "title": "Blueslides",
+        "duration": 235,
+        "track_number": 4
+      },
+      {
+        "title": "Yeern 101",
+        "duration": 140,
+        "track_number": 5
+      },
+      {
+        "title": "Love Birds",
+        "duration": 235,
+        "track_number": 6
+      },
+      {
+        "title": "Movie",
+        "duration": 114,
+        "track_number": 7
+      },
+      {
+        "title": "Cooties",
+        "duration": 173,
+        "track_number": 8
+      },
+      {
+        "title": "oHio",
+        "duration": 291,
+        "track_number": 9
+      },
+      {
+        "title": "Foux",
+        "duration": 282,
+        "track_number": 10
+      },
+      {
+        "title": "First",
+        "duration": 246,
+        "track_number": 11
+      },
+      {
+        "title": "Nunu",
+        "duration": 167,
+        "track_number": 12
+      },
+      {
+        "title": "Back n Love",
+        "duration": 231,
+        "track_number": 13
+      },
+      {
+        "title": "Lost Times",
+        "duration": 173,
+        "track_number": 14
+      },
+      {
+        "title": "Germany 86’",
+        "duration": 127,
+        "track_number": 15
+      },
+      {
+        "title": "Time killers",
+        "duration": 157,
+        "track_number": 16
+      },
+      {
+        "title": "Pig feet",
+        "duration": 195,
+        "track_number": 17
+      },
+      {
+        "title": "Smile",
+        "duration": 72,
+        "track_number": 18
+      }
+    ],
+    "billboard_rank": 22,
+    "cover_source": "deezer"
+  },
+  "Two Star & The Dream Police|Mk.gee|2024": {
+    "source": "musicbrainz",
+    "mbid": "ec873d45-a37c-4738-b817-36d8cc3591e9",
+    "cover_url": "https://coverartarchive.org/release/ec873d45-a37c-4738-b817-36d8cc3591e9/37914397830-500.jpg",
+    "matched_title": "Two Star & The Dream Police",
+    "matched_artist": "Mk.gee",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "New Low",
+        "duration": 127,
+        "track_number": 1
+      },
+      {
+        "title": "How many miles",
+        "duration": 142,
+        "track_number": 2
+      },
+      {
+        "title": "Are You Looking Up",
+        "duration": 167,
+        "track_number": 3
+      },
+      {
+        "title": "DNM",
+        "duration": 118,
+        "track_number": 4
+      },
+      {
+        "title": "You got it",
+        "duration": 135,
+        "track_number": 5
+      },
+      {
+        "title": "Rylee & I",
+        "duration": 142,
+        "track_number": 6
+      },
+      {
+        "title": "Candy",
+        "duration": 175,
+        "track_number": 7
+      },
+      {
+        "title": "I Want",
+        "duration": 219,
+        "track_number": 8
+      },
+      {
+        "title": "Alesis",
+        "duration": 198,
+        "track_number": 9
+      },
+      {
+        "title": "Breakthespell",
+        "duration": 267,
+        "track_number": 10
+      },
+      {
+        "title": "Little Bit More",
+        "duration": 139,
+        "track_number": 11
+      },
+      {
+        "title": "Dream police",
+        "duration": 170,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 23
+  },
+  "All Born Screaming|St. Vincent|2024": {
+    "source": "musicbrainz",
+    "mbid": "1aadceda-7845-401e-a7a8-51ce87a80876",
+    "cover_url": "https://coverartarchive.org/release/1aadceda-7845-401e-a7a8-51ce87a80876/38663320338-500.jpg",
+    "matched_title": "All Born Screaming",
+    "matched_artist": "St. Vincent",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Hell Is Near",
+        "duration": 249,
+        "track_number": 1
+      },
+      {
+        "title": "Reckless",
+        "duration": 237,
+        "track_number": 2
+      },
+      {
+        "title": "Broken Man",
+        "duration": 202,
+        "track_number": 3
+      },
+      {
+        "title": "Flea",
+        "duration": 225,
+        "track_number": 4
+      },
+      {
+        "title": "Big Time Nothing",
+        "duration": 179,
+        "track_number": 5
+      },
+      {
+        "title": "Violent Times",
+        "duration": 237,
+        "track_number": 6
+      },
+      {
+        "title": "The Power’s Out",
+        "duration": 278,
+        "track_number": 7
+      },
+      {
+        "title": "Sweetest Fruit",
+        "duration": 236,
+        "track_number": 8
+      },
+      {
+        "title": "So Many Planets",
+        "duration": 215,
+        "track_number": 9
+      },
+      {
+        "title": "All Born Screaming",
+        "duration": 415,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 24
+  },
+  "Mahashmashana|Father John Misty|2024": {
+    "source": "musicbrainz",
+    "mbid": "52cc56c0-1d35-41c8-bc9e-130efa002a05",
+    "cover_url": "https://coverartarchive.org/release/52cc56c0-1d35-41c8-bc9e-130efa002a05/40500596407-500.jpg",
+    "matched_title": "Mahashmashana",
+    "matched_artist": "Father John Misty",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Mahashmashana",
+        "duration": 561,
+        "track_number": 1
+      },
+      {
+        "title": "She Cleans Up",
+        "duration": 266,
+        "track_number": 2
+      },
+      {
+        "title": "Josh Tillman and the Accidental Dose",
+        "duration": 312,
+        "track_number": 3
+      },
+      {
+        "title": "Mental Health",
+        "duration": 388,
+        "track_number": 4
+      },
+      {
+        "title": "Screamland",
+        "duration": 412,
+        "track_number": 5
+      },
+      {
+        "title": "Being You",
+        "duration": 313,
+        "track_number": 6
+      },
+      {
+        "title": "I Guess Time Just Makes Fools of Us All",
+        "duration": 516,
+        "track_number": 7
+      },
+      {
+        "title": "Summer’s Gone",
+        "duration": 260,
+        "track_number": 8
+      }
+    ],
+    "billboard_rank": 25
+  },
+  "Chromakopia|Tyler, The Creator|2024": {
+    "source": "musicbrainz",
+    "mbid": "12bd0263-9907-4fb4-964a-b94d8784bc30",
+    "cover_url": "https://coverartarchive.org/release/12bd0263-9907-4fb4-964a-b94d8784bc30/40389077819-500.jpg",
+    "matched_title": "CHROMAKOPIA",
+    "matched_artist": "Tyler, The Creator",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "St. Chroma",
+        "duration": 197,
+        "track_number": 1
+      },
+      {
+        "title": "Rah Tah Tah",
+        "duration": 165,
+        "track_number": 2
+      },
+      {
+        "title": "Noid",
+        "duration": 284,
+        "track_number": 3
+      },
+      {
+        "title": "Darling, I",
+        "duration": 253,
+        "track_number": 4
+      },
+      {
+        "title": "Hey Jane",
+        "duration": 240,
+        "track_number": 5
+      },
+      {
+        "title": "I Killed You",
+        "duration": 168,
+        "track_number": 6
+      },
+      {
+        "title": "Judge Judy",
+        "duration": 269,
+        "track_number": 7
+      },
+      {
+        "title": "Sticky",
+        "duration": 255,
+        "track_number": 8
+      },
+      {
+        "title": "Take Your Mask Off",
+        "duration": 253,
+        "track_number": 9
+      },
+      {
+        "title": "Tomorrow",
+        "duration": 182,
+        "track_number": 10
+      },
+      {
+        "title": "Mother",
+        "duration": 241,
+        "track_number": 11
+      },
+      {
+        "title": "Thought I Was Dead",
+        "duration": 207,
+        "track_number": 12
+      },
+      {
+        "title": "Like Him",
+        "duration": 278,
+        "track_number": 13
+      },
+      {
+        "title": "I Hope You Find Your Way Home",
+        "duration": 269,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 26
+  },
+  "Wall of Eyes|The Smile|2024": {
+    "source": "musicbrainz",
+    "mbid": "07de8572-913b-4e23-9df0-7fca4bcbf5fe",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/1e199c0b435998ef476026180858413f/500x500-000000-80-0-0.jpg",
+    "matched_title": "Wall of Eyes",
+    "matched_artist": "The Smile",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "Wall of Eyes",
+        "duration": 307,
+        "track_number": 1
+      },
+      {
+        "title": "Teleharmonic",
+        "duration": 310,
+        "track_number": 2
+      },
+      {
+        "title": "Read the Room",
+        "duration": 314,
+        "track_number": 3
+      },
+      {
+        "title": "Under Our Pillows",
+        "duration": 374,
+        "track_number": 4
+      },
+      {
+        "title": "Friend of a Friend",
+        "duration": 275,
+        "track_number": 5
+      },
+      {
+        "title": "I Quit",
+        "duration": 332,
+        "track_number": 6
+      },
+      {
+        "title": "Bending Hectic",
+        "duration": 484,
+        "track_number": 7
+      },
+      {
+        "title": "You Know Me!",
+        "duration": 324,
+        "track_number": 8
+      }
+    ],
+    "billboard_rank": 27,
+    "cover_source": "deezer"
+  },
+  "Radical Optimism|Dua Lipa|2024": {
+    "source": "musicbrainz",
+    "mbid": "44798f41-8981-4d9c-8c5f-681db5e657dd",
+    "cover_url": "https://coverartarchive.org/release/44798f41-8981-4d9c-8c5f-681db5e657dd/38723731754-500.jpg",
+    "matched_title": "Radical Optimism",
+    "matched_artist": "Dua Lipa",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "End of an Era",
+        "duration": 196,
+        "track_number": 1
+      },
+      {
+        "title": "Houdini",
+        "duration": 185,
+        "track_number": 2
+      },
+      {
+        "title": "Training Season",
+        "duration": 209,
+        "track_number": 3
+      },
+      {
+        "title": "These Walls",
+        "duration": 217,
+        "track_number": 4
+      },
+      {
+        "title": "Whatcha Doing",
+        "duration": 198,
+        "track_number": 5
+      },
+      {
+        "title": "French Exit",
+        "duration": 201,
+        "track_number": 6
+      },
+      {
+        "title": "Illusion",
+        "duration": 188,
+        "track_number": 7
+      },
+      {
+        "title": "Falling Forever",
+        "duration": 223,
+        "track_number": 8
+      },
+      {
+        "title": "Anything for Love",
+        "duration": 141,
+        "track_number": 9
+      },
+      {
+        "title": "Maria",
+        "duration": 187,
+        "track_number": 10
+      },
+      {
+        "title": "Happy for You",
+        "duration": 245,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 28
+  },
+  "We Don't Trust You|Future & Metro Boomin|2024": {
+    "source": "musicbrainz",
+    "mbid": "833a6bf7-678f-4b17-8c5f-e774a1aadf04",
+    "cover_url": "https://coverartarchive.org/release/833a6bf7-678f-4b17-8c5f-e774a1aadf04/39236926650-500.jpg",
+    "matched_title": "WE DON’T TRUST YOU",
+    "matched_artist": "Future",
+    "matched_year": 2024,
+    "tracks": [
+      {
+        "title": "We Don’t Trust You",
+        "duration": 226,
+        "track_number": 1
+      },
+      {
+        "title": "Young Metro",
+        "duration": 205,
+        "track_number": 2
+      },
+      {
+        "title": "Ice Attack",
+        "duration": 199,
+        "track_number": 3
+      },
+      {
+        "title": "Type Shit",
+        "duration": 228,
+        "track_number": 4
+      },
+      {
+        "title": "Claustrophobic",
+        "duration": 222,
+        "track_number": 5
+      },
+      {
+        "title": "Like That",
+        "duration": 268,
+        "track_number": 6
+      },
+      {
+        "title": "Slimed In",
+        "duration": 195,
+        "track_number": 7
+      },
+      {
+        "title": "Magic Don Juan (Princess Diana)",
+        "duration": 221,
+        "track_number": 8
+      },
+      {
+        "title": "Cinderella",
+        "duration": 170,
+        "track_number": 9
+      },
+      {
+        "title": "Runnin Outta Time",
+        "duration": 205,
+        "track_number": 10
+      },
+      {
+        "title": "Fried (She a Vibe)",
+        "duration": 210,
+        "track_number": 11
+      },
+      {
+        "title": "Ain’t No Love",
+        "duration": 183,
+        "track_number": 12
+      },
+      {
+        "title": "Everyday Hustle",
+        "duration": 227,
+        "track_number": 13
+      },
+      {
+        "title": "GTA",
+        "duration": 233,
+        "track_number": 14
+      },
+      {
+        "title": "Seen it All",
+        "duration": 179,
+        "track_number": 15
+      },
+      {
+        "title": "WTFYM",
+        "duration": 293,
+        "track_number": 16
+      },
+      {
+        "title": "Where My Twin @",
+        "duration": 123,
+        "track_number": 17
+      }
+    ],
+    "billboard_rank": 29
+  },
+  "Midnights|Taylor Swift|2022": {
+    "source": "musicbrainz",
+    "mbid": "8d12edfe-9f37-4b92-bbbb-da9f79a432ef",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/f571cb780b339ec087201b1cea53c3d9/500x500-000000-80-0-0.jpg",
+    "matched_title": "Midnights",
+    "matched_artist": "Taylor Swift",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "Lavender Haze",
+        "duration": 202,
+        "track_number": 1
+      },
+      {
+        "title": "Maroon",
+        "duration": 218,
+        "track_number": 2
+      },
+      {
+        "title": "Anti‐Hero",
+        "duration": 201,
+        "track_number": 3
+      },
+      {
+        "title": "Snow on the Beach",
+        "duration": 256,
+        "track_number": 4
+      },
+      {
+        "title": "You’re on Your Own, Kid",
+        "duration": 194,
+        "track_number": 5
+      },
+      {
+        "title": "Midnight Rain",
+        "duration": 175,
+        "track_number": 6
+      },
+      {
+        "title": "Question…?",
+        "duration": 211,
+        "track_number": 7
+      },
+      {
+        "title": "Vigilante Shit",
+        "duration": 165,
+        "track_number": 8
+      },
+      {
+        "title": "Bejeweled",
+        "duration": 194,
+        "track_number": 9
+      },
+      {
+        "title": "Labyrinth",
+        "duration": 248,
+        "track_number": 10
+      },
+      {
+        "title": "Karma",
+        "duration": 205,
+        "track_number": 11
+      },
+      {
+        "title": "Sweet Nothing",
+        "duration": 188,
+        "track_number": 12
+      },
+      {
+        "title": "Mastermind",
+        "duration": 191,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 30,
+    "cover_source": "deezer"
+  },
+  "Renaissance|Beyoncé|2022": {
+    "source": "musicbrainz",
+    "mbid": "adc8b9d0-4f39-4251-a7bd-3b37cc7fe876",
+    "cover_url": "http://coverartarchive.org/release/adc8b9d0-4f39-4251-a7bd-3b37cc7fe876/33153680568-500.jpg",
+    "matched_title": "RENAISSANCE",
+    "matched_artist": "Beyoncé",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "I’M THAT GIRL",
+        "duration": 208,
+        "track_number": 1
+      },
+      {
+        "title": "COZY",
+        "duration": 210,
+        "track_number": 2
+      },
+      {
+        "title": "ALIEN SUPERSTAR",
+        "duration": 215,
+        "track_number": 3
+      },
+      {
+        "title": "CUFF IT",
+        "duration": 225,
+        "track_number": 4
+      },
+      {
+        "title": "ENERGY",
+        "duration": 117,
+        "track_number": 5
+      },
+      {
+        "title": "BREAK MY SOUL",
+        "duration": 278,
+        "track_number": 6
+      },
+      {
+        "title": "CHURCH GIRL",
+        "duration": 224,
+        "track_number": 7
+      },
+      {
+        "title": "PLASTIC OFF THE SOFA",
+        "duration": 254,
+        "track_number": 8
+      },
+      {
+        "title": "VIRGO’S GROOVE",
+        "duration": 369,
+        "track_number": 9
+      },
+      {
+        "title": "MOVE",
+        "duration": 203,
+        "track_number": 10
+      },
+      {
+        "title": "HEATED",
+        "duration": 261,
+        "track_number": 11
+      },
+      {
+        "title": "THIQUE",
+        "duration": 245,
+        "track_number": 12
+      },
+      {
+        "title": "ALL UP IN YOUR MIND",
+        "duration": 170,
+        "track_number": 13
+      },
+      {
+        "title": "AMERICA HAS A PROBLEM",
+        "duration": 199,
+        "track_number": 14
+      },
+      {
+        "title": "PURE/HONEY",
+        "duration": 288,
+        "track_number": 15
+      },
+      {
+        "title": "SUMMER RENAISSANCE",
+        "duration": 274,
+        "track_number": 16
+      }
+    ],
+    "billboard_rank": 31
+  },
+  "Mr. Morale & The Big Steppers|Kendrick Lamar|2022": {
+    "source": "musicbrainz",
+    "mbid": "75d4df07-50e3-4e15-abbf-3e44fbfdf7a8",
+    "cover_url": "https://coverartarchive.org/release/75d4df07-50e3-4e15-abbf-3e44fbfdf7a8/32685560947-500.jpg",
+    "matched_title": "Mr. Morale & the Big Steppers",
+    "matched_artist": "Kendrick Lamar",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "United in Grief",
+        "duration": 255,
+        "track_number": 1
+      },
+      {
+        "title": "N95",
+        "duration": 196,
+        "track_number": 2
+      },
+      {
+        "title": "Worldwide Steppers",
+        "duration": 203,
+        "track_number": 3
+      },
+      {
+        "title": "Die Hard",
+        "duration": 239,
+        "track_number": 4
+      },
+      {
+        "title": "Father Time",
+        "duration": 222,
+        "track_number": 5
+      },
+      {
+        "title": "Rich (interlude)",
+        "duration": 103,
+        "track_number": 6
+      },
+      {
+        "title": "Rich Spirit",
+        "duration": 202,
+        "track_number": 7
+      },
+      {
+        "title": "We Cry Together",
+        "duration": 341,
+        "track_number": 8
+      },
+      {
+        "title": "Purple Hearts",
+        "duration": 329,
+        "track_number": 9
+      },
+      {
+        "title": "Count Me Out",
+        "duration": 284,
+        "track_number": 10
+      },
+      {
+        "title": "Crown",
+        "duration": 264,
+        "track_number": 11
+      },
+      {
+        "title": "Silent Hill",
+        "duration": 221,
+        "track_number": 12
+      },
+      {
+        "title": "Savior (interlude)",
+        "duration": 153,
+        "track_number": 13
+      },
+      {
+        "title": "Savior",
+        "duration": 224,
+        "track_number": 14
+      },
+      {
+        "title": "Auntie Diaries",
+        "duration": 281,
+        "track_number": 15
+      },
+      {
+        "title": "Mr. Morale",
+        "duration": 211,
+        "track_number": 16
+      },
+      {
+        "title": "Mother I Sober",
+        "duration": 407,
+        "track_number": 17
+      },
+      {
+        "title": "Mirror",
+        "duration": 256,
+        "track_number": 18
+      }
+    ],
+    "billboard_rank": 32
+  },
+  "Ants From Up There|Black Country, New Road|2022": {
+    "source": "musicbrainz",
+    "mbid": "e101df5c-52e2-4dca-8a79-8f55986c5249",
+    "cover_url": "http://coverartarchive.org/release/e101df5c-52e2-4dca-8a79-8f55986c5249/34301329774-500.jpg",
+    "matched_title": "Ants From Up There",
+    "matched_artist": "Black Country, New Road",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "Intro",
+        "duration": 55,
+        "track_number": 1
+      },
+      {
+        "title": "Chaos Space Marine",
+        "duration": 217,
+        "track_number": 2
+      },
+      {
+        "title": "Concorde",
+        "duration": 364,
+        "track_number": 3
+      },
+      {
+        "title": "Bread Song",
+        "duration": 381,
+        "track_number": 4
+      },
+      {
+        "title": "Good Will Hunting",
+        "duration": 298,
+        "track_number": 5
+      },
+      {
+        "title": "Haldern",
+        "duration": 305,
+        "track_number": 6
+      },
+      {
+        "title": "Mark’s Theme",
+        "duration": 167,
+        "track_number": 7
+      },
+      {
+        "title": "The Place Where He Inserted the Blade",
+        "duration": 433,
+        "track_number": 8
+      },
+      {
+        "title": "Snow Globes",
+        "duration": 553,
+        "track_number": 9
+      },
+      {
+        "title": "Basketball Shoes",
+        "duration": 757,
+        "track_number": 10
+      },
+      {
+        "title": "Mark’s Theme",
+        "duration": 163,
+        "track_number": 11
+      },
+      {
+        "title": "Instrumental",
+        "duration": 326,
+        "track_number": 12
+      },
+      {
+        "title": "Athens France",
+        "duration": 410,
+        "track_number": 13
+      },
+      {
+        "title": "Science Fair",
+        "duration": 394,
+        "track_number": 14
+      },
+      {
+        "title": "Sunglasses",
+        "duration": 539,
+        "track_number": 15
+      },
+      {
+        "title": "Track X",
+        "duration": 309,
+        "track_number": 16
+      },
+      {
+        "title": "Opus",
+        "duration": 537,
+        "track_number": 17
+      },
+      {
+        "title": "Bread Song",
+        "duration": 416,
+        "track_number": 18
+      },
+      {
+        "title": "Basketball Shoes",
+        "duration": 804,
+        "track_number": 19
+      }
+    ],
+    "billboard_rank": 33
+  },
+  "Dragon New Warm Mountain I Believe in You|Big Thief|2022": {
+    "source": "musicbrainz",
+    "mbid": "94738bdb-59ca-4e5d-b3d9-708926b174a6",
+    "cover_url": "https://coverartarchive.org/release/94738bdb-59ca-4e5d-b3d9-708926b174a6/40469911304-500.jpg",
+    "matched_title": "Dragon New Warm Mountain I Believe in You",
+    "matched_artist": "Big Thief",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "Change",
+        "duration": 295,
+        "track_number": 1
+      },
+      {
+        "title": "Time Escaping",
+        "duration": 228,
+        "track_number": 2
+      },
+      {
+        "title": "Spud Infinity",
+        "duration": 334,
+        "track_number": 3
+      },
+      {
+        "title": "Certainty",
+        "duration": 187,
+        "track_number": 4
+      },
+      {
+        "title": "Dragon New Warm Mountain I Believe in You",
+        "duration": 283,
+        "track_number": 5
+      },
+      {
+        "title": "Sparrow",
+        "duration": 311,
+        "track_number": 6
+      },
+      {
+        "title": "Little Things",
+        "duration": 344,
+        "track_number": 7
+      },
+      {
+        "title": "Heavy Bend",
+        "duration": 96,
+        "track_number": 8
+      },
+      {
+        "title": "Flower of Blood",
+        "duration": 264,
+        "track_number": 9
+      },
+      {
+        "title": "Blurred View",
+        "duration": 246,
+        "track_number": 10
+      },
+      {
+        "title": "Red Moon",
+        "duration": 259,
+        "track_number": 11
+      },
+      {
+        "title": "Dried Roses",
+        "duration": 155,
+        "track_number": 12
+      },
+      {
+        "title": "No Reason",
+        "duration": 227,
+        "track_number": 13
+      },
+      {
+        "title": "Wake Me Up to Drive",
+        "duration": 223,
+        "track_number": 14
+      },
+      {
+        "title": "Promise Is a Pendulum",
+        "duration": 252,
+        "track_number": 15
+      },
+      {
+        "title": "12,000 Lines",
+        "duration": 179,
+        "track_number": 16
+      },
+      {
+        "title": "Simulation Swarm",
+        "duration": 252,
+        "track_number": 17
+      },
+      {
+        "title": "Love Love Love",
+        "duration": 253,
+        "track_number": 18
+      },
+      {
+        "title": "The Only Place",
+        "duration": 194,
+        "track_number": 19
+      },
+      {
+        "title": "Blue Lightning",
+        "duration": 231,
+        "track_number": 20
+      }
+    ],
+    "billboard_rank": 34
+  },
+  "Un Verano Sin Ti|Bad Bunny|2022": {
+    "source": "musicbrainz",
+    "mbid": "aded3f90-b758-451a-aad7-711d5985b05f",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+    "matched_title": "Un verano sin ti",
+    "matched_artist": "Bad Bunny",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "Moscow Mule",
+        "duration": 245,
+        "track_number": 1
+      },
+      {
+        "title": "Después de la playa",
+        "duration": 230,
+        "track_number": 2
+      },
+      {
+        "title": "Me porto bonito",
+        "duration": 178,
+        "track_number": 3
+      },
+      {
+        "title": "Tití me preguntó",
+        "duration": 243,
+        "track_number": 4
+      },
+      {
+        "title": "Un ratito",
+        "duration": 176,
+        "track_number": 5
+      },
+      {
+        "title": "Yo no soy celoso",
+        "duration": 230,
+        "track_number": 6
+      },
+      {
+        "title": "Tarot",
+        "duration": 237,
+        "track_number": 7
+      },
+      {
+        "title": "Neverita",
+        "duration": 173,
+        "track_number": 8
+      },
+      {
+        "title": "La corriente",
+        "duration": 198,
+        "track_number": 9
+      },
+      {
+        "title": "Efecto",
+        "duration": 213,
+        "track_number": 10
+      },
+      {
+        "title": "Party",
+        "duration": 227,
+        "track_number": 11
+      },
+      {
+        "title": "Aguacero",
+        "duration": 210,
+        "track_number": 12
+      },
+      {
+        "title": "Enséñame a bailar",
+        "duration": 176,
+        "track_number": 13
+      },
+      {
+        "title": "Ojitos lindos",
+        "duration": 258,
+        "track_number": 14
+      },
+      {
+        "title": "Dos mil 16",
+        "duration": 208,
+        "track_number": 15
+      },
+      {
+        "title": "El apagón",
+        "duration": 201,
+        "track_number": 16
+      },
+      {
+        "title": "Otro atardecer",
+        "duration": 244,
+        "track_number": 17
+      },
+      {
+        "title": "Un coco",
+        "duration": 196,
+        "track_number": 18
+      },
+      {
+        "title": "Andrea",
+        "duration": 339,
+        "track_number": 19
+      },
+      {
+        "title": "Me fui de vacaciones",
+        "duration": 180,
+        "track_number": 20
+      },
+      {
+        "title": "Un verano sin ti",
+        "duration": 148,
+        "track_number": 21
+      },
+      {
+        "title": "Agosto",
+        "duration": 139,
+        "track_number": 22
+      },
+      {
+        "title": "Callaíta",
+        "duration": 250,
+        "track_number": 23
+      }
+    ],
+    "billboard_rank": 35,
+    "cover_source": "deezer"
+  },
+  "Harry's House|Harry Styles|2022": {
+    "source": "musicbrainz",
+    "mbid": "fdc0eb03-919f-4b28-a770-1a514865ca73",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/b0e936124f59e669ddba02ebe5893f95/500x500-000000-80-0-0.jpg",
+    "matched_title": "Harry’s House",
+    "matched_artist": "Harry Styles",
+    "matched_year": 2022,
+    "tracks": [
+      {
+        "title": "Music for a Sushi Restaurant",
+        "duration": 194,
+        "track_number": 1
+      },
+      {
+        "title": "Late Night Talking",
+        "duration": 178,
+        "track_number": 2
+      },
+      {
+        "title": "Grapejuice",
+        "duration": 192,
+        "track_number": 3
+      },
+      {
+        "title": "As It Was",
+        "duration": 167,
+        "track_number": 4
+      },
+      {
+        "title": "Daylight",
+        "duration": 165,
+        "track_number": 5
+      },
+      {
+        "title": "Little Freak",
+        "duration": 202,
+        "track_number": 6
+      },
+      {
+        "title": "Matilda",
+        "duration": 246,
+        "track_number": 7
+      },
+      {
+        "title": "Cinema",
+        "duration": 244,
+        "track_number": 8
+      },
+      {
+        "title": "Daydreaming",
+        "duration": 187,
+        "track_number": 9
+      },
+      {
+        "title": "Keep Driving",
+        "duration": 140,
+        "track_number": 10
+      },
+      {
+        "title": "Satellite",
+        "duration": 219,
+        "track_number": 11
+      },
+      {
+        "title": "Boyfriends",
+        "duration": 195,
+        "track_number": 12
+      },
+      {
+        "title": "Love of My Life",
+        "duration": 192,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 36,
+    "cover_source": "deezer"
+  },
+  "Did You Know That There's a Tunnel Under Ocean Blvd|Lana Del Rey|2023": {
+    "source": "musicbrainz",
+    "mbid": "e8f6193b-ff97-40f1-a7a7-fa88c68b4730",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/0ae53c84250981214bcb7ca39f8c2195/500x500-000000-80-0-0.jpg",
+    "matched_title": "Did you know that there’s a tunnel under Ocean Blvd",
+    "matched_artist": "Lana Del Rey",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "The Grants",
+        "duration": 295,
+        "track_number": 1
+      },
+      {
+        "title": "Did you know that there’s a tunnel under Ocean Blvd",
+        "duration": 285,
+        "track_number": 2
+      },
+      {
+        "title": "Sweet",
+        "duration": 215,
+        "track_number": 3
+      },
+      {
+        "title": "A&W",
+        "duration": 434,
+        "track_number": 4
+      },
+      {
+        "title": "Judah Smith Interlude",
+        "duration": 277,
+        "track_number": 5
+      },
+      {
+        "title": "Candy Necklace",
+        "duration": 315,
+        "track_number": 6
+      },
+      {
+        "title": "Jon Batiste Interlude",
+        "duration": 213,
+        "track_number": 7
+      },
+      {
+        "title": "Kintsugi",
+        "duration": 379,
+        "track_number": 8
+      },
+      {
+        "title": "Fingertips",
+        "duration": 348,
+        "track_number": 9
+      },
+      {
+        "title": "Paris, Texas",
+        "duration": 207,
+        "track_number": 10
+      },
+      {
+        "title": "Grandfather please stand on the shoulders of my father while he’s deep‐sea fishing",
+        "duration": 240,
+        "track_number": 11
+      },
+      {
+        "title": "Let the Light In",
+        "duration": 278,
+        "track_number": 12
+      },
+      {
+        "title": "Margaret",
+        "duration": 340,
+        "track_number": 13
+      },
+      {
+        "title": "Fishtail",
+        "duration": 243,
+        "track_number": 14
+      },
+      {
+        "title": "Peppers",
+        "duration": 249,
+        "track_number": 15
+      },
+      {
+        "title": "Taco Truck × VB",
+        "duration": 353,
+        "track_number": 16
+      }
+    ],
+    "billboard_rank": 37,
+    "cover_source": "deezer"
+  },
+  "Desire I Want to Turn Into You|Caroline Polachek|2023": {
+    "source": "musicbrainz",
+    "mbid": "fee77552-7209-43fb-9bd9-609599aec466",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/67e9a8272d715c88adf400c554f68f33/500x500-000000-80-0-0.jpg",
+    "matched_title": "Desire, I Want to Turn Into You",
+    "matched_artist": "Caroline Polachek",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "Welcome to My Island",
+        "duration": 233,
+        "track_number": 1
+      },
+      {
+        "title": "Pretty in Possible",
+        "duration": 216,
+        "track_number": 2
+      },
+      {
+        "title": "Bunny Is a Rider",
+        "duration": 194,
+        "track_number": 3
+      },
+      {
+        "title": "Sunset",
+        "duration": 163,
+        "track_number": 4
+      },
+      {
+        "title": "Crude Drawing of an Angel",
+        "duration": 209,
+        "track_number": 5
+      },
+      {
+        "title": "I Believe",
+        "duration": 247,
+        "track_number": 6
+      },
+      {
+        "title": "Fly to You",
+        "duration": 245,
+        "track_number": 7
+      },
+      {
+        "title": "Blood and Butter",
+        "duration": 268,
+        "track_number": 8
+      },
+      {
+        "title": "Hopedrunk Everasking",
+        "duration": 199,
+        "track_number": 9
+      },
+      {
+        "title": "Butterfly Net",
+        "duration": 276,
+        "track_number": 10
+      },
+      {
+        "title": "Smoke",
+        "duration": 178,
+        "track_number": 11
+      },
+      {
+        "title": "Billions",
+        "duration": 298,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 38,
+    "cover_source": "deezer"
+  },
+  "GUTS|Olivia Rodrigo|2023": {
+    "source": "musicbrainz",
+    "mbid": "257ff064-281d-4c75-95b9-346c9d6b0cb1",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/4bb79214365c0049e031f5e2caae4752/500x500-000000-80-0-0.jpg",
+    "matched_title": "GUTS",
+    "matched_artist": "Olivia Rodrigo",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "all‐american bitch",
+        "duration": 166,
+        "track_number": 1
+      },
+      {
+        "title": "bad idea right?",
+        "duration": 185,
+        "track_number": 2
+      },
+      {
+        "title": "vampire",
+        "duration": 220,
+        "track_number": 3
+      },
+      {
+        "title": "lacy",
+        "duration": 177,
+        "track_number": 4
+      },
+      {
+        "title": "ballad of a homeschooled girl",
+        "duration": 203,
+        "track_number": 5
+      },
+      {
+        "title": "making the bed",
+        "duration": 199,
+        "track_number": 6
+      },
+      {
+        "title": "logical",
+        "duration": 232,
+        "track_number": 7
+      },
+      {
+        "title": "get him back!",
+        "duration": 211,
+        "track_number": 8
+      },
+      {
+        "title": "love is embarrassing",
+        "duration": 155,
+        "track_number": 9
+      },
+      {
+        "title": "the grudge",
+        "duration": 189,
+        "track_number": 10
+      },
+      {
+        "title": "pretty isn’t pretty",
+        "duration": 199,
+        "track_number": 11
+      },
+      {
+        "title": "teenage dream",
+        "duration": 222,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 39,
+    "cover_source": "deezer"
+  },
+  "Javelin|Sufjan Stevens|2023": {
+    "source": "musicbrainz",
+    "mbid": "cffc9bff-6253-4c5c-a0d8-55878b5edf1f",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/e27baa7ae983b626fc5434e3175e32c6/500x500-000000-80-0-0.jpg",
+    "matched_title": "Javelin",
+    "matched_artist": "Sufjan Stevens",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "Goodbye Evergreen",
+        "duration": 215,
+        "track_number": 1
+      },
+      {
+        "title": "A Running Start",
+        "duration": 261,
+        "track_number": 2
+      },
+      {
+        "title": "Will Anybody Ever Love Me?",
+        "duration": 249,
+        "track_number": 3
+      },
+      {
+        "title": "Everything That Rises",
+        "duration": 300,
+        "track_number": 4
+      },
+      {
+        "title": "Genuflecting Ghost",
+        "duration": 213,
+        "track_number": 5
+      },
+      {
+        "title": "My Red Little Fox",
+        "duration": 223,
+        "track_number": 6
+      },
+      {
+        "title": "So You Are Tired",
+        "duration": 290,
+        "track_number": 7
+      },
+      {
+        "title": "Javelin (To Have and to Hold)",
+        "duration": 113,
+        "track_number": 8
+      },
+      {
+        "title": "Shit Talk",
+        "duration": 511,
+        "track_number": 9
+      },
+      {
+        "title": "There’s a World",
+        "duration": 150,
+        "track_number": 10
+      },
+      {
+        "title": "Malthusian Mistress",
+        "duration": 94,
+        "track_number": 11
+      },
+      {
+        "title": "Is It My Fault?",
+        "duration": 141,
+        "track_number": 12
+      },
+      {
+        "title": "Fireproof",
+        "duration": 123,
+        "track_number": 13
+      },
+      {
+        "title": "Old Man of the Lake",
+        "duration": 175,
+        "track_number": 14
+      },
+      {
+        "title": "The Kiss of Niobe",
+        "duration": 194,
+        "track_number": 15
+      }
+    ],
+    "billboard_rank": 40,
+    "cover_source": "deezer"
+  },
+  "Lahai|Sampha|2023": {
+    "source": "musicbrainz",
+    "mbid": "95c818bc-e4fa-4e41-b17a-95cddf12a7ba",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/ba7baa737fe4f9110d26fdec3d2d0105/500x500-000000-80-0-0.jpg",
+    "matched_title": "Lahai",
+    "matched_artist": "Sampha",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "Stereo Colour Cloud (Shaman’s Dream)",
+        "duration": 179,
+        "track_number": 1
+      },
+      {
+        "title": "Spirit 2.0",
+        "duration": 290,
+        "track_number": 2
+      },
+      {
+        "title": "Dancing Circles",
+        "duration": 234,
+        "track_number": 3
+      },
+      {
+        "title": "Suspended",
+        "duration": 185,
+        "track_number": 4
+      },
+      {
+        "title": "Satellite Business",
+        "duration": 85,
+        "track_number": 5
+      },
+      {
+        "title": "Jonathan L. Seagull",
+        "duration": 275,
+        "track_number": 6
+      },
+      {
+        "title": "Inclination Compass (Tenderness)",
+        "duration": 188,
+        "track_number": 7
+      },
+      {
+        "title": "Only",
+        "duration": 170,
+        "track_number": 8
+      },
+      {
+        "title": "Time Piece",
+        "duration": 20,
+        "track_number": 9
+      },
+      {
+        "title": "Can’t Go Back",
+        "duration": 221,
+        "track_number": 10
+      },
+      {
+        "title": "Evidence",
+        "duration": 198,
+        "track_number": 11
+      },
+      {
+        "title": "Wave Therapy",
+        "duration": 28,
+        "track_number": 12
+      },
+      {
+        "title": "What If You Hypnotise Me?",
+        "duration": 218,
+        "track_number": 13
+      },
+      {
+        "title": "Rose Tint",
+        "duration": 168,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 41,
+    "cover_source": "deezer"
+  },
+  "3D Country|Geese|2023": {
+    "source": "musicbrainz",
+    "mbid": "5b5c716f-8a4a-4aa4-a39c-f0c93dcf2be7",
+    "cover_url": "http://coverartarchive.org/release/5b5c716f-8a4a-4aa4-a39c-f0c93dcf2be7/35213251089-500.jpg",
+    "matched_title": "3D Country",
+    "matched_artist": "Geese",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "3D Country",
+        "duration": 314,
+        "track_number": 1
+      },
+      {
+        "title": "Cowboy Nudes",
+        "duration": 171,
+        "track_number": 2
+      }
+    ],
+    "billboard_rank": 42
+  },
+  "Maps|Billy Woods & Kenny Segal|2023": {
+    "source": "musicbrainz",
+    "mbid": "244563b3-14bb-4862-9783-e4e4639f783a",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/bcafcc7b293eeb0cdb59720b33cba541/500x500-000000-80-0-0.jpg",
+    "matched_title": "Maps",
+    "matched_artist": "billy woods",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "Kenwood Speakers",
+        "duration": 82,
+        "track_number": 1
+      },
+      {
+        "title": "Soft Landing",
+        "duration": 174,
+        "track_number": 2
+      },
+      {
+        "title": "Soundcheck",
+        "duration": 176,
+        "track_number": 3
+      },
+      {
+        "title": "Rapper Weed",
+        "duration": 194,
+        "track_number": 4
+      },
+      {
+        "title": "Blue Smoke",
+        "duration": 93,
+        "track_number": 5
+      },
+      {
+        "title": "Bad Dreams Are Only Dreams",
+        "duration": 69,
+        "track_number": 6
+      },
+      {
+        "title": "Babylon by Bus",
+        "duration": 129,
+        "track_number": 7
+      },
+      {
+        "title": "Year Zero",
+        "duration": 220,
+        "track_number": 8
+      },
+      {
+        "title": "Hangman",
+        "duration": 176,
+        "track_number": 9
+      },
+      {
+        "title": "Baby Steps",
+        "duration": 206,
+        "track_number": 10
+      },
+      {
+        "title": "The Layover",
+        "duration": 171,
+        "track_number": 11
+      },
+      {
+        "title": "FaceTime",
+        "duration": 212,
+        "track_number": 12
+      },
+      {
+        "title": "Agriculture",
+        "duration": 101,
+        "track_number": 13
+      },
+      {
+        "title": "Houdini",
+        "duration": 145,
+        "track_number": 14
+      },
+      {
+        "title": "Waiting Around",
+        "duration": 182,
+        "track_number": 15
+      },
+      {
+        "title": "NYC Tapwater",
+        "duration": 188,
+        "track_number": 16
+      },
+      {
+        "title": "As the Crow Flies",
+        "duration": 141,
+        "track_number": 17
+      }
+    ],
+    "billboard_rank": 43,
+    "cover_source": "deezer"
+  },
+  "Scaring the Hoes|JPEGMAFIA & Danny Brown|2023": {
+    "source": "musicbrainz",
+    "mbid": "3b8f1454-e870-48b1-beea-0962a1733880",
+    "cover_url": "http://coverartarchive.org/release/3b8f1454-e870-48b1-beea-0962a1733880/36157030514-500.jpg",
+    "matched_title": "SCARING THE HOES",
+    "matched_artist": "JPEGMAFIA",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "Lean Beef Patty",
+        "duration": 108,
+        "track_number": 1
+      },
+      {
+        "title": "Steppa Pig",
+        "duration": 208,
+        "track_number": 2
+      },
+      {
+        "title": "SCARING THE HOES",
+        "duration": 143,
+        "track_number": 3
+      },
+      {
+        "title": "Garbage Pale Kids",
+        "duration": 168,
+        "track_number": 4
+      },
+      {
+        "title": "Fentanyl Tester",
+        "duration": 158,
+        "track_number": 5
+      },
+      {
+        "title": "SCARING THE HOES (V2)_BECKER MASTER 2_SEQ2",
+        "duration": 141,
+        "track_number": 6
+      },
+      {
+        "title": "Shut Yo Bitch Ass Up / Muddy Waters",
+        "duration": 174,
+        "track_number": 7
+      },
+      {
+        "title": "Orange Juice Jones",
+        "duration": 142,
+        "track_number": 8
+      },
+      {
+        "title": "Kingdom Hearts Key",
+        "duration": 205,
+        "track_number": 9
+      },
+      {
+        "title": "God Loves You",
+        "duration": 148,
+        "track_number": 10
+      },
+      {
+        "title": "Run the Jewels",
+        "duration": 65,
+        "track_number": 11
+      },
+      {
+        "title": "Jack Harlow Combo Meal",
+        "duration": 138,
+        "track_number": 12
+      },
+      {
+        "title": "HOE (Heaven on Earth)",
+        "duration": 204,
+        "track_number": 13
+      },
+      {
+        "title": "Where Ya Get Ya Coke From?",
+        "duration": 178,
+        "track_number": 14
+      },
+      {
+        "title": "LEAN BEEF PATTY",
+        "duration": 123,
+        "track_number": 15
+      },
+      {
+        "title": "SCARING THE HOES",
+        "duration": 168,
+        "track_number": 16
+      }
+    ],
+    "billboard_rank": 44
+  },
+  "That! Feels Good!|Jessie Ware|2023": {
+    "source": "musicbrainz",
+    "mbid": "2b19dc8a-0953-4f03-9a7f-871fd73e6871",
+    "cover_url": "http://coverartarchive.org/release/2b19dc8a-0953-4f03-9a7f-871fd73e6871/36260226551-500.jpg",
+    "matched_title": "That! Feels Good!",
+    "matched_artist": "Jessie Ware",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "That! Feels Good!",
+        "duration": 262,
+        "track_number": 1
+      },
+      {
+        "title": "Free Yourself",
+        "duration": 234,
+        "track_number": 2
+      },
+      {
+        "title": "Pearls",
+        "duration": 243,
+        "track_number": 3
+      },
+      {
+        "title": "Hello Love",
+        "duration": 283,
+        "track_number": 4
+      },
+      {
+        "title": "Begin Again",
+        "duration": 324,
+        "track_number": 5
+      },
+      {
+        "title": "Beautiful People",
+        "duration": 216,
+        "track_number": 6
+      },
+      {
+        "title": "Freak Me Now",
+        "duration": 208,
+        "track_number": 7
+      },
+      {
+        "title": "Shake the Bottle",
+        "duration": 204,
+        "track_number": 8
+      },
+      {
+        "title": "Lightning",
+        "duration": 190,
+        "track_number": 9
+      },
+      {
+        "title": "These Lips",
+        "duration": 262,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 45
+  },
+  "The Record|boygenius|2023": {
+    "source": "musicbrainz",
+    "mbid": "7d8eade9-ef06-40e5-a817-b5104e407098",
+    "cover_url": "http://coverartarchive.org/release/7d8eade9-ef06-40e5-a817-b5104e407098/34656509368-500.jpg",
+    "matched_title": "the record",
+    "matched_artist": "boygenius",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "$20",
+        "duration": 200,
+        "track_number": 1
+      },
+      {
+        "title": "Emily I’m Sorry",
+        "duration": 214,
+        "track_number": 2
+      },
+      {
+        "title": "True Blue",
+        "duration": 296,
+        "track_number": 3
+      }
+    ],
+    "billboard_rank": 46
+  },
+  "Heaven Knows|PinkPantheress|2023": {
+    "source": "musicbrainz",
+    "mbid": "b56c2482-488f-4a5a-bc05-2bc07aaf8e29",
+    "cover_url": "http://coverartarchive.org/release/b56c2482-488f-4a5a-bc05-2bc07aaf8e29/37210294681-500.jpg",
+    "matched_title": "Heaven knows",
+    "matched_artist": "PinkPantheress",
+    "matched_year": 2023,
+    "tracks": [
+      {
+        "title": "Another life",
+        "duration": 172,
+        "track_number": 1
+      },
+      {
+        "title": "True romance",
+        "duration": 137,
+        "track_number": 2
+      },
+      {
+        "title": "Mosquito",
+        "duration": 147,
+        "track_number": 3
+      },
+      {
+        "title": "The aisle",
+        "duration": 166,
+        "track_number": 4
+      },
+      {
+        "title": "Nice to meet you",
+        "duration": 162,
+        "track_number": 5
+      },
+      {
+        "title": "Bury me",
+        "duration": 125,
+        "track_number": 6
+      },
+      {
+        "title": "Internet baby (interlude)",
+        "duration": 132,
+        "track_number": 7
+      },
+      {
+        "title": "Ophelia",
+        "duration": 155,
+        "track_number": 8
+      },
+      {
+        "title": "Feel complete",
+        "duration": 163,
+        "track_number": 9
+      },
+      {
+        "title": "Blue",
+        "duration": 181,
+        "track_number": 10
+      },
+      {
+        "title": "Feelings",
+        "duration": 160,
+        "track_number": 11
+      },
+      {
+        "title": "Capable of love",
+        "duration": 224,
+        "track_number": 12
+      },
+      {
+        "title": "Boy’s a liar, Pt. 2",
+        "duration": 131,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 47
+  },
+  "Jubilee|Japanese Breakfast|2021": {
+    "source": "musicbrainz",
+    "mbid": "6ac47102-f42d-4c0e-9859-ffe65e1bfcc3",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/f0d5207d075adb652643a29ae8851e7b/500x500-000000-80-0-0.jpg",
+    "matched_title": "Jubilee",
+    "matched_artist": "Japanese Breakfast",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "Paprika",
+        "duration": 220,
+        "track_number": 1
+      },
+      {
+        "title": "Be Sweet",
+        "duration": 195,
+        "track_number": 2
+      },
+      {
+        "title": "Kokomo, IN",
+        "duration": 219,
+        "track_number": 3
+      },
+      {
+        "title": "Slide Tackle",
+        "duration": 220,
+        "track_number": 4
+      },
+      {
+        "title": "Posing in Bondage",
+        "duration": 245,
+        "track_number": 5
+      },
+      {
+        "title": "Sit",
+        "duration": 187,
+        "track_number": 6
+      },
+      {
+        "title": "Savage Good Boy",
+        "duration": 146,
+        "track_number": 7
+      },
+      {
+        "title": "In Hell",
+        "duration": 158,
+        "track_number": 8
+      },
+      {
+        "title": "Tactics",
+        "duration": 234,
+        "track_number": 9
+      },
+      {
+        "title": "Posing for Cars",
+        "duration": 399,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 48,
+    "cover_source": "deezer"
+  },
+  "Call Me If You Get Lost|Tyler, The Creator|2021": {
+    "source": "musicbrainz",
+    "mbid": "0d8d50e3-6899-4bad-8780-3713f2b87e10",
+    "cover_url": "https://coverartarchive.org/release/0d8d50e3-6899-4bad-8780-3713f2b87e10/29709457239-500.jpg",
+    "matched_title": "CALL ME IF YOU GET LOST",
+    "matched_artist": "Tyler, The Creator",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "SIR BAUDELAIRE",
+        "duration": 89,
+        "track_number": 1
+      },
+      {
+        "title": "CORSO",
+        "duration": 146,
+        "track_number": 2
+      },
+      {
+        "title": "LEMONHEAD",
+        "duration": 131,
+        "track_number": 3
+      },
+      {
+        "title": "WUSYANAME",
+        "duration": 122,
+        "track_number": 4
+      },
+      {
+        "title": "LUMBERJACK",
+        "duration": 138,
+        "track_number": 5
+      },
+      {
+        "title": "HOT WIND BLOWS",
+        "duration": 155,
+        "track_number": 6
+      },
+      {
+        "title": "MASSA",
+        "duration": 224,
+        "track_number": 7
+      },
+      {
+        "title": "RUNITUP",
+        "duration": 230,
+        "track_number": 8
+      },
+      {
+        "title": "MANIFESTO",
+        "duration": 175,
+        "track_number": 9
+      },
+      {
+        "title": "SWEET / I THOUGHT YOU WANTED TO DANCE",
+        "duration": 588,
+        "track_number": 10
+      },
+      {
+        "title": "MOMMA TALK",
+        "duration": 71,
+        "track_number": 11
+      },
+      {
+        "title": "RISE!",
+        "duration": 204,
+        "track_number": 12
+      },
+      {
+        "title": "BLESSED",
+        "duration": 58,
+        "track_number": 13
+      },
+      {
+        "title": "JUGGERNAUT",
+        "duration": 146,
+        "track_number": 14
+      },
+      {
+        "title": "WILSHIRE",
+        "duration": 516,
+        "track_number": 15
+      },
+      {
+        "title": "SAFARI",
+        "duration": 178,
+        "track_number": 16
+      }
+    ],
+    "billboard_rank": 49
+  },
+  "Collapsed in Sunbeams|Arlo Parks|2021": {
+    "source": "musicbrainz",
+    "mbid": "e7150ce2-0f2e-4b0e-b968-5d8c5eead1c1",
+    "cover_url": "http://coverartarchive.org/release/e7150ce2-0f2e-4b0e-b968-5d8c5eead1c1/33375972729-500.jpg",
+    "matched_title": "Collapsed in Sunbeams",
+    "matched_artist": "Arlo Parks",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "Collapsed in Sunbeams",
+        "duration": 459,
+        "track_number": 1
+      },
+      {
+        "title": "Hurt",
+        "duration": 216,
+        "track_number": 2
+      },
+      {
+        "title": "Too Good",
+        "duration": 221,
+        "track_number": 3
+      },
+      {
+        "title": "Hope",
+        "duration": 270,
+        "track_number": 4
+      },
+      {
+        "title": "Caroline",
+        "duration": 217,
+        "track_number": 5
+      },
+      {
+        "title": "Black Dog",
+        "duration": 229,
+        "track_number": 6
+      },
+      {
+        "title": "Green Eyes",
+        "duration": 198,
+        "track_number": 7
+      },
+      {
+        "title": "Just Go",
+        "duration": 186,
+        "track_number": 8
+      },
+      {
+        "title": "For Violet",
+        "duration": 213,
+        "track_number": 9
+      },
+      {
+        "title": "Eugene",
+        "duration": 223,
+        "track_number": 10
+      },
+      {
+        "title": "Bluish",
+        "duration": 194,
+        "track_number": 11
+      },
+      {
+        "title": "Portra 400",
+        "duration": 176,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 50
+  },
+  "Promises|Floating Points & Pharoah Sanders|2021": {
+    "source": "deezer",
+    "deezer_id": 201749822,
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/46a3d6d835fb7634f13a5ed0f64ebbd8/500x500-000000-80-0-0.jpg",
+    "matched_title": "Promises",
+    "matched_artist": "Floating Points",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "Movement 1",
+        "duration": 384,
+        "track_number": 1
+      },
+      {
+        "title": "Movement 2",
+        "duration": 151,
+        "track_number": 2
+      },
+      {
+        "title": "Movement 3",
+        "duration": 152,
+        "track_number": 3
+      },
+      {
+        "title": "Movement 4",
+        "duration": 151,
+        "track_number": 4
+      },
+      {
+        "title": "Movement 5",
+        "duration": 265,
+        "track_number": 5
+      },
+      {
+        "title": "Movement 6",
+        "duration": 530,
+        "track_number": 6
+      },
+      {
+        "title": "Movement 7",
+        "duration": 568,
+        "track_number": 7
+      },
+      {
+        "title": "Movement 8",
+        "duration": 442,
+        "track_number": 8
+      },
+      {
+        "title": "Movement 9",
+        "duration": 150,
+        "track_number": 9
+      }
+    ],
+    "cover_source": "deezer"
+  },
+  "For the First Time|Black Country, New Road|2021": {
+    "source": "musicbrainz",
+    "mbid": "7bc4f2dd-e46f-4b59-b2e7-d9c5c81b0920",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/a3b3023f899d2836828f0dd269dcf0b4/500x500-000000-80-0-0.jpg",
+    "matched_title": "For the First Time",
+    "matched_artist": "Black Country, New Road",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "Instrumental",
+        "duration": 327,
+        "track_number": 1
+      },
+      {
+        "title": "Athens, France",
+        "duration": 382,
+        "track_number": 2
+      },
+      {
+        "title": "Science Fair",
+        "duration": 380,
+        "track_number": 3
+      },
+      {
+        "title": "Sunglasses",
+        "duration": 590,
+        "track_number": 4
+      },
+      {
+        "title": "Track X",
+        "duration": 284,
+        "track_number": 5
+      },
+      {
+        "title": "Opus",
+        "duration": 481,
+        "track_number": 6
+      }
+    ],
+    "billboard_rank": 52,
+    "cover_source": "deezer"
+  },
+  "Heaux Tales|Jazmine Sullivan|2021": {
+    "source": "musicbrainz",
+    "mbid": "820d08bb-e42e-4561-a9f6-6418e7caf946",
+    "cover_url": "http://coverartarchive.org/release/820d08bb-e42e-4561-a9f6-6418e7caf946/29846407432-500.jpg",
+    "matched_title": "Heaux Tales",
+    "matched_artist": "Jazmine Sullivan",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "Bodies (intro)",
+        "duration": 122,
+        "track_number": 1
+      },
+      {
+        "title": "Antoinette’s Tale",
+        "duration": 37,
+        "track_number": 2
+      },
+      {
+        "title": "Pick Up Your Feelings",
+        "duration": 229,
+        "track_number": 3
+      },
+      {
+        "title": "Ari’s Tale",
+        "duration": 50,
+        "track_number": 4
+      },
+      {
+        "title": "Put It Down",
+        "duration": 201,
+        "track_number": 5
+      },
+      {
+        "title": "On It",
+        "duration": 205,
+        "track_number": 6
+      },
+      {
+        "title": "Donna’s Tale",
+        "duration": 70,
+        "track_number": 7
+      },
+      {
+        "title": "Price Tags",
+        "duration": 264,
+        "track_number": 8
+      },
+      {
+        "title": "Rashida’s Tale",
+        "duration": 60,
+        "track_number": 9
+      },
+      {
+        "title": "Lost One",
+        "duration": 179,
+        "track_number": 10
+      },
+      {
+        "title": "Precious’ Tale",
+        "duration": 43,
+        "track_number": 11
+      },
+      {
+        "title": "The Other Side",
+        "duration": 218,
+        "track_number": 12
+      },
+      {
+        "title": "Amanda’s Tale",
+        "duration": 38,
+        "track_number": 13
+      },
+      {
+        "title": "Girl Like Me",
+        "duration": 225,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 53
+  },
+  "Chemtrails Over the Country Club|Lana Del Rey|2021": {
+    "source": "musicbrainz",
+    "mbid": "af89119d-b5d0-46d6-8a1e-06a92d97eb9d",
+    "cover_url": "http://coverartarchive.org/release/af89119d-b5d0-46d6-8a1e-06a92d97eb9d/31656208526-500.jpg",
+    "matched_title": "Chemtrails Over the Country Club",
+    "matched_artist": "Lana Del Rey",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "Chemtrails Over the Country Club",
+        "duration": 271,
+        "track_number": 1
+      },
+      {
+        "title": "Chemtrails Over the Country Club",
+        "duration": 271,
+        "track_number": 2
+      }
+    ],
+    "billboard_rank": 54
+  },
+  "Glow On|Turnstile|2021": {
+    "source": "musicbrainz",
+    "mbid": "c86758fc-5447-461d-942d-a9300e4bc51f",
+    "cover_url": "http://coverartarchive.org/release/c86758fc-5447-461d-942d-a9300e4bc51f/37155210123-500.jpg",
+    "matched_title": "GLOW ON",
+    "matched_artist": "Turnstile",
+    "matched_year": 2021,
+    "tracks": [
+      {
+        "title": "MYSTERY",
+        "duration": 155,
+        "track_number": 1
+      },
+      {
+        "title": "BLACKOUT",
+        "duration": 173,
+        "track_number": 2
+      },
+      {
+        "title": "DON’T PLAY",
+        "duration": 133,
+        "track_number": 3
+      },
+      {
+        "title": "UNDERWATER BOI",
+        "duration": 185,
+        "track_number": 4
+      },
+      {
+        "title": "HOLIDAY",
+        "duration": 172,
+        "track_number": 5
+      },
+      {
+        "title": "HUMANOID / SHAKE IT UP",
+        "duration": 69,
+        "track_number": 6
+      },
+      {
+        "title": "ENDLESS",
+        "duration": 118,
+        "track_number": 7
+      },
+      {
+        "title": "FLY AGAIN",
+        "duration": 152,
+        "track_number": 8
+      },
+      {
+        "title": "ALIEN LOVE CALL",
+        "duration": 176,
+        "track_number": 9
+      },
+      {
+        "title": "WILD WRLD",
+        "duration": 175,
+        "track_number": 10
+      },
+      {
+        "title": "DANCE‐OFF",
+        "duration": 129,
+        "track_number": 11
+      },
+      {
+        "title": "NEW HEART DESIGN",
+        "duration": 148,
+        "track_number": 12
+      },
+      {
+        "title": "T.L.C. (TURNSTILE LOVE CONNECTION)",
+        "duration": 103,
+        "track_number": 13
+      },
+      {
+        "title": "NO SURPRISE",
+        "duration": 45,
+        "track_number": 14
+      },
+      {
+        "title": "LONELY DEZIRES",
+        "duration": 163,
+        "track_number": 15
+      }
+    ],
+    "billboard_rank": 55
+  },
+  "Fetch the Bolt Cutters|Fiona Apple|2020": {
+    "source": "musicbrainz",
+    "mbid": "18411b68-eb13-448b-a1f3-04af0e360984",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/f0ccd157f390a6aadc0f61e245138f1c/500x500-000000-80-0-0.jpg",
+    "matched_title": "Fetch the Bolt Cutters",
+    "matched_artist": "Fiona Apple",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "I Want You to Love Me",
+        "duration": 238,
+        "track_number": 1
+      },
+      {
+        "title": "Shameika",
+        "duration": 249,
+        "track_number": 2
+      },
+      {
+        "title": "Fetch the Bolt Cutters",
+        "duration": 298,
+        "track_number": 3
+      },
+      {
+        "title": "Under the Table",
+        "duration": 201,
+        "track_number": 4
+      },
+      {
+        "title": "Relay",
+        "duration": 289,
+        "track_number": 5
+      },
+      {
+        "title": "Rack of His",
+        "duration": 222,
+        "track_number": 6
+      },
+      {
+        "title": "Newspaper",
+        "duration": 332,
+        "track_number": 7
+      },
+      {
+        "title": "Ladies",
+        "duration": 325,
+        "track_number": 8
+      },
+      {
+        "title": "Heavy Balloon",
+        "duration": 206,
+        "track_number": 9
+      },
+      {
+        "title": "Cosmonauts",
+        "duration": 239,
+        "track_number": 10
+      },
+      {
+        "title": "For Her",
+        "duration": 164,
+        "track_number": 11
+      },
+      {
+        "title": "Drumset",
+        "duration": 160,
+        "track_number": 12
+      },
+      {
+        "title": "On I Go",
+        "duration": 189,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 56,
+    "cover_source": "deezer"
+  },
+  "Punisher|Phoebe Bridgers|2020": {
+    "source": "musicbrainz",
+    "mbid": "afb09b3f-7d64-4839-b9f3-65e4fdf6c2e1",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/9eb3062eebc26c7a131ad6984f53137c/500x500-000000-80-0-0.jpg",
+    "matched_title": "Punisher",
+    "matched_artist": "Phoebe Bridgers",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "DVD Menu",
+        "duration": 69,
+        "track_number": 1
+      },
+      {
+        "title": "Garden Song",
+        "duration": 219,
+        "track_number": 2
+      },
+      {
+        "title": "Kyoto",
+        "duration": 184,
+        "track_number": 3
+      },
+      {
+        "title": "Punisher",
+        "duration": 189,
+        "track_number": 4
+      },
+      {
+        "title": "Halloween",
+        "duration": 271,
+        "track_number": 5
+      },
+      {
+        "title": "Chinese Satellite",
+        "duration": 217,
+        "track_number": 6
+      },
+      {
+        "title": "Moon Song",
+        "duration": 277,
+        "track_number": 7
+      },
+      {
+        "title": "Savior Complex",
+        "duration": 241,
+        "track_number": 8
+      },
+      {
+        "title": "ICU",
+        "duration": 190,
+        "track_number": 9
+      },
+      {
+        "title": "Graceland Too",
+        "duration": 236,
+        "track_number": 10
+      },
+      {
+        "title": "I Know the End",
+        "duration": 344,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 57,
+    "cover_source": "deezer"
+  },
+  "After Hours|The Weeknd|2020": {
+    "source": "musicbrainz",
+    "mbid": "87bc8a40-1073-43b4-8cd0-80c74cee2110",
+    "cover_url": "http://coverartarchive.org/release/87bc8a40-1073-43b4-8cd0-80c74cee2110/38023430698-500.jpg",
+    "matched_title": "After Hours",
+    "matched_artist": "The Weeknd",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "Alone Again",
+        "duration": 251,
+        "track_number": 1
+      },
+      {
+        "title": "Too Late",
+        "duration": 241,
+        "track_number": 2
+      },
+      {
+        "title": "Hardest to Love",
+        "duration": 221,
+        "track_number": 3
+      },
+      {
+        "title": "Scared to Live",
+        "duration": 197,
+        "track_number": 4
+      },
+      {
+        "title": "Snowchild",
+        "duration": 248,
+        "track_number": 5
+      },
+      {
+        "title": "Escape From LA",
+        "duration": 361,
+        "track_number": 6
+      },
+      {
+        "title": "Heartless",
+        "duration": 204,
+        "track_number": 7
+      },
+      {
+        "title": "Faith",
+        "duration": 286,
+        "track_number": 8
+      },
+      {
+        "title": "Blinding Lights",
+        "duration": 200,
+        "track_number": 9
+      },
+      {
+        "title": "In Your Eyes",
+        "duration": 240,
+        "track_number": 10
+      },
+      {
+        "title": "Save Your Tears",
+        "duration": 221,
+        "track_number": 11
+      },
+      {
+        "title": "Repeat After Me (interlude)",
+        "duration": 198,
+        "track_number": 12
+      },
+      {
+        "title": "After Hours",
+        "duration": 367,
+        "track_number": 13
+      },
+      {
+        "title": "Until I Bleed Out",
+        "duration": 191,
+        "track_number": 14
+      },
+      {
+        "title": "Nothing Compares",
+        "duration": 222,
+        "track_number": 15
+      },
+      {
+        "title": "Missed You",
+        "duration": 145,
+        "track_number": 16
+      },
+      {
+        "title": "Final Lullaby",
+        "duration": 186,
+        "track_number": 17
+      },
+      {
+        "title": "Save Your Tears (remix)",
+        "duration": 192,
+        "track_number": 18
+      }
+    ],
+    "billboard_rank": 58
+  },
+  "Future Nostalgia|Dua Lipa|2020": {
+    "source": "musicbrainz",
+    "mbid": "bb75b90b-02ad-49f3-b51f-0e65b1568b42",
+    "cover_url": "http://coverartarchive.org/release/bb75b90b-02ad-49f3-b51f-0e65b1568b42/25777809840-500.jpg",
+    "matched_title": "Future Nostalgia",
+    "matched_artist": "Dua Lipa",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "Future Nostalgia",
+        "duration": 185,
+        "track_number": 1
+      },
+      {
+        "title": "Don’t Start Now",
+        "duration": 183,
+        "track_number": 2
+      },
+      {
+        "title": "Cool",
+        "duration": 210,
+        "track_number": 3
+      },
+      {
+        "title": "Physical",
+        "duration": 194,
+        "track_number": 4
+      },
+      {
+        "title": "Levitating",
+        "duration": 204,
+        "track_number": 5
+      },
+      {
+        "title": "Pretty Please",
+        "duration": 195,
+        "track_number": 6
+      },
+      {
+        "title": "Hallucinate",
+        "duration": 209,
+        "track_number": 7
+      },
+      {
+        "title": "Love Again",
+        "duration": 258,
+        "track_number": 8
+      },
+      {
+        "title": "Break My Heart",
+        "duration": 222,
+        "track_number": 9
+      },
+      {
+        "title": "Good in Bed",
+        "duration": 219,
+        "track_number": 10
+      },
+      {
+        "title": "Boys Will Be Boys",
+        "duration": 166,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 59
+  },
+  "What's Your Pleasure?|Jessie Ware|2020": {
+    "source": "musicbrainz",
+    "mbid": "20025f7c-eebc-45d8-8e64-b0b8a966cda3",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/3a375706376e25dbe7c900ec430cfcd1/500x500-000000-80-0-0.jpg",
+    "matched_title": "What’s Your Pleasure?",
+    "matched_artist": "Jessie Ware",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "Spotlight",
+        "duration": 332,
+        "track_number": 1
+      },
+      {
+        "title": "What’s Your Pleasure?",
+        "duration": 278,
+        "track_number": 2
+      },
+      {
+        "title": "Ooh La La",
+        "duration": 228,
+        "track_number": 3
+      },
+      {
+        "title": "Soul Control",
+        "duration": 239,
+        "track_number": 4
+      },
+      {
+        "title": "Save a Kiss",
+        "duration": 242,
+        "track_number": 5
+      },
+      {
+        "title": "Adore You",
+        "duration": 226,
+        "track_number": 6
+      },
+      {
+        "title": "In Your Eyes",
+        "duration": 298,
+        "track_number": 7
+      },
+      {
+        "title": "Step Into My Life",
+        "duration": 217,
+        "track_number": 8
+      },
+      {
+        "title": "Read My Lips",
+        "duration": 244,
+        "track_number": 9
+      },
+      {
+        "title": "Mirage (Don’t Stop)",
+        "duration": 287,
+        "track_number": 10
+      },
+      {
+        "title": "The Kill",
+        "duration": 278,
+        "track_number": 11
+      },
+      {
+        "title": "Remember Where You Are",
+        "duration": 335,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 60,
+    "cover_source": "deezer"
+  },
+  "Folklore|Taylor Swift|2020": {
+    "source": "musicbrainz",
+    "mbid": "dd175a69-1b71-4526-8f3c-945f6d5f32a6",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
+    "matched_title": "folklore",
+    "matched_artist": "Taylor Swift",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "the 1",
+        "duration": 210,
+        "track_number": 1
+      },
+      {
+        "title": "cardigan",
+        "duration": 240,
+        "track_number": 2
+      },
+      {
+        "title": "the last great american dynasty",
+        "duration": 231,
+        "track_number": 3
+      },
+      {
+        "title": "exile",
+        "duration": 286,
+        "track_number": 4
+      },
+      {
+        "title": "my tears ricochet",
+        "duration": 256,
+        "track_number": 5
+      },
+      {
+        "title": "mirrorball",
+        "duration": 209,
+        "track_number": 6
+      },
+      {
+        "title": "seven",
+        "duration": 209,
+        "track_number": 7
+      },
+      {
+        "title": "august",
+        "duration": 262,
+        "track_number": 8
+      },
+      {
+        "title": "this is me trying",
+        "duration": 195,
+        "track_number": 9
+      },
+      {
+        "title": "illicit affairs",
+        "duration": 191,
+        "track_number": 10
+      },
+      {
+        "title": "invisible string",
+        "duration": 253,
+        "track_number": 11
+      },
+      {
+        "title": "mad woman",
+        "duration": 237,
+        "track_number": 12
+      },
+      {
+        "title": "epiphany",
+        "duration": 290,
+        "track_number": 13
+      },
+      {
+        "title": "betty",
+        "duration": 295,
+        "track_number": 14
+      },
+      {
+        "title": "peace",
+        "duration": 234,
+        "track_number": 15
+      },
+      {
+        "title": "hoax",
+        "duration": 220,
+        "track_number": 16
+      },
+      {
+        "title": "the lakes",
+        "duration": 212,
+        "track_number": 17
+      }
+    ],
+    "billboard_rank": 61,
+    "cover_source": "deezer"
+  },
+  "Set My Heart on Fire Immediately|Perfume Genius|2020": {
+    "source": "musicbrainz",
+    "mbid": "d53fb1d2-821c-4ac2-ac6e-0c4ccbd155aa",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/54700ef348afad721deb62655c65e953/500x500-000000-80-0-0.jpg",
+    "matched_title": "Set My Heart on Fire Immediately",
+    "matched_artist": "Perfume Genius",
+    "matched_year": 2020,
+    "billboard_rank": 62,
+    "cover_source": "deezer"
+  },
+  "Heaven to a Tortured Mind|Yves Tumor|2020": {
+    "source": "musicbrainz",
+    "mbid": "1681ff11-04f8-4d60-b31e-f4a34f071389",
+    "cover_url": "http://coverartarchive.org/release/1681ff11-04f8-4d60-b31e-f4a34f071389/26238210603-500.jpg",
+    "matched_title": "Heaven to a Tortured Mind",
+    "matched_artist": "Yves Tumor",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "Gospel for a New Century",
+        "duration": 198,
+        "track_number": 1
+      },
+      {
+        "title": "Medicine Burn",
+        "duration": 244,
+        "track_number": 2
+      },
+      {
+        "title": "Identity Trade",
+        "duration": 119,
+        "track_number": 3
+      },
+      {
+        "title": "Kerosene!",
+        "duration": 305,
+        "track_number": 4
+      },
+      {
+        "title": "Hasdallen Lights",
+        "duration": 127,
+        "track_number": 5
+      },
+      {
+        "title": "Romanticist",
+        "duration": 106,
+        "track_number": 6
+      },
+      {
+        "title": "Dream Palette",
+        "duration": 175,
+        "track_number": 7
+      },
+      {
+        "title": "Super Stars",
+        "duration": 185,
+        "track_number": 8
+      },
+      {
+        "title": "Folie Imposée",
+        "duration": 185,
+        "track_number": 9
+      },
+      {
+        "title": "Strawberry Privilege",
+        "duration": 232,
+        "track_number": 10
+      },
+      {
+        "title": "Asteroid Blues",
+        "duration": 122,
+        "track_number": 11
+      },
+      {
+        "title": "A Greater Love",
+        "duration": 184,
+        "track_number": 12
+      },
+      {
+        "title": "Folie simultanée",
+        "duration": 207,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 63
+  },
+  "The New Abnormal|The Strokes|2020": {
+    "source": "musicbrainz",
+    "mbid": "84287ade-2873-46c6-b276-5aea0f1ae290",
+    "cover_url": "http://coverartarchive.org/release/84287ade-2873-46c6-b276-5aea0f1ae290/25865722055-500.jpg",
+    "matched_title": "The New Abnormal",
+    "matched_artist": "The Strokes",
+    "matched_year": 2020,
+    "tracks": [
+      {
+        "title": "The Adults Are Talking",
+        "duration": 309,
+        "track_number": 1
+      },
+      {
+        "title": "Selfless",
+        "duration": 222,
+        "track_number": 2
+      },
+      {
+        "title": "Brooklyn Bridge to Chorus",
+        "duration": 235,
+        "track_number": 3
+      },
+      {
+        "title": "Bad Decisions",
+        "duration": 293,
+        "track_number": 4
+      },
+      {
+        "title": "Eternal Summer",
+        "duration": 376,
+        "track_number": 5
+      },
+      {
+        "title": "At the Door",
+        "duration": 310,
+        "track_number": 6
+      },
+      {
+        "title": "Why Are Sundays So Depressing",
+        "duration": 275,
+        "track_number": 7
+      },
+      {
+        "title": "Not the Same Anymore",
+        "duration": 337,
+        "track_number": 8
+      },
+      {
+        "title": "Ode to the Mets",
+        "duration": 351,
+        "track_number": 9
+      },
+      {
+        "title": "The Adults Are Talking",
+        "duration": 309,
+        "track_number": 10
+      },
+      {
+        "title": "Selfless",
+        "duration": 222,
+        "track_number": 11
+      },
+      {
+        "title": "Brooklyn Bridge to Chorus",
+        "duration": 235,
+        "track_number": 12
+      },
+      {
+        "title": "Bad Decisions",
+        "duration": 293,
+        "track_number": 13
+      },
+      {
+        "title": "Eternal Summer",
+        "duration": 376,
+        "track_number": 14
+      },
+      {
+        "title": "At the Door",
+        "duration": 310,
+        "track_number": 15
+      },
+      {
+        "title": "Why Are Sundays So Depressing",
+        "duration": 275,
+        "track_number": 16
+      },
+      {
+        "title": "Not the Same Anymore",
+        "duration": 337,
+        "track_number": 17
+      },
+      {
+        "title": "Ode to the Mets",
+        "duration": 351,
+        "track_number": 18
+      }
+    ],
+    "billboard_rank": 64
+  },
+  "Norman Fucking Rockwell!|Lana Del Rey|2019": {
+    "source": "musicbrainz",
+    "mbid": "fcef8712-0a2c-475f-89fb-0b83022a22f9",
+    "cover_url": "http://coverartarchive.org/release/fcef8712-0a2c-475f-89fb-0b83022a22f9/25584372637-500.jpg",
+    "matched_title": "Norman Fucking Rockwell!",
+    "matched_artist": "Lana Del Rey",
+    "matched_year": 2019,
+    "tracks": [
+      {
+        "title": "Norman fucking Rockwell",
+        "duration": 249,
+        "track_number": 1
+      },
+      {
+        "title": "Mariners Apartment Complex",
+        "duration": 247,
+        "track_number": 2
+      },
+      {
+        "title": "Venice Bitch",
+        "duration": 577,
+        "track_number": 3
+      },
+      {
+        "title": "Fuck it I love you",
+        "duration": 218,
+        "track_number": 4
+      },
+      {
+        "title": "Doin’ Time",
+        "duration": 202,
+        "track_number": 5
+      },
+      {
+        "title": "Love song",
+        "duration": 229,
+        "track_number": 6
+      },
+      {
+        "title": "Cinnamon Girl",
+        "duration": 301,
+        "track_number": 7
+      },
+      {
+        "title": "How to disappear",
+        "duration": 228,
+        "track_number": 8
+      },
+      {
+        "title": "California",
+        "duration": 306,
+        "track_number": 9
+      },
+      {
+        "title": "The Next Best American Record",
+        "duration": 349,
+        "track_number": 10
+      },
+      {
+        "title": "The greatest",
+        "duration": 300,
+        "track_number": 11
+      },
+      {
+        "title": "Bartender",
+        "duration": 263,
+        "track_number": 12
+      },
+      {
+        "title": "Happiness is a butterfly",
+        "duration": 272,
+        "track_number": 13
+      },
+      {
+        "title": "hope is a dangerous thing for a woman like me to have – but I have it",
+        "duration": 358,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 65
+  },
+  "IGOR|Tyler, The Creator|2019": {
+    "source": "musicbrainz",
+    "mbid": "a8a67012-0aa4-4a41-a9d7-f1c4f32414c3",
+    "cover_url": "https://coverartarchive.org/release/a8a67012-0aa4-4a41-a9d7-f1c4f32414c3/24712108282-500.jpg",
+    "matched_title": "IGOR",
+    "matched_artist": "Tyler, The Creator",
+    "matched_year": 2019,
+    "tracks": [
+      {
+        "title": "IGOR’S THEME",
+        "duration": 197,
+        "track_number": 1
+      },
+      {
+        "title": "EARFQUAKE",
+        "duration": 188,
+        "track_number": 2
+      },
+      {
+        "title": "I THINK",
+        "duration": 208,
+        "track_number": 3
+      },
+      {
+        "title": "BOYFRIEND",
+        "duration": 237,
+        "track_number": 4
+      },
+      {
+        "title": "RUNNING OUT OF TIME",
+        "duration": 175,
+        "track_number": 5
+      },
+      {
+        "title": "NEW MAGIC WAND",
+        "duration": 192,
+        "track_number": 6
+      },
+      {
+        "title": "A BOY IS A GUN*",
+        "duration": 207,
+        "track_number": 7
+      },
+      {
+        "title": "PUPPET",
+        "duration": 176,
+        "track_number": 8
+      },
+      {
+        "title": "WHAT’S GOOD",
+        "duration": 202,
+        "track_number": 9
+      },
+      {
+        "title": "GONE, GONE / THANK YOU",
+        "duration": 272,
+        "track_number": 10
+      },
+      {
+        "title": "I DON’T LOVE YOU ANYMORE",
+        "duration": 256,
+        "track_number": 11
+      },
+      {
+        "title": "ARE WE STILL FRIENDS?",
+        "duration": 262,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 66
+  },
+  "When We All Fall Asleep Where Do We Go?|Billie Eilish|2019": {
+    "source": "musicbrainz",
+    "mbid": "033ddd2b-d499-426e-872a-697a1b5ca0c2",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/6630083f454d48eadb6a9b53f035d734/500x500-000000-80-0-0.jpg",
+    "matched_title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "matched_artist": "Billie Eilish",
+    "matched_year": 2019,
+    "tracks": [
+      {
+        "title": "!!!!!!!",
+        "duration": 14,
+        "track_number": 1
+      },
+      {
+        "title": "bad guy",
+        "duration": 194,
+        "track_number": 2
+      },
+      {
+        "title": "xanny",
+        "duration": 244,
+        "track_number": 3
+      },
+      {
+        "title": "you should see me in a crown",
+        "duration": 181,
+        "track_number": 4
+      },
+      {
+        "title": "all the good girls go to hell",
+        "duration": 169,
+        "track_number": 5
+      },
+      {
+        "title": "wish you were gay",
+        "duration": 222,
+        "track_number": 6
+      },
+      {
+        "title": "when the party’s over",
+        "duration": 196,
+        "track_number": 7
+      },
+      {
+        "title": "8",
+        "duration": 173,
+        "track_number": 8
+      },
+      {
+        "title": "my strange addiction",
+        "duration": 180,
+        "track_number": 9
+      },
+      {
+        "title": "bury a friend",
+        "duration": 193,
+        "track_number": 10
+      },
+      {
+        "title": "ilomilo",
+        "duration": 156,
+        "track_number": 11
+      },
+      {
+        "title": "listen before i go",
+        "duration": 243,
+        "track_number": 12
+      },
+      {
+        "title": "i love you",
+        "duration": 292,
+        "track_number": 13
+      },
+      {
+        "title": "goodbye",
+        "duration": 119,
+        "track_number": 14
+      },
+      {
+        "title": "come out and play",
+        "duration": 210,
+        "track_number": 15
+      },
+      {
+        "title": "WHEN I WAS OLDER",
+        "duration": 271,
+        "track_number": 16
+      }
+    ],
+    "billboard_rank": 67,
+    "cover_source": "deezer"
+  },
+  "MAGDALENE|FKA twigs|2019": {
+    "source": "musicbrainz",
+    "mbid": "728f71df-a342-4ee6-974c-f66284f314a4",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/63593ab6be8e57a118b9b53784eda751/500x500-000000-80-0-0.jpg",
+    "matched_title": "MAGDALENE",
+    "matched_artist": "FKA twigs",
+    "matched_year": 2019,
+    "tracks": [
+      {
+        "title": "thousand eyes",
+        "duration": 301,
+        "track_number": 1
+      },
+      {
+        "title": "home with you",
+        "duration": 225,
+        "track_number": 2
+      },
+      {
+        "title": "sad day",
+        "duration": 256,
+        "track_number": 3
+      },
+      {
+        "title": "holy terrain",
+        "duration": 243,
+        "track_number": 4
+      },
+      {
+        "title": "mary magdalene",
+        "duration": 321,
+        "track_number": 5
+      },
+      {
+        "title": "fallen alien",
+        "duration": 239,
+        "track_number": 6
+      },
+      {
+        "title": "mirrored heart",
+        "duration": 273,
+        "track_number": 7
+      },
+      {
+        "title": "daybed",
+        "duration": 271,
+        "track_number": 8
+      },
+      {
+        "title": "cellophane",
+        "duration": 204,
+        "track_number": 9
+      }
+    ],
+    "billboard_rank": 68,
+    "cover_source": "deezer"
+  },
+  "Thank U Next|Ariana Grande|2019": {
+    "source": "musicbrainz",
+    "mbid": "dbbe0c19-6fa3-4621-af9f-d22ddb0ab35f",
+    "cover_url": "http://coverartarchive.org/release/dbbe0c19-6fa3-4621-af9f-d22ddb0ab35f/22256640198-500.jpg",
+    "matched_title": "thank u, next",
+    "matched_artist": "Ariana Grande",
+    "matched_year": 2019,
+    "tracks": [
+      {
+        "title": "imagine",
+        "duration": 212,
+        "track_number": 1
+      },
+      {
+        "title": "needy",
+        "duration": 171,
+        "track_number": 2
+      },
+      {
+        "title": "NASA",
+        "duration": 182,
+        "track_number": 3
+      },
+      {
+        "title": "bloodline",
+        "duration": 216,
+        "track_number": 4
+      },
+      {
+        "title": "fake smile",
+        "duration": 208,
+        "track_number": 5
+      },
+      {
+        "title": "bad idea",
+        "duration": 267,
+        "track_number": 6
+      },
+      {
+        "title": "make up",
+        "duration": 140,
+        "track_number": 7
+      },
+      {
+        "title": "ghostin",
+        "duration": 271,
+        "track_number": 8
+      },
+      {
+        "title": "in my head",
+        "duration": 222,
+        "track_number": 9
+      },
+      {
+        "title": "7 rings",
+        "duration": 178,
+        "track_number": 10
+      },
+      {
+        "title": "thank u, next",
+        "duration": 207,
+        "track_number": 11
+      },
+      {
+        "title": "break up with your girlfriend, i’m bored",
+        "duration": 190,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 69
+  },
+  "Assume Form|James Blake|2019": {
+    "source": "musicbrainz",
+    "mbid": "d1edc8ee-2ef1-4056-8b9c-5ffeb59550b0",
+    "cover_url": "http://coverartarchive.org/release/d1edc8ee-2ef1-4056-8b9c-5ffeb59550b0/21950338494-500.jpg",
+    "matched_title": "Assume Form",
+    "matched_artist": "James Blake",
+    "matched_year": 2019,
+    "tracks": [
+      {
+        "title": "Assume Form",
+        "duration": 290,
+        "track_number": 1
+      },
+      {
+        "title": "Mile High",
+        "duration": 194,
+        "track_number": 2
+      },
+      {
+        "title": "Tell Them",
+        "duration": 208,
+        "track_number": 3
+      },
+      {
+        "title": "Into the Red",
+        "duration": 257,
+        "track_number": 4
+      },
+      {
+        "title": "Barefoot in the Park",
+        "duration": 211,
+        "track_number": 5
+      },
+      {
+        "title": "Can’t Believe the Way We Flow",
+        "duration": 267,
+        "track_number": 6
+      },
+      {
+        "title": "Are You in Love?",
+        "duration": 198,
+        "track_number": 7
+      },
+      {
+        "title": "Where’s the Catch?",
+        "duration": 276,
+        "track_number": 8
+      },
+      {
+        "title": "I’ll Come Too",
+        "duration": 222,
+        "track_number": 9
+      },
+      {
+        "title": "Power On",
+        "duration": 248,
+        "track_number": 10
+      },
+      {
+        "title": "Don’t Miss It",
+        "duration": 299,
+        "track_number": 11
+      },
+      {
+        "title": "Lullaby for My Insomniac",
+        "duration": 224,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 70
+  },
+  "Golden Hour|Kacey Musgraves|2018": {
+    "source": "musicbrainz",
+    "mbid": "cd0e5972-4e9f-44a8-aea2-5466f5eed457",
+    "cover_url": "http://coverartarchive.org/release/cd0e5972-4e9f-44a8-aea2-5466f5eed457/20163716355-500.jpg",
+    "matched_title": "Golden Hour",
+    "matched_artist": "Kacey Musgraves",
+    "matched_year": 2018,
+    "tracks": [
+      {
+        "title": "Slow Burn",
+        "duration": 246,
+        "track_number": 1
+      },
+      {
+        "title": "Lonely Weekend",
+        "duration": 227,
+        "track_number": 2
+      },
+      {
+        "title": "Butterflies",
+        "duration": 219,
+        "track_number": 3
+      },
+      {
+        "title": "Oh, What a World",
+        "duration": 241,
+        "track_number": 4
+      },
+      {
+        "title": "Mother",
+        "duration": 78,
+        "track_number": 5
+      },
+      {
+        "title": "Love Is a Wild Thing",
+        "duration": 256,
+        "track_number": 6
+      },
+      {
+        "title": "Space Cowboy",
+        "duration": 216,
+        "track_number": 7
+      },
+      {
+        "title": "Happy & Sad",
+        "duration": 243,
+        "track_number": 8
+      },
+      {
+        "title": "Velvet Elvis",
+        "duration": 154,
+        "track_number": 9
+      },
+      {
+        "title": "Wonder Woman",
+        "duration": 240,
+        "track_number": 10
+      },
+      {
+        "title": "High Horse",
+        "duration": 214,
+        "track_number": 11
+      },
+      {
+        "title": "Golden Hour",
+        "duration": 198,
+        "track_number": 12
+      },
+      {
+        "title": "Rainbow",
+        "duration": 214,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 71
+  },
+  "Dirty Computer|Janelle Monáe|2018": {
+    "source": "musicbrainz",
+    "mbid": "1b7837c8-1873-40dc-8674-1c6295e8b353",
+    "cover_url": "http://coverartarchive.org/release/1b7837c8-1873-40dc-8674-1c6295e8b353/19199314505-500.jpg",
+    "matched_title": "Dirty Computer",
+    "matched_artist": "Janelle Monáe",
+    "matched_year": 2018,
+    "tracks": [
+      {
+        "title": "Dirty Computer",
+        "duration": 120,
+        "track_number": 1
+      },
+      {
+        "title": "Crazy, Classic, Life",
+        "duration": 287,
+        "track_number": 2
+      },
+      {
+        "title": "Take a Byte",
+        "duration": 247,
+        "track_number": 3
+      },
+      {
+        "title": "Jane’s Dream",
+        "duration": 19,
+        "track_number": 4
+      },
+      {
+        "title": "Screwed",
+        "duration": 302,
+        "track_number": 5
+      },
+      {
+        "title": "Django Jane",
+        "duration": 191,
+        "track_number": 6
+      },
+      {
+        "title": "Pynk",
+        "duration": 240,
+        "track_number": 7
+      },
+      {
+        "title": "Make Me Feel",
+        "duration": 194,
+        "track_number": 8
+      },
+      {
+        "title": "I Got the Juice",
+        "duration": 226,
+        "track_number": 9
+      },
+      {
+        "title": "I Like That",
+        "duration": 200,
+        "track_number": 10
+      },
+      {
+        "title": "Don’t Judge Me",
+        "duration": 360,
+        "track_number": 11
+      },
+      {
+        "title": "Stevie’s Dream",
+        "duration": 47,
+        "track_number": 12
+      },
+      {
+        "title": "So Afraid",
+        "duration": 244,
+        "track_number": 13
+      },
+      {
+        "title": "Americans",
+        "duration": 246,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 72
+  },
+  "A Brief Inquiry Into Online Relationships|The 1975|2018": {
+    "source": "musicbrainz",
+    "mbid": "fa187a6c-56ff-4716-8159-78d9424a86ea",
+    "cover_url": "http://coverartarchive.org/release/fa187a6c-56ff-4716-8159-78d9424a86ea/21755968505-500.jpg",
+    "matched_title": "A Brief Inquiry Into Online Relationships",
+    "matched_artist": "The 1975",
+    "matched_year": 2018,
+    "tracks": [
+      {
+        "title": "The 1975",
+        "duration": 95,
+        "track_number": 1
+      },
+      {
+        "title": "Give Yourself a Try",
+        "duration": 197,
+        "track_number": 2
+      },
+      {
+        "title": "TOOTIMETOOTIMETOOTIME",
+        "duration": 208,
+        "track_number": 3
+      },
+      {
+        "title": "How to Draw / Petrichor",
+        "duration": 350,
+        "track_number": 4
+      },
+      {
+        "title": "Love It If We Made It",
+        "duration": 253,
+        "track_number": 5
+      },
+      {
+        "title": "Be My Mistake",
+        "duration": 257,
+        "track_number": 6
+      },
+      {
+        "title": "Sincerity Is Scary",
+        "duration": 226,
+        "track_number": 7
+      },
+      {
+        "title": "I Like America & America Likes Me",
+        "duration": 207,
+        "track_number": 8
+      },
+      {
+        "title": "The Man Who Married a Robot / Love Theme",
+        "duration": 213,
+        "track_number": 9
+      },
+      {
+        "title": "Inside Your Mind",
+        "duration": 231,
+        "track_number": 10
+      },
+      {
+        "title": "It’s Not Living (If It’s Not With You)",
+        "duration": 248,
+        "track_number": 11
+      },
+      {
+        "title": "Surrounded by Heads and Bodies",
+        "duration": 236,
+        "track_number": 12
+      },
+      {
+        "title": "Mine",
+        "duration": 247,
+        "track_number": 13
+      },
+      {
+        "title": "I Couldn’t Be More in Love",
+        "duration": 232,
+        "track_number": 14
+      },
+      {
+        "title": "I Always Wanna Die (Sometimes)",
+        "duration": 315,
+        "track_number": 15
+      }
+    ],
+    "billboard_rank": 73
+  },
+  "Oil of Every Pearl's Un-Insides|SOPHIE|2018": {
+    "source": "musicbrainz",
+    "mbid": "957806d5-1053-4c2a-ac2c-539d54d4dc23",
+    "cover_url": "http://coverartarchive.org/release/957806d5-1053-4c2a-ac2c-539d54d4dc23/20291596591-500.jpg",
+    "matched_title": "OIL OF EVERY PEARL’S UN‐INSIDES",
+    "matched_artist": "SOPHIE",
+    "matched_year": 2018,
+    "tracks": [
+      {
+        "title": "It’s Okay to Cry",
+        "duration": 230,
+        "track_number": 1
+      },
+      {
+        "title": "Ponyboy",
+        "duration": 194,
+        "track_number": 2
+      },
+      {
+        "title": "Faceshopping",
+        "duration": 236,
+        "track_number": 3
+      },
+      {
+        "title": "Is It Cold in the Water?",
+        "duration": 212,
+        "track_number": 4
+      },
+      {
+        "title": "Infatuation",
+        "duration": 280,
+        "track_number": 5
+      },
+      {
+        "title": "Not Okay",
+        "duration": 108,
+        "track_number": 6
+      },
+      {
+        "title": "Pretending",
+        "duration": 353,
+        "track_number": 7
+      },
+      {
+        "title": "Immaterial",
+        "duration": 232,
+        "track_number": 8
+      },
+      {
+        "title": "Whole New World/Pretend World",
+        "duration": 546,
+        "track_number": 9
+      }
+    ],
+    "billboard_rank": 74
+  },
+  "Be the Cowboy|Mitski|2018": {
+    "source": "musicbrainz",
+    "mbid": "52eeba43-55ea-4c30-8e08-e2b174a2ddac",
+    "cover_url": "http://coverartarchive.org/release/52eeba43-55ea-4c30-8e08-e2b174a2ddac/30593458501-500.jpg",
+    "matched_title": "Be the Cowboy",
+    "matched_artist": "Mitski",
+    "matched_year": 2018,
+    "tracks": [
+      {
+        "title": "Geyser",
+        "duration": 144,
+        "track_number": 1
+      },
+      {
+        "title": "Why Didn’t You Stop Me?",
+        "duration": 142,
+        "track_number": 2
+      },
+      {
+        "title": "Old Friend",
+        "duration": 113,
+        "track_number": 3
+      },
+      {
+        "title": "A Pearl",
+        "duration": 156,
+        "track_number": 4
+      },
+      {
+        "title": "Lonesome Love",
+        "duration": 111,
+        "track_number": 5
+      },
+      {
+        "title": "Remember My Name",
+        "duration": 135,
+        "track_number": 6
+      },
+      {
+        "title": "Me and My Husband",
+        "duration": 137,
+        "track_number": 7
+      },
+      {
+        "title": "Come Into the Water",
+        "duration": 92,
+        "track_number": 8
+      },
+      {
+        "title": "Nobody",
+        "duration": 193,
+        "track_number": 9
+      },
+      {
+        "title": "Pink in the Night",
+        "duration": 137,
+        "track_number": 10
+      },
+      {
+        "title": "A Horse Named Cold Air",
+        "duration": 123,
+        "track_number": 11
+      },
+      {
+        "title": "Washing Machine Heart",
+        "duration": 128,
+        "track_number": 12
+      },
+      {
+        "title": "Blue Light",
+        "duration": 104,
+        "track_number": 13
+      },
+      {
+        "title": "Two Slow Dancers",
+        "duration": 239,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 75
+  },
+  "Isolation|Kali Uchis|2018": {
+    "source": "musicbrainz",
+    "mbid": "ef8ab428-dded-4873-9dcf-4d1564cec471",
+    "cover_url": "http://coverartarchive.org/release/ef8ab428-dded-4873-9dcf-4d1564cec471/19628452468-500.jpg",
+    "matched_title": "Isolation",
+    "matched_artist": "Kali Uchis",
+    "matched_year": 2018,
+    "tracks": [
+      {
+        "title": "Body Language",
+        "duration": 136,
+        "track_number": 1
+      },
+      {
+        "title": "Miami",
+        "duration": 244,
+        "track_number": 2
+      },
+      {
+        "title": "Just a Stranger",
+        "duration": 178,
+        "track_number": 3
+      },
+      {
+        "title": "Flight 22",
+        "duration": 217,
+        "track_number": 4
+      },
+      {
+        "title": "Your Teeth in My Neck",
+        "duration": 186,
+        "track_number": 5
+      },
+      {
+        "title": "Tyrant",
+        "duration": 204,
+        "track_number": 6
+      },
+      {
+        "title": "Dead to Me",
+        "duration": 200,
+        "track_number": 7
+      },
+      {
+        "title": "Nuestro planeta",
+        "duration": 203,
+        "track_number": 8
+      },
+      {
+        "title": "In My Dreams",
+        "duration": 201,
+        "track_number": 9
+      },
+      {
+        "title": "Gotta Get Up",
+        "duration": 113,
+        "track_number": 10
+      },
+      {
+        "title": "Tomorrow",
+        "duration": 190,
+        "track_number": 11
+      },
+      {
+        "title": "Coming Home",
+        "duration": 160,
+        "track_number": 12
+      },
+      {
+        "title": "After the Storm",
+        "duration": 208,
+        "track_number": 13
+      },
+      {
+        "title": "Feel Like a Fool",
+        "duration": 185,
+        "track_number": 14
+      },
+      {
+        "title": "Killer",
+        "duration": 172,
+        "track_number": 15
+      }
+    ],
+    "billboard_rank": 76
+  },
+  "DAMN.|Kendrick Lamar|2017": {
+    "source": "musicbrainz",
+    "mbid": "b292c647-e3f6-4991-a919-7bd4df4d99ff",
+    "cover_url": "https://coverartarchive.org/release/b292c647-e3f6-4991-a919-7bd4df4d99ff/17513520760-500.jpg",
+    "matched_title": "DAMN.",
+    "matched_artist": "Kendrick Lamar",
+    "matched_year": 2017,
+    "tracks": [
+      {
+        "title": "BLOOD.",
+        "duration": 118,
+        "track_number": 1
+      },
+      {
+        "title": "DNA.",
+        "duration": 186,
+        "track_number": 2
+      },
+      {
+        "title": "YAH.",
+        "duration": 160,
+        "track_number": 3
+      },
+      {
+        "title": "ELEMENT.",
+        "duration": 209,
+        "track_number": 4
+      },
+      {
+        "title": "FEEL.",
+        "duration": 215,
+        "track_number": 5
+      },
+      {
+        "title": "LOYALTY.",
+        "duration": 227,
+        "track_number": 6
+      },
+      {
+        "title": "PRIDE.",
+        "duration": 275,
+        "track_number": 7
+      },
+      {
+        "title": "HUMBLE.",
+        "duration": 177,
+        "track_number": 8
+      },
+      {
+        "title": "LUST.",
+        "duration": 308,
+        "track_number": 9
+      },
+      {
+        "title": "LOVE.",
+        "duration": 213,
+        "track_number": 10
+      },
+      {
+        "title": "XXX.",
+        "duration": 254,
+        "track_number": 11
+      },
+      {
+        "title": "FEAR.",
+        "duration": 461,
+        "track_number": 12
+      },
+      {
+        "title": "GOD.",
+        "duration": 249,
+        "track_number": 13
+      },
+      {
+        "title": "DUCKWORTH.",
+        "duration": 249,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 77
+  },
+  "A Crow Looked at Me|Mount Eerie|2017": {
+    "source": "musicbrainz",
+    "mbid": "4911b77c-d9fb-4498-b835-043e88f3f83b",
+    "cover_url": "http://coverartarchive.org/release/4911b77c-d9fb-4498-b835-043e88f3f83b/15791992584.jpg",
+    "matched_title": "A Crow Looked at Me",
+    "matched_artist": "Mount Eerie",
+    "matched_year": 2017,
+    "tracks": [
+      {
+        "title": "Real Death",
+        "duration": 146,
+        "track_number": 1
+      },
+      {
+        "title": "Seaweed",
+        "duration": 182,
+        "track_number": 2
+      },
+      {
+        "title": "Ravens",
+        "duration": 402,
+        "track_number": 3
+      },
+      {
+        "title": "Forest Fire",
+        "duration": 256,
+        "track_number": 4
+      },
+      {
+        "title": "Swims",
+        "duration": 246,
+        "track_number": 5
+      },
+      {
+        "title": "My Chasm",
+        "duration": 144,
+        "track_number": 6
+      },
+      {
+        "title": "When I Take Out the Garbage at Night",
+        "duration": 145,
+        "track_number": 7
+      },
+      {
+        "title": "Emptiness, pt. 2",
+        "duration": 209,
+        "track_number": 8
+      },
+      {
+        "title": "Toothbrush/Trash",
+        "duration": 232,
+        "track_number": 9
+      },
+      {
+        "title": "Soria Moria",
+        "duration": 394,
+        "track_number": 10
+      },
+      {
+        "title": "Crow",
+        "duration": 143,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 78
+  },
+  "Ctrl|SZA|2017": {
+    "source": "musicbrainz",
+    "mbid": "3c8821aa-7839-465a-86f7-8988b3bff12e",
+    "cover_url": "http://coverartarchive.org/release/3c8821aa-7839-465a-86f7-8988b3bff12e/17513443505.jpg",
+    "matched_title": "Ctrl",
+    "matched_artist": "SZA",
+    "matched_year": 2017,
+    "tracks": [
+      {
+        "title": "Supermodel",
+        "duration": 181,
+        "track_number": 1
+      },
+      {
+        "title": "Love Galore",
+        "duration": 275,
+        "track_number": 2
+      },
+      {
+        "title": "Doves in the Wind",
+        "duration": 266,
+        "track_number": 3
+      },
+      {
+        "title": "Drew Barrymore",
+        "duration": 231,
+        "track_number": 4
+      },
+      {
+        "title": "Prom",
+        "duration": 196,
+        "track_number": 5
+      },
+      {
+        "title": "The Weekend",
+        "duration": 272,
+        "track_number": 6
+      },
+      {
+        "title": "Go Gina",
+        "duration": 161,
+        "track_number": 7
+      },
+      {
+        "title": "Garden (Say It Like Dat)",
+        "duration": 208,
+        "track_number": 8
+      },
+      {
+        "title": "Broken Clocks",
+        "duration": 231,
+        "track_number": 9
+      },
+      {
+        "title": "Anything",
+        "duration": 149,
+        "track_number": 10
+      },
+      {
+        "title": "Wavy (interlude)",
+        "duration": 75,
+        "track_number": 11
+      },
+      {
+        "title": "Normal Girl",
+        "duration": 253,
+        "track_number": 12
+      },
+      {
+        "title": "Pretty Little Birds",
+        "duration": 245,
+        "track_number": 13
+      },
+      {
+        "title": "20 Something",
+        "duration": 198,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 79
+  },
+  "Masseduction|St. Vincent|2017": {
+    "source": "musicbrainz",
+    "mbid": "520a72b0-5af3-43fa-a127-ee0eb1754356",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/9cb8e7bb37509a8de6b41dcd108a2207/500x500-000000-80-0-0.jpg",
+    "matched_title": "MASSEDUCTION",
+    "matched_artist": "St. Vincent",
+    "matched_year": 2017,
+    "tracks": [
+      {
+        "title": "Hang on Me",
+        "duration": 168,
+        "track_number": 1
+      },
+      {
+        "title": "Pills",
+        "duration": 280,
+        "track_number": 2
+      },
+      {
+        "title": "Masseduction",
+        "duration": 197,
+        "track_number": 3
+      },
+      {
+        "title": "Sugarboy",
+        "duration": 241,
+        "track_number": 4
+      },
+      {
+        "title": "Los Ageless",
+        "duration": 281,
+        "track_number": 5
+      },
+      {
+        "title": "Happy Birthday, Johnny",
+        "duration": 178,
+        "track_number": 6
+      },
+      {
+        "title": "Savior",
+        "duration": 206,
+        "track_number": 7
+      },
+      {
+        "title": "New York",
+        "duration": 153,
+        "track_number": 8
+      },
+      {
+        "title": "Fear the Future",
+        "duration": 151,
+        "track_number": 9
+      },
+      {
+        "title": "Young Lover",
+        "duration": 213,
+        "track_number": 10
+      },
+      {
+        "title": "Dancing With a Ghost",
+        "duration": 46,
+        "track_number": 11
+      },
+      {
+        "title": "Slow Disco",
+        "duration": 164,
+        "track_number": 12
+      },
+      {
+        "title": "Smoking Section",
+        "duration": 217,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 80,
+    "cover_source": "deezer"
+  },
+  "Flower Boy|Tyler, The Creator|2017": {
+    "source": "musicbrainz",
+    "mbid": "523f5e88-9988-436d-ab60-6d514c1f0e15",
+    "cover_url": "https://coverartarchive.org/release/523f5e88-9988-436d-ab60-6d514c1f0e15/17224284550-500.jpg",
+    "matched_title": "Flower Boy",
+    "matched_artist": "Tyler, The Creator",
+    "matched_year": 2017,
+    "tracks": [
+      {
+        "title": "Foreword",
+        "duration": 194,
+        "track_number": 1
+      },
+      {
+        "title": "Where This Flower Blooms",
+        "duration": 195,
+        "track_number": 2
+      },
+      {
+        "title": "Sometimes…",
+        "duration": 36,
+        "track_number": 3
+      },
+      {
+        "title": "See You Again",
+        "duration": 180,
+        "track_number": 4
+      },
+      {
+        "title": "Who Dat Boy",
+        "duration": 205,
+        "track_number": 5
+      },
+      {
+        "title": "Pothole",
+        "duration": 237,
+        "track_number": 6
+      },
+      {
+        "title": "Garden Shed",
+        "duration": 224,
+        "track_number": 7
+      },
+      {
+        "title": "Boredom",
+        "duration": 321,
+        "track_number": 8
+      },
+      {
+        "title": "I Ain’t Got Time!",
+        "duration": 206,
+        "track_number": 9
+      },
+      {
+        "title": "911 / Mr. Lonely",
+        "duration": 256,
+        "track_number": 10
+      },
+      {
+        "title": "Droppin’ Seeds",
+        "duration": 60,
+        "track_number": 11
+      },
+      {
+        "title": "November",
+        "duration": 225,
+        "track_number": 12
+      },
+      {
+        "title": "Glitter",
+        "duration": 225,
+        "track_number": 13
+      },
+      {
+        "title": "Enjoy Right Now, Today",
+        "duration": 235,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 81
+  },
+  "A Seat at the Table|Solange|2016": {
+    "source": "musicbrainz",
+    "mbid": "3e3c90cd-0c0c-4beb-8f7b-b95a076c89eb",
+    "cover_url": "http://coverartarchive.org/release/3e3c90cd-0c0c-4beb-8f7b-b95a076c89eb/14763601258-500.jpg",
+    "matched_title": "A Seat at the Table",
+    "matched_artist": "Solange",
+    "matched_year": 2016,
+    "tracks": [
+      {
+        "title": "Rise",
+        "duration": 101,
+        "track_number": 1
+      },
+      {
+        "title": "Weary",
+        "duration": 194,
+        "track_number": 2
+      },
+      {
+        "title": "Interlude: The Glory Is in You",
+        "duration": 17,
+        "track_number": 3
+      },
+      {
+        "title": "Cranes in the Sky",
+        "duration": 250,
+        "track_number": 4
+      },
+      {
+        "title": "Interlude: Dad Was Mad",
+        "duration": 46,
+        "track_number": 5
+      },
+      {
+        "title": "Mad",
+        "duration": 235,
+        "track_number": 6
+      },
+      {
+        "title": "Don’t You Wait",
+        "duration": 245,
+        "track_number": 7
+      },
+      {
+        "title": "Interlude: Tina Taught Me",
+        "duration": 74,
+        "track_number": 8
+      },
+      {
+        "title": "Don’t Touch My Hair",
+        "duration": 257,
+        "track_number": 9
+      },
+      {
+        "title": "Interlude: This Moment",
+        "duration": 49,
+        "track_number": 10
+      },
+      {
+        "title": "Where Do We Go",
+        "duration": 264,
+        "track_number": 11
+      },
+      {
+        "title": "Interlude: For Us by Us",
+        "duration": 52,
+        "track_number": 12
+      },
+      {
+        "title": "F.U.B.U.",
+        "duration": 313,
+        "track_number": 13
+      },
+      {
+        "title": "Borderline (An Ode to Self Care)",
+        "duration": 182,
+        "track_number": 14
+      },
+      {
+        "title": "Interlude: I Got So Much Magic, You Can Have It",
+        "duration": 26,
+        "track_number": 15
+      },
+      {
+        "title": "Junie",
+        "duration": 186,
+        "track_number": 16
+      },
+      {
+        "title": "Interlude: No Limits",
+        "duration": 39,
+        "track_number": 17
+      },
+      {
+        "title": "Don’t Wish Me Well",
+        "duration": 255,
+        "track_number": 18
+      },
+      {
+        "title": "Interlude: Pedestals",
+        "duration": 57,
+        "track_number": 19
+      },
+      {
+        "title": "Scales",
+        "duration": 219,
+        "track_number": 20
+      },
+      {
+        "title": "Closing: The Chosen Ones",
+        "duration": 42,
+        "track_number": 21
+      }
+    ],
+    "billboard_rank": 82
+  },
+  "Lemonade|Beyoncé|2016": {
+    "source": "musicbrainz",
+    "mbid": "4f2aadf4-c349-4a25-b070-a323f9089bec",
+    "cover_url": "http://coverartarchive.org/release/4f2aadf4-c349-4a25-b070-a323f9089bec/14738188212-500.jpg",
+    "matched_title": "Lemonade",
+    "matched_artist": "Beyoncé",
+    "matched_year": 2016,
+    "tracks": [
+      {
+        "title": "PRAY YOU CATCH ME",
+        "duration": 196,
+        "track_number": 1
+      },
+      {
+        "title": "HOLD UP",
+        "duration": 221,
+        "track_number": 2
+      },
+      {
+        "title": "Don’t Hurt Yourself",
+        "duration": 234,
+        "track_number": 3
+      },
+      {
+        "title": "SORRY",
+        "duration": 233,
+        "track_number": 4
+      },
+      {
+        "title": "6 Inch",
+        "duration": 260,
+        "track_number": 5
+      },
+      {
+        "title": "DADDY LESSONS",
+        "duration": 288,
+        "track_number": 6
+      },
+      {
+        "title": "LOVE DROUGHT",
+        "duration": 237,
+        "track_number": 7
+      },
+      {
+        "title": "SANDCASTLES",
+        "duration": 183,
+        "track_number": 8
+      },
+      {
+        "title": "Forward",
+        "duration": 79,
+        "track_number": 9
+      },
+      {
+        "title": "Freedom",
+        "duration": 290,
+        "track_number": 10
+      },
+      {
+        "title": "ALL NIGHT",
+        "duration": 322,
+        "track_number": 11
+      },
+      {
+        "title": "FORMATION",
+        "duration": 206,
+        "track_number": 12
+      },
+      {
+        "title": "Lemonade",
+        "duration": 3932,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 83
+  },
+  "Blackstar|David Bowie|2016": {
+    "source": "musicbrainz",
+    "mbid": "56c67a5e-2f62-4d39-86f3-3bce7678278d",
+    "cover_url": "https://coverartarchive.org/release/56c67a5e-2f62-4d39-86f3-3bce7678278d/43186905837-500.jpg",
+    "matched_title": "Blackstar",
+    "matched_artist": "David Bowie",
+    "matched_year": 2015,
+    "tracks": [
+      {
+        "title": "Blackstar (radio edit)",
+        "duration": 203,
+        "track_number": 1
+      },
+      {
+        "title": "★",
+        "duration": 598,
+        "track_number": 2
+      }
+    ],
+    "billboard_rank": 84
+  },
+  "22 A Million|Bon Iver|2016": {
+    "source": "musicbrainz",
+    "mbid": "0e150c77-c420-4482-98a3-1efadc7f96f3",
+    "cover_url": "https://coverartarchive.org/release/0e150c77-c420-4482-98a3-1efadc7f96f3/14888101423-500.jpg",
+    "matched_title": "22, a Million",
+    "matched_artist": "Bon Iver",
+    "matched_year": 2016,
+    "tracks": [
+      {
+        "title": "22 (OVER S∞∞N)",
+        "duration": 168,
+        "track_number": 1
+      },
+      {
+        "title": "10 d E A T h b R E a s T ⚄ ⚄",
+        "duration": 144,
+        "track_number": 2
+      },
+      {
+        "title": "715 - CR∑∑KS",
+        "duration": 132,
+        "track_number": 3
+      },
+      {
+        "title": "33 “GOD”",
+        "duration": 213,
+        "track_number": 4
+      },
+      {
+        "title": "29 #Strafford APTS",
+        "duration": 245,
+        "track_number": 5
+      },
+      {
+        "title": "666 ʇ",
+        "duration": 252,
+        "track_number": 6
+      },
+      {
+        "title": "21 M◊◊N WATER",
+        "duration": 188,
+        "track_number": 7
+      },
+      {
+        "title": "8 (circle)",
+        "duration": 309,
+        "track_number": 8
+      },
+      {
+        "title": "____45_____",
+        "duration": 166,
+        "track_number": 9
+      },
+      {
+        "title": "00000 Million",
+        "duration": 234,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 85
+  },
+  "A Moon Shaped Pool|Radiohead|2016": {
+    "source": "musicbrainz",
+    "mbid": "fe77a154-63da-4c0d-899c-3d8731e2d2c2",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/e9232e4391ed1206cc0bd6ab17822177/500x500-000000-80-0-0.jpg",
+    "matched_title": "A Moon Shaped Pool",
+    "matched_artist": "Radiohead",
+    "matched_year": 2016,
+    "tracks": [
+      {
+        "title": "Burn the Witch",
+        "duration": 220,
+        "track_number": 1
+      },
+      {
+        "title": "Daydreaming",
+        "duration": 384,
+        "track_number": 2
+      },
+      {
+        "title": "Decks Dark",
+        "duration": 281,
+        "track_number": 3
+      },
+      {
+        "title": "Desert Island Disk",
+        "duration": 224,
+        "track_number": 4
+      },
+      {
+        "title": "Ful Stop",
+        "duration": 367,
+        "track_number": 5
+      },
+      {
+        "title": "Glass Eyes",
+        "duration": 172,
+        "track_number": 6
+      },
+      {
+        "title": "Identikit",
+        "duration": 266,
+        "track_number": 7
+      },
+      {
+        "title": "The Numbers",
+        "duration": 345,
+        "track_number": 8
+      },
+      {
+        "title": "Present Tense",
+        "duration": 306,
+        "track_number": 9
+      },
+      {
+        "title": "Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief",
+        "duration": 303,
+        "track_number": 10
+      },
+      {
+        "title": "True Love Waits",
+        "duration": 283,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 86,
+    "cover_source": "deezer"
+  },
+  "Art Angels|Grimes|2015": {
+    "source": "musicbrainz",
+    "mbid": "a594d208-e182-425e-b462-20b2ab85c473",
+    "cover_url": "http://coverartarchive.org/release/a594d208-e182-425e-b462-20b2ab85c473/20987988874-500.jpg",
+    "matched_title": "Art Angels",
+    "matched_artist": "Grimes",
+    "matched_year": 2015,
+    "tracks": [
+      {
+        "title": "laughing and not being normal",
+        "duration": 107,
+        "track_number": 1
+      },
+      {
+        "title": "California",
+        "duration": 198,
+        "track_number": 2
+      },
+      {
+        "title": "SCREAM",
+        "duration": 140,
+        "track_number": 3
+      },
+      {
+        "title": "Flesh without Blood",
+        "duration": 264,
+        "track_number": 4
+      },
+      {
+        "title": "Belly of the beat",
+        "duration": 205,
+        "track_number": 5
+      },
+      {
+        "title": "Kill V. Maim",
+        "duration": 246,
+        "track_number": 6
+      },
+      {
+        "title": "Artangels",
+        "duration": 247,
+        "track_number": 7
+      },
+      {
+        "title": "Easily",
+        "duration": 183,
+        "track_number": 8
+      },
+      {
+        "title": "Pin",
+        "duration": 212,
+        "track_number": 9
+      },
+      {
+        "title": "REALiTi",
+        "duration": 306,
+        "track_number": 10
+      },
+      {
+        "title": "World Princess, part II",
+        "duration": 305,
+        "track_number": 11
+      },
+      {
+        "title": "Venus Fly",
+        "duration": 225,
+        "track_number": 12
+      },
+      {
+        "title": "Life in the Vivid Dream",
+        "duration": 87,
+        "track_number": 13
+      },
+      {
+        "title": "Butterfly",
+        "duration": 252,
+        "track_number": 14
+      },
+      {
+        "title": "REALiTi (demo)",
+        "duration": 267,
+        "track_number": 15
+      }
+    ],
+    "billboard_rank": 87
+  },
+  "Carrie & Lowell|Sufjan Stevens|2015": {
+    "source": "musicbrainz",
+    "mbid": "87b4a614-d53d-4495-b176-5d4f2bb353e6",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/500x500-000000-80-0-0.jpg",
+    "matched_title": "Carrie & Lowell",
+    "matched_artist": "Sufjan Stevens",
+    "matched_year": 2015,
+    "tracks": [
+      {
+        "title": "Death With Dignity",
+        "duration": 239,
+        "track_number": 1
+      },
+      {
+        "title": "Should Have Known Better",
+        "duration": 307,
+        "track_number": 2
+      },
+      {
+        "title": "All of Me Wants All of You",
+        "duration": 221,
+        "track_number": 3
+      },
+      {
+        "title": "Drawn to the Blood",
+        "duration": 198,
+        "track_number": 4
+      },
+      {
+        "title": "Eugene",
+        "duration": 146,
+        "track_number": 5
+      },
+      {
+        "title": "Fourth of July",
+        "duration": 279,
+        "track_number": 6
+      },
+      {
+        "title": "The Only Thing",
+        "duration": 284,
+        "track_number": 7
+      },
+      {
+        "title": "Carrie & Lowell",
+        "duration": 194,
+        "track_number": 8
+      },
+      {
+        "title": "John My Beloved",
+        "duration": 304,
+        "track_number": 9
+      },
+      {
+        "title": "No Shade in the Shadow of the Cross",
+        "duration": 160,
+        "track_number": 10
+      },
+      {
+        "title": "Blue Bucket of Gold",
+        "duration": 285,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 88,
+    "cover_source": "deezer"
+  },
+  "Sometimes I Sit and Think and Sometimes I Just Sit|Courtney Barnett|2015": {
+    "source": "musicbrainz",
+    "mbid": "c5f62362-155e-47b2-b283-1a0719403a60",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/c888c454c0e49e7af0756c78ab739c5f/500x500-000000-80-0-0.jpg",
+    "matched_title": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+    "matched_artist": "Courtney Barnett",
+    "matched_year": 2015,
+    "tracks": [
+      {
+        "title": "Elevator Operator",
+        "duration": 194,
+        "track_number": 1
+      },
+      {
+        "title": "Pedestrian at Best",
+        "duration": 230,
+        "track_number": 2
+      },
+      {
+        "title": "An Illustration of Loneliness (Sleepless in New York)",
+        "duration": 190,
+        "track_number": 3
+      },
+      {
+        "title": "Small Poppies",
+        "duration": 419,
+        "track_number": 4
+      },
+      {
+        "title": "Depreston",
+        "duration": 292,
+        "track_number": 5
+      },
+      {
+        "title": "Aqua Profunda!",
+        "duration": 119,
+        "track_number": 6
+      },
+      {
+        "title": "Dead Fox",
+        "duration": 213,
+        "track_number": 7
+      },
+      {
+        "title": "Nobody Really Cares If You Don’t Go to the Party",
+        "duration": 166,
+        "track_number": 8
+      },
+      {
+        "title": "Debbie Downer",
+        "duration": 197,
+        "track_number": 9
+      },
+      {
+        "title": "Kim’s Caravan",
+        "duration": 407,
+        "track_number": 10
+      },
+      {
+        "title": "Boxing Day Blues",
+        "duration": 182,
+        "track_number": 11
+      },
+      {
+        "title": "Stair Androids & Valley Um…?",
+        "duration": 180,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 89,
+    "cover_source": "deezer"
+  },
+  "I Love You Honeybear|Father John Misty|2015": {
+    "source": "musicbrainz",
+    "mbid": "ef97a1e6-7970-42a2-bbd0-05b8f3265f81",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/4fe63fc7fe849f76e176b9c482e1d33a/500x500-000000-80-0-0.jpg",
+    "matched_title": "I Love You, Honeybear",
+    "matched_artist": "Father John Misty",
+    "matched_year": 2015,
+    "tracks": [
+      {
+        "title": "I Love You, Honeybear",
+        "duration": 279,
+        "track_number": 1
+      },
+      {
+        "title": "Chateau Lobby #4 (in C for Two Virgins)",
+        "duration": 171,
+        "track_number": 2
+      },
+      {
+        "title": "True Affection",
+        "duration": 237,
+        "track_number": 3
+      },
+      {
+        "title": "The Night Josh Tillman Came to Our Apt.",
+        "duration": 216,
+        "track_number": 4
+      },
+      {
+        "title": "When You’re Smiling and Astride Me",
+        "duration": 274,
+        "track_number": 5
+      },
+      {
+        "title": "Nothing Good Ever Happens at the Goddamn Thirsty Crow",
+        "duration": 274,
+        "track_number": 6
+      },
+      {
+        "title": "Strange Encounter",
+        "duration": 260,
+        "track_number": 7
+      },
+      {
+        "title": "The Ideal Husband",
+        "duration": 215,
+        "track_number": 8
+      },
+      {
+        "title": "Bored in the USA",
+        "duration": 262,
+        "track_number": 9
+      },
+      {
+        "title": "Holy Shit",
+        "duration": 241,
+        "track_number": 10
+      },
+      {
+        "title": "I Went to the Store One Day",
+        "duration": 267,
+        "track_number": 11
+      },
+      {
+        "title": "I Loved You, Honeybee",
+        "duration": 288,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 90,
+    "cover_source": "deezer"
+  },
+  "Emotion|Carly Rae Jepsen|2015": {
+    "_error": "MB_BASE is not defined",
+    "source": "musicbrainz"
+  },
+  "Lost in the Dream|The War on Drugs|2014": {
+    "source": "musicbrainz",
+    "mbid": "8c2df801-89f6-4da6-a4ed-f34658647d75",
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/464e9f5f4011af364517775204753daf/500x500-000000-80-0-0.jpg",
+    "matched_title": "Lost in the Dream",
+    "matched_artist": "The War on Drugs",
+    "matched_year": 2014,
+    "tracks": [
+      {
+        "title": "Under the Pressure",
+        "duration": 531,
+        "track_number": 1
+      },
+      {
+        "title": "Red Eyes",
+        "duration": 299,
+        "track_number": 2
+      },
+      {
+        "title": "Suffering",
+        "duration": 361,
+        "track_number": 3
+      },
+      {
+        "title": "An Ocean in Between the Waves",
+        "duration": 431,
+        "track_number": 4
+      },
+      {
+        "title": "Disappearing",
+        "duration": 411,
+        "track_number": 5
+      },
+      {
+        "title": "Eyes to the Wind",
+        "duration": 354,
+        "track_number": 6
+      },
+      {
+        "title": "The Haunting Idle",
+        "duration": 187,
+        "track_number": 7
+      },
+      {
+        "title": "Burning",
+        "duration": 348,
+        "track_number": 8
+      },
+      {
+        "title": "Lost in the Dream",
+        "duration": 249,
+        "track_number": 9
+      },
+      {
+        "title": "In Reverse",
+        "duration": 461,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 92,
+    "cover_source": "deezer"
+  },
+  "1989|Taylor Swift|2014": {
+    "source": "musicbrainz",
+    "mbid": "e3f0984a-4036-4cd7-8c8c-0217b87c577a",
+    "cover_url": "http://coverartarchive.org/release/e3f0984a-4036-4cd7-8c8c-0217b87c577a/31605947509-500.jpg",
+    "matched_title": "1989",
+    "matched_artist": "Taylor Swift",
+    "matched_year": 2014,
+    "tracks": [
+      {
+        "title": "Welcome to New York",
+        "duration": 213,
+        "track_number": 1
+      },
+      {
+        "title": "Blank Space",
+        "duration": 232,
+        "track_number": 2
+      },
+      {
+        "title": "Style",
+        "duration": 231,
+        "track_number": 3
+      },
+      {
+        "title": "Out of the Woods",
+        "duration": 236,
+        "track_number": 4
+      },
+      {
+        "title": "All You Had to Do Was Stay",
+        "duration": 193,
+        "track_number": 5
+      },
+      {
+        "title": "Shake It Off",
+        "duration": 219,
+        "track_number": 6
+      },
+      {
+        "title": "I Wish You Would",
+        "duration": 207,
+        "track_number": 7
+      },
+      {
+        "title": "Bad Blood",
+        "duration": 212,
+        "track_number": 8
+      },
+      {
+        "title": "Wildest Dreams",
+        "duration": 220,
+        "track_number": 9
+      },
+      {
+        "title": "How You Get the Girl",
+        "duration": 248,
+        "track_number": 10
+      },
+      {
+        "title": "This Love",
+        "duration": 250,
+        "track_number": 11
+      },
+      {
+        "title": "I Know Places",
+        "duration": 196,
+        "track_number": 12
+      },
+      {
+        "title": "Clean",
+        "duration": 271,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 93
+  },
+  "Run the Jewels 2|Run the Jewels|2014": {
+    "source": "musicbrainz",
+    "mbid": "957d62f4-8eb4-4636-afb9-07d92e0b5ace",
+    "cover_url": "http://coverartarchive.org/release/957d62f4-8eb4-4636-afb9-07d92e0b5ace/10297290692.png",
+    "matched_title": "Run the Jewels 2",
+    "matched_artist": "Run the Jewels",
+    "matched_year": 2014,
+    "tracks": [
+      {
+        "title": "Jeopardy",
+        "duration": 202,
+        "track_number": 1
+      },
+      {
+        "title": "Oh My Darling Don’t Cry",
+        "duration": 205,
+        "track_number": 2
+      },
+      {
+        "title": "Blockbuster Night, Pt. 1",
+        "duration": 152,
+        "track_number": 3
+      },
+      {
+        "title": "Close Your Eyes (and Count to Fuck)",
+        "duration": 234,
+        "track_number": 4
+      },
+      {
+        "title": "All My Life",
+        "duration": 188,
+        "track_number": 5
+      },
+      {
+        "title": "Lie, Cheat, Steal",
+        "duration": 208,
+        "track_number": 6
+      },
+      {
+        "title": "Early",
+        "duration": 224,
+        "track_number": 7
+      },
+      {
+        "title": "All Due Respect",
+        "duration": 168,
+        "track_number": 8
+      },
+      {
+        "title": "Love Again (Akinyele Back)",
+        "duration": 225,
+        "track_number": 9
+      },
+      {
+        "title": "Crown",
+        "duration": 226,
+        "track_number": 10
+      },
+      {
+        "title": "Angel Duster",
+        "duration": 309,
+        "track_number": 11
+      }
+    ],
+    "billboard_rank": 94
+  },
+  "Yeezus|Kanye West|2013": {
+    "source": "musicbrainz",
+    "mbid": "e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d",
+    "cover_url": "http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg",
+    "matched_title": "Yeezus",
+    "matched_artist": "Kanye West",
+    "matched_year": 2013,
+    "tracks": [
+      {
+        "title": "On Sight",
+        "duration": 157,
+        "track_number": 1
+      },
+      {
+        "title": "Black Skinhead",
+        "duration": 188,
+        "track_number": 2
+      },
+      {
+        "title": "I Am a God",
+        "duration": 232,
+        "track_number": 3
+      },
+      {
+        "title": "New Slaves",
+        "duration": 256,
+        "track_number": 4
+      },
+      {
+        "title": "Hold My Liquor",
+        "duration": 327,
+        "track_number": 5
+      },
+      {
+        "title": "I’m in It",
+        "duration": 235,
+        "track_number": 6
+      },
+      {
+        "title": "Blood on the Leaves",
+        "duration": 360,
+        "track_number": 7
+      },
+      {
+        "title": "Guilt Trip",
+        "duration": 244,
+        "track_number": 8
+      },
+      {
+        "title": "Send It Up",
+        "duration": 178,
+        "track_number": 9
+      },
+      {
+        "title": "Bound 2",
+        "duration": 229,
+        "track_number": 10
+      }
+    ],
+    "billboard_rank": 95
+  },
+  "Random Access Memories|Daft Punk|2013": {
+    "source": "musicbrainz",
+    "mbid": "ec116461-5b0d-4c98-bb44-a4de5de63076",
+    "cover_url": "http://coverartarchive.org/release/ec116461-5b0d-4c98-bb44-a4de5de63076/12639807914.jpg",
+    "matched_title": "Random Access Memories",
+    "matched_artist": "Daft Punk",
+    "matched_year": 2013,
+    "tracks": [
+      {
+        "title": "Give Life Back to Music",
+        "duration": 274,
+        "track_number": 1
+      },
+      {
+        "title": "The Game of Love",
+        "duration": 321,
+        "track_number": 2
+      },
+      {
+        "title": "Giorgio by Moroder",
+        "duration": 544,
+        "track_number": 3
+      },
+      {
+        "title": "Within",
+        "duration": 228,
+        "track_number": 4
+      },
+      {
+        "title": "Instant Crush",
+        "duration": 337,
+        "track_number": 5
+      },
+      {
+        "title": "Lose Yourself to Dance",
+        "duration": 353,
+        "track_number": 6
+      },
+      {
+        "title": "Touch",
+        "duration": 498,
+        "track_number": 7
+      },
+      {
+        "title": "Get Lucky",
+        "duration": 367,
+        "track_number": 8
+      },
+      {
+        "title": "Beyond",
+        "duration": 290,
+        "track_number": 9
+      },
+      {
+        "title": "Motherboard",
+        "duration": 341,
+        "track_number": 10
+      },
+      {
+        "title": "Fragments of Time",
+        "duration": 279,
+        "track_number": 11
+      },
+      {
+        "title": "Doin’ It Right",
+        "duration": 251,
+        "track_number": 12
+      },
+      {
+        "title": "Contact",
+        "duration": 381,
+        "track_number": 13
+      }
+    ],
+    "billboard_rank": 96
+  },
+  "Modern Vampires of the City|Vampire Weekend|2013": {
+    "source": "musicbrainz",
+    "mbid": "535d99b4-bba2-4aba-bd1d-5cc830e8264e",
+    "cover_url": "https://coverartarchive.org/release/535d99b4-bba2-4aba-bd1d-5cc830e8264e/38615868462-500.jpg",
+    "matched_title": "Modern Vampires of the City",
+    "matched_artist": "Vampire Weekend",
+    "matched_year": 2013,
+    "tracks": [
+      {
+        "title": "Obvious Bicycle",
+        "duration": 251,
+        "track_number": 1
+      },
+      {
+        "title": "Unbelievers",
+        "duration": 203,
+        "track_number": 2
+      },
+      {
+        "title": "Step",
+        "duration": 252,
+        "track_number": 3
+      },
+      {
+        "title": "Diane Young",
+        "duration": 160,
+        "track_number": 4
+      },
+      {
+        "title": "Don’t Lie",
+        "duration": 213,
+        "track_number": 5
+      },
+      {
+        "title": "Hannah Hunt",
+        "duration": 238,
+        "track_number": 6
+      },
+      {
+        "title": "Everlasting Arms",
+        "duration": 183,
+        "track_number": 7
+      },
+      {
+        "title": "Finger Back",
+        "duration": 206,
+        "track_number": 8
+      },
+      {
+        "title": "Worship You",
+        "duration": 201,
+        "track_number": 9
+      },
+      {
+        "title": "Ya Hey",
+        "duration": 313,
+        "track_number": 10
+      },
+      {
+        "title": "Hudson",
+        "duration": 255,
+        "track_number": 11
+      },
+      {
+        "title": "Young Lion",
+        "duration": 109,
+        "track_number": 12
+      },
+      {
+        "title": "Ya Hey (Paranoid Styles mix)",
+        "duration": 229,
+        "track_number": 13
+      },
+      {
+        "title": "Unbelievers (Seeburg Drum Machine mix)",
+        "duration": 203,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 97
+  },
+  "Good Kid M.A.A.D City|Kendrick Lamar|2012": {
+    "source": "musicbrainz",
+    "mbid": "5d850f71-e51e-44be-96c8-51cc305f3596",
+    "cover_url": "http://coverartarchive.org/release/5d850f71-e51e-44be-96c8-51cc305f3596/2818803920.jpg",
+    "matched_title": "good kid, m.A.A.d city",
+    "matched_artist": "Kendrick Lamar",
+    "matched_year": 2012,
+    "tracks": [
+      {
+        "title": "Sherane a.k.a Master Splinter’s Daughter",
+        "duration": 273,
+        "track_number": 1
+      },
+      {
+        "title": "Bitch, Don’t Kill My Vibe",
+        "duration": 310,
+        "track_number": 2
+      },
+      {
+        "title": "Backseat Freestyle",
+        "duration": 212,
+        "track_number": 3
+      },
+      {
+        "title": "The Art of Peer Pressure",
+        "duration": 324,
+        "track_number": 4
+      },
+      {
+        "title": "Money Trees",
+        "duration": 386,
+        "track_number": 5
+      },
+      {
+        "title": "Poetic Justice",
+        "duration": 300,
+        "track_number": 6
+      },
+      {
+        "title": "good kid",
+        "duration": 214,
+        "track_number": 7
+      },
+      {
+        "title": "m.A.A.d city",
+        "duration": 350,
+        "track_number": 8
+      },
+      {
+        "title": "Swimming Pools (Drank) (extended version)",
+        "duration": 313,
+        "track_number": 9
+      },
+      {
+        "title": "Sing About Me, I’m Dying of Thirst",
+        "duration": 723,
+        "track_number": 10
+      },
+      {
+        "title": "Real",
+        "duration": 443,
+        "track_number": 11
+      },
+      {
+        "title": "Compton",
+        "duration": 248,
+        "track_number": 12
+      }
+    ],
+    "billboard_rank": 98
+  },
+  "Channel Orange|Frank Ocean|2012": {
+    "source": "musicbrainz",
+    "mbid": "4166a63b-94ad-4f47-83b7-3db323efe27d",
+    "cover_url": "http://coverartarchive.org/release/4166a63b-94ad-4f47-83b7-3db323efe27d/15368657272-500.jpg",
+    "matched_title": "channel ORANGE",
+    "matched_artist": "Frank Ocean",
+    "matched_year": 2012,
+    "tracks": [
+      {
+        "title": "Start",
+        "duration": 45,
+        "track_number": 1
+      },
+      {
+        "title": "Thinkin Bout You",
+        "duration": 200,
+        "track_number": 2
+      },
+      {
+        "title": "Fertilizer",
+        "duration": 39,
+        "track_number": 3
+      },
+      {
+        "title": "Sierra Leone",
+        "duration": 148,
+        "track_number": 4
+      },
+      {
+        "title": "Sweet Life",
+        "duration": 262,
+        "track_number": 5
+      },
+      {
+        "title": "Not Just Money",
+        "duration": 60,
+        "track_number": 6
+      },
+      {
+        "title": "Super Rich Kids",
+        "duration": 304,
+        "track_number": 7
+      },
+      {
+        "title": "Pilot Jones",
+        "duration": 184,
+        "track_number": 8
+      },
+      {
+        "title": "Crack Rock",
+        "duration": 224,
+        "track_number": 9
+      },
+      {
+        "title": "Pyramids",
+        "duration": 593,
+        "track_number": 10
+      },
+      {
+        "title": "Lost",
+        "duration": 234,
+        "track_number": 11
+      },
+      {
+        "title": "White",
+        "duration": 76,
+        "track_number": 12
+      },
+      {
+        "title": "Monks",
+        "duration": 201,
+        "track_number": 13
+      },
+      {
+        "title": "Bad Religion",
+        "duration": 175,
+        "track_number": 14
+      },
+      {
+        "title": "Pink Matter",
+        "duration": 268,
+        "track_number": 15
+      },
+      {
+        "title": "Forrest Gump",
+        "duration": 195,
+        "track_number": 16
+      },
+      {
+        "title": "End / Golden Girl",
+        "duration": 523,
+        "track_number": 17
+      }
+    ],
+    "billboard_rank": 99
+  },
+  "My Beautiful Dark Twisted Fantasy|Kanye West|2010": {
+    "source": "musicbrainz",
+    "mbid": "cd7d8c81-d519-4149-8cd0-ade722ad19b9",
+    "cover_url": "https://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/43101718405-500.jpg",
+    "matched_title": "My Beautiful Dark Twisted Fantasy",
+    "matched_artist": "Kanye West",
+    "matched_year": 2010,
+    "tracks": [
+      {
+        "title": "Dark Fantasy",
+        "duration": 281,
+        "track_number": 1
+      },
+      {
+        "title": "Gorgeous",
+        "duration": 358,
+        "track_number": 2
+      },
+      {
+        "title": "Power",
+        "duration": 292,
+        "track_number": 3
+      },
+      {
+        "title": "All of the Lights (interlude)",
+        "duration": 62,
+        "track_number": 4
+      },
+      {
+        "title": "All of the Lights",
+        "duration": 300,
+        "track_number": 5
+      },
+      {
+        "title": "Monster",
+        "duration": 379,
+        "track_number": 6
+      },
+      {
+        "title": "So Appalled",
+        "duration": 398,
+        "track_number": 7
+      },
+      {
+        "title": "Devil in a New Dress",
+        "duration": 352,
+        "track_number": 8
+      },
+      {
+        "title": "Runaway",
+        "duration": 548,
+        "track_number": 9
+      },
+      {
+        "title": "Hell of a Life",
+        "duration": 328,
+        "track_number": 10
+      },
+      {
+        "title": "Blame Game",
+        "duration": 470,
+        "track_number": 11
+      },
+      {
+        "title": "Lost in the World",
+        "duration": 257,
+        "track_number": 12
+      },
+      {
+        "title": "Who Will Survive in America",
+        "duration": 98,
+        "track_number": 13
+      },
+      {
+        "title": "Runway (film) (album version, edited)",
+        "duration": 2067,
+        "track_number": 14
+      }
+    ],
+    "billboard_rank": 100
+  },
+  "you seem pretty sad for a girl so in love|Olivia Rodrigo|2026": {
+    "source": "deezer",
+    "deezer_id": 1002561451,
+    "cover_url": "https://cdn-images.dzcdn.net/images/cover/07d6896c8afea3a87dcf9381c3d0e6c7/500x500-000000-80-0-0.jpg",
+    "matched_title": "you seem pretty sad for a girl so in love",
+    "matched_artist": "Olivia Rodrigo",
+    "matched_year": 2026,
+    "tracks": [
+      {
+        "title": "drop dead",
+        "duration": 225
+      },
+      {
+        "title": "stupid song",
+        "duration": 209
+      },
+      {
+        "title": "honeybee",
+        "duration": 223
+      },
+      {
+        "title": "maggots for brains",
+        "duration": 240
+      },
+      {
+        "title": "u + me = <3",
+        "duration": 247
+      },
+      {
+        "title": "my way",
+        "duration": 180
+      },
+      {
+        "title": "purple",
+        "duration": 240
+      },
+      {
+        "title": "the cure",
+        "duration": 297
+      },
+      {
+        "title": "begged",
+        "duration": 217
+      },
+      {
+        "title": "what’s wrong with me",
+        "duration": 224
+      },
+      {
+        "title": "less",
+        "duration": 193
+      },
+      {
+        "title": "expectations",
+        "duration": 221
+      },
+      {
+        "title": "cigarette smoke",
+        "duration": 340
+      }
+    ],
+    "billboard_rank": 0
+  }
+}

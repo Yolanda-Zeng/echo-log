@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/*.db*
+.env
+*.log
+.qoder/
+.agents/
+.DS_Store
+Thumbs.db

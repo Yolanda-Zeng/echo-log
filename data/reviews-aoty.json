@@ -1,0 +1,602 @@
+{
+  "BRAT|Charli xcx|2024": {
+    "score": 94,
+    "score_normalized": 9.4,
+    "excerpt": "A career-defining album that masterfully balances emotional vulnerability with euphoric club energy, cementing Charli XCX as one of pop's most vital voices.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=BRAT"
+  },
+  "GNX|Kendrick Lamar|2024": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A lean, focused record that proves Lamar doesn't need elaborate concepts to deliver some of the most incisive hip-hop of his career.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=GNX"
+  },
+  "Imaginal Disk|Magdalena Bay|2024": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A dazzling fusion of retro-futuristic synth-pop and progressive rock ambition that rewards repeated deep listening.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Imaginal%20Disk"
+  },
+  "Charm|Clairo|2024": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A warm, understated record that finds Clairo embracing the soft rock and folk influences of the 1970s with effortless grace.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Charm"
+  },
+  "Hit Me Hard and Soft|Billie Eilish|2024": {
+    "score": 80,
+    "score_normalized": 8,
+    "excerpt": "A confident step forward that pairs Eilish's signature whisper-pop with richer arrangements and more direct emotional stakes.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Hit%20Me%20Hard%20and%20Soft"
+  },
+  "Cowboy Carter|Beyoncé|2024": {
+    "score": 91,
+    "score_normalized": 9.1,
+    "excerpt": "An audacious, sprawling masterpiece that uses country music as a lens to examine American identity, power, and legacy.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Cowboy%20Carter"
+  },
+  "SOS|SZA|2022": {
+    "score": 90,
+    "score_normalized": 9,
+    "excerpt": "A sprawling triumph that seamlessly weaves R&B, pop, and indie rock into one of the most captivating albums of the decade.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=SOS"
+  },
+  "The Rise and Fall of a Midwest Princess|Chappell Roan|2023": {
+    "score": 83,
+    "score_normalized": 8.3,
+    "excerpt": "A joyfully unhinged debut that channels the spirit of early Gaga with the confessional songwriting of a queer country star.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=The%20Rise%20and%20Fall%20of%20a%20Midwest%20Princess"
+  },
+  "Blonde|Frank Ocean|2016": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "A singular work of avant-garde R&B that continues to reveal new depths with each listen, years after its release.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Blonde"
+  },
+  "Currents|Tame Impala|2015": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A shimmering, heartbroken masterpiece that proves Parker is one of the most gifted producers of his generation.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Currents"
+  },
+  "Melodrama|Lorde|2017": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A coming-of-age masterpiece that transforms the chaos of a house party into a profound meditation on heartbreak and self-discovery.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Melodrama"
+  },
+  "To Pimp a Butterfly|Kendrick Lamar|2015": {
+    "score": 93,
+    "score_normalized": 9.3,
+    "excerpt": "One of the most important albums of the 21st century, a dense and rewarding work that demands and repays intense engagement.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=To%20Pimp%20a%20Butterfly"
+  },
+  "Vespertine|Björk|2001": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A gorgeously intricate record that captures the delicate threshold between intimacy and solitude with unmatched grace.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Vespertine"
+  },
+  "In Rainbows|Radiohead|2007": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A gorgeous, humane record that balances the band's experimental impulses with their most straightforwardly beautiful songs.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=In%20Rainbows"
+  },
+  "Titanic Rising|Weyes Blood|2019": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A stunningly beautiful meditation on climate dread and emotional reckoning that sounds like it was beamed from a gentler era.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Titanic%20Rising"
+  },
+  "Sometimes I Might Be Introvert|Little Simz|2021": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "An ambitious, orchestral hip-hop opus that cements Little Simz as one of the most vital voices in British music.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Sometimes%20I%20Might%20Be%20Introvert"
+  },
+  "The Tortured Poets Department|Taylor Swift|2024": {
+    "score": 76,
+    "score_normalized": 7.6,
+    "excerpt": null,
+    "source_url": "https://www.albumoftheyear.org/search/?q=The%20Tortured%20Poets%20Department"
+  },
+  "Short n' Sweet|Sabrina Carpenter|2024": {
+    "score": 80,
+    "score_normalized": 8,
+    "excerpt": "A delightful pop confection that showcases Carpenter's sharp songwriting and undeniable star power.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Short%20n'%20Sweet"
+  },
+  "Eternal Sunshine|Ariana Grande|2024": {
+    "score": 79,
+    "score_normalized": 7.9,
+    "excerpt": "Grande's most mature album yet, channeling personal pain into sleek, sophisticated pop with stunning vocal performances.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Eternal%20Sunshine"
+  },
+  "you seem pretty sad for a girl so in love|Olivia Rodrigo|2026": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "Rodrigo shifts from the snottiness of 90s alt-rock to the romanticism of the 80s, channeling the Bangles and Devo into her sharpest writing yet.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=you%20seem%20pretty%20sad%20for%20a%20girl%20so%20in%20love"
+  },
+  "Only God Was Above Us|Vampire Weekend|2024": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A bold, experimental turn that finds the band pushing their sound into thrillingly unpredictable territory.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Only%20God%20Was%20Above%20Us"
+  },
+  "Blue Lips|ScHoolboy Q|2024": {
+    "score": 78,
+    "score_normalized": 7.8,
+    "excerpt": null,
+    "source_url": "https://www.albumoftheyear.org/search/?q=Blue%20Lips"
+  },
+  "Two Star & The Dream Police|Mk.gee|2024": {
+    "score": 83,
+    "score_normalized": 8.3,
+    "excerpt": "A hazy, genre-defying debut that establishes Mk.gee as one of the most exciting new voices in alternative music.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Two%20Star%20%26%20The%20Dream%20Police"
+  },
+  "All Born Screaming|St. Vincent|2024": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A fierce, self-produced statement that channels anxiety and grief into some of St. Vincent's most visceral music yet.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=All%20Born%20Screaming"
+  },
+  "Mahashmashana|Father John Misty|2024": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A grand, orchestral statement that finds Father John Misty in peak form as both a satirist and a sincere seeker.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Mahashmashana"
+  },
+  "Chromakopia|Tyler, The Creator|2024": {
+    "score": 83,
+    "score_normalized": 8.3,
+    "excerpt": "Another strong entry in Tyler's late-career hot streak, blending his signature maximalism with moments of genuine vulnerability.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Chromakopia"
+  },
+  "Wall of Eyes|The Smile|2024": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A richly textured follow-up that finds the trio honing their chemistry into something more cohesive and daring.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Wall%20of%20Eyes"
+  },
+  "Radical Optimism|Dua Lipa|2024": {
+    "score": 77,
+    "score_normalized": 7.7,
+    "excerpt": "While not as revelatory as Future Nostalgia, Radical Optimism still delivers polished pop with flashes of real inspiration.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Radical%20Optimism"
+  },
+  "We Don't Trust You|Future & Metro Boomin|2024": {
+    "score": 79,
+    "score_normalized": 7.9,
+    "excerpt": "A compelling showcase of two artists at their peak, with Metro's cinematic production providing the perfect backdrop for Future's paranoia.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=We%20Don't%20Trust%20You"
+  },
+  "Midnights|Taylor Swift|2022": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A moody, introspective pop record that showcases Swift at her most sonically adventurous within the mainstream.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Midnights"
+  },
+  "Renaissance|Beyoncé|2022": {
+    "score": 91,
+    "score_normalized": 9.1,
+    "excerpt": "A transcendent celebration of dance culture that doubles as a radical act of historical preservation and pure joy.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Renaissance"
+  },
+  "Mr. Morale & The Big Steppers|Kendrick Lamar|2022": {
+    "score": 91,
+    "score_normalized": 9.1,
+    "excerpt": "A deeply personal and challenging double album that turns the lens inward with unprecedented vulnerability.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Mr.%20Morale%20%26%20The%20Big%20Steppers"
+  },
+  "Ants From Up There|Black Country, New Road|2022": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A breathtaking, emotionally devastating record that pushes post-rock into thrilling new territory.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Ants%20From%20Up%20There"
+  },
+  "Dragon New Warm Mountain I Believe in You|Big Thief|2022": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "An earthy, generous double album that showcases the band's remarkable range, from folk whispers to ragged rock catharsis.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Dragon%20New%20Warm%20Mountain%20I%20Believe%20in%20You"
+  },
+  "Un Verano Sin Ti|Bad Bunny|2022": {
+    "score": 83,
+    "score_normalized": 8.3,
+    "excerpt": "A vibrant, effortlessly charming record that captures the spirit of a perfect summer with irresistible melodies.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Un%20Verano%20Sin%20Ti"
+  },
+  "Harry's House|Harry Styles|2022": {
+    "score": 80,
+    "score_normalized": 8,
+    "excerpt": "A charming, well-crafted pop album that, while less adventurous than Fine Line, still radiates Style's easy charisma.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Harry's%20House"
+  },
+  "Did You Know That There's a Tunnel Under Ocean Blvd|Lana Del Rey|2023": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A labyrinthine, deeply personal work that blurs the boundaries between Lana's myth-making and her most honest confessions.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Did%20You%20Know%20That%20There's%20a%20Tunnel%20Under%20Ocean%20Blvd"
+  },
+  "Desire I Want to Turn Into You|Caroline Polachek|2023": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A breathtaking fusion of pop experimentalism and genuine emotional depth that cements Polachek as a singular talent.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Desire%20I%20Want%20to%20Turn%20Into%20You"
+  },
+  "GUTS|Olivia Rodrigo|2023": {
+    "score": 83,
+    "score_normalized": 8.3,
+    "excerpt": "A confident, emotionally generous follow-up that expands Rodrigo's sonic palette while sharpening her already incisive songwriting.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=GUTS"
+  },
+  "Javelin|Sufjan Stevens|2023": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A heart-rending tribute that stands among Stevens' finest work, blending his signature orchestral grandeur with raw intimacy.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Javelin"
+  },
+  "Lahai|Sampha|2023": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A luminous, uplifting record that transforms personal experience into something approaching the divine.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Lahai"
+  },
+  "3D Country|Geese|2023": {
+    "score": 79,
+    "score_normalized": 7.9,
+    "excerpt": "A thrillingly unpredictable sophomore album that takes the band from garage rock to cosmic country with reckless abandon.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=3D%20Country"
+  },
+  "Maps|Billy Woods & Kenny Segal|2023": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A richly layered underground hip-hop classic that rewards close listening with its poetic density and intricate production.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Maps"
+  },
+  "Scaring the Hoes|JPEGMAFIA & Danny Brown|2023": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A wildly entertaining collaboration that brings out the best in both artists through creative tension and mutual respect.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Scaring%20the%20Hoes"
+  },
+  "That! Feels Good!|Jessie Ware|2023": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A joyous, immaculately produced disco album that captures the transcendent power of the dancefloor.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=That!%20Feels%20Good!"
+  },
+  "The Record|boygenius|2023": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A stellar collaborative effort that highlights each member's strengths while creating something greater than the sum of its parts.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=The%20Record"
+  },
+  "Heaven Knows|PinkPantheress|2023": {
+    "score": 78,
+    "score_normalized": 7.8,
+    "excerpt": null,
+    "source_url": "https://www.albumoftheyear.org/search/?q=Heaven%20Knows"
+  },
+  "Jubilee|Japanese Breakfast|2021": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A luminous, life-affirming record that finds beauty and meaning in everyday moments of connection.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Jubilee"
+  },
+  "Call Me If You Get Lost|Tyler, The Creator|2021": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A lavish, globe-trotting odyssey that showcases Tyler at his most technically proficient and creatively ambitious.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Call%20Me%20If%20You%20Get%20Lost"
+  },
+  "Collapsed in Sunbeams|Arlo Parks|2021": {
+    "score": 79,
+    "score_normalized": 7.9,
+    "excerpt": "A tender, beautifully observed debut that captures the quiet poetry of everyday life with remarkable grace.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Collapsed%20in%20Sunbeams"
+  },
+  "Promises|Floating Points & Pharoah Sanders|2021": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A meditative, transcendent work that bridges electronic minimalism and spiritual jazz with stunning grace.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Promises"
+  },
+  "For the First Time|Black Country, New Road|2021": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "An audacious, exhilarating debut that channels the anxiety of a generation into blistering, orchestral punk.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=For%20the%20First%20Time"
+  },
+  "Heaux Tales|Jazmine Sullivan|2021": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A concise, powerful exploration of Black womanhood and sexuality, delivered with Sullivan's incomparable vocal prowess.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Heaux%20Tales"
+  },
+  "Chemtrails Over the Country Club|Lana Del Rey|2021": {
+    "score": 78,
+    "score_normalized": 7.8,
+    "excerpt": "A subdued, introspective companion to Norman Fucking Rockwell that finds Del Rey retreating further into her own mythology.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Chemtrails%20Over%20the%20Country%20Club"
+  },
+  "Glow On|Turnstile|2021": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A genre-defying masterpiece that brings hardcore to the mainstream without sacrificing an ounce of intensity.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Glow%20On"
+  },
+  "Fetch the Bolt Cutters|Fiona Apple|2020": {
+    "score": 92,
+    "score_normalized": 9.2,
+    "excerpt": "A landmark album that rejects all conventions in favor of raw, unfiltered expression and ferocious creativity.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Fetch%20the%20Bolt%20Cutters"
+  },
+  "Punisher|Phoebe Bridgers|2020": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "A stunningly assured sophomore album that transforms personal pain into something beautiful, darkly funny, and universal.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Punisher"
+  },
+  "After Hours|The Weeknd|2020": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A cohesive, atmospheric pop album that spawned a global phenomenon while maintaining its dark, introspective core.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=After%20Hours"
+  },
+  "Future Nostalgia|Dua Lipa|2020": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A near-perfect pop album that channels the spirit of 80s dance music into an endlessly replayable modern classic.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Future%20Nostalgia"
+  },
+  "What's Your Pleasure?|Jessie Ware|2020": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A masterful disco record that understands the genre is about release, longing, and the transcendence of the body.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=What's%20Your%20Pleasure%3F"
+  },
+  "Folklore|Taylor Swift|2020": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A pivot to indie-folk that revealed new dimensions of Swift's songwriting, proving she can excel in any genre.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Folklore"
+  },
+  "Set My Heart on Fire Immediately|Perfume Genius|2020": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "A stunning exploration of the corporeal that pushes Perfume Genius' art-pop into dazzling new territory.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Set%20My%20Heart%20on%20Fire%20Immediately"
+  },
+  "Heaven to a Tortured Mind|Yves Tumor|2020": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A wildly inventive, genre-defying album that positions Yves Tumor as one of the most exciting artists in experimental music.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Heaven%20to%20a%20Tortured%20Mind"
+  },
+  "The New Abnormal|The Strokes|2020": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A triumphant comeback that finds The Strokes maturing without losing the effortless cool that defined them.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=The%20New%20Abnormal"
+  },
+  "Norman Fucking Rockwell!|Lana Del Rey|2019": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A career-defining masterpiece that recontextualizes Del Rey's entire project as one of the most ambitious in modern pop.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Norman%20Fucking%20Rockwell!"
+  },
+  "IGOR|Tyler, The Creator|2019": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A brilliantly constructed neo-soul opera that showcases Tyler's evolution from provocateur to one of music's most essential voices.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=IGOR"
+  },
+  "When We All Fall Asleep Where Do We Go?|Billie Eilish|2019": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A game-changing debut that introduced a genuinely new sound to the pop mainstream, driven by Eilish's charismatic weirdness.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=When%20We%20All%20Fall%20Asleep%20Where%20Do%20We%20Go%3F"
+  },
+  "MAGDALENE|FKA twigs|2019": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A breathtaking fusion of avant-pop, classical, and electronic music that chronicles heartbreak with otherworldly grace.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=MAGDALENE"
+  },
+  "Thank U Next|Ariana Grande|2019": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A career-best album that balances polished pop production with genuine emotional vulnerability and self-awareness.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Thank%20U%20Next"
+  },
+  "Assume Form|James Blake|2019": {
+    "score": 79,
+    "score_normalized": 7.9,
+    "excerpt": "A warm, inviting record that finds Blake embracing pop structures without sacrificing his signature emotional depth.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Assume%20Form"
+  },
+  "Golden Hour|Kacey Musgraves|2018": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "A luminous country-pop crossover that captures the magic of being in love with both a person and the world around you.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Golden%20Hour"
+  },
+  "Dirty Computer|Janelle Monáe|2018": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "A vibrant, politically charged masterpiece that uses Afrofuturism to imagine a world where all identities are celebrated.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Dirty%20Computer"
+  },
+  "A Brief Inquiry Into Online Relationships|The 1975|2018": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A sprawling, genre-hopping masterpiece that captures the anxiety and absurdity of being alive in the 21st century.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=A%20Brief%20Inquiry%20Into%20Online%20Relationships"
+  },
+  "Oil of Every Pearl's Un-Insides|SOPHIE|2018": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A groundbreaking electronic masterpiece that uses synthetic sounds to explore deeply human questions about identity and transformation.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Oil%20of%20Every%20Pearl's%20Un-Insides"
+  },
+  "Be the Cowboy|Mitski|2018": {
+    "score": 87,
+    "score_normalized": 8.7,
+    "excerpt": "A tightly wound masterpiece of indie rock that packs more emotional complexity into 32 minutes than most double albums.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Be%20the%20Cowboy"
+  },
+  "Isolation|Kali Uchis|2018": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A stunning debut that showcases Uchis' remarkable range and her ability to weave disparate genres into a cohesive vision.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Isolation"
+  },
+  "DAMN.|Kendrick Lamar|2017": {
+    "score": 91,
+    "score_normalized": 9.1,
+    "excerpt": "A dense, complex work that balances radio-friendly production with some of Lamar's most philosophically ambitious writing.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=DAMN."
+  },
+  "A Crow Looked at Me|Mount Eerie|2017": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A harrowing, essential album that strips away all artifice to confront loss with unbearable clarity and honesty.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=A%20Crow%20Looked%20at%20Me"
+  },
+  "Ctrl|SZA|2017": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A landmark debut that redefined contemporary R&B with its raw honesty and boundary-pushing production.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Ctrl"
+  },
+  "Masseduction|St. Vincent|2017": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A brilliantly produced art-pop album that hides deep anxiety beneath its glossy, hyperreal surface.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Masseduction"
+  },
+  "Flower Boy|Tyler, The Creator|2017": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "The album where Tyler grew up, trading shock tactics for gorgeous production and genuine emotional openness.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Flower%20Boy"
+  },
+  "A Seat at the Table|Solange|2016": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A landmark album that uses R&B as a vehicle for profound political and personal expression with stunning artistry.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=A%20Seat%20at%20the%20Table"
+  },
+  "Lemonade|Beyoncé|2016": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A genre-defying masterpiece that reimagines what a pop album can be, blending the personal and political with stunning ambition.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Lemonade"
+  },
+  "Blackstar|David Bowie|2016": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A stunning final statement that uses avant-garde jazz to confront mortality with grace, mystery, and dark beauty.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Blackstar"
+  },
+  "22 A Million|Bon Iver|2016": {
+    "score": 83,
+    "score_normalized": 8.3,
+    "excerpt": "A radical sonic reinvention that uses distortion and Auto-Tune to create a deeply human exploration of faith and doubt.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=22%20A%20Million"
+  },
+  "A Moon Shaped Pool|Radiohead|2016": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A stunningly beautiful album that finds Radiohead at their most emotionally direct while maintaining their experimental edge.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=A%20Moon%20Shaped%20Pool"
+  },
+  "Art Angels|Grimes|2015": {
+    "score": 83,
+    "score_normalized": 8.3,
+    "excerpt": "A boldly eclectic pop album that showcases Grimes' singular vision and her ability to make the avant-garde accessible.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Art%20Angels"
+  },
+  "Carrie & Lowell|Sufjan Stevens|2015": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A masterwork of grief and memory, rendered with such delicate precision that every whispered lyric carries immense weight.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Carrie%20%26%20Lowell"
+  },
+  "Sometimes I Sit and Think and Sometimes I Just Sit|Courtney Barnett|2015": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A brilliantly clever album that finds poetry in parking lots, swimming pools, and existential crises at open houses.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Sometimes%20I%20Sit%20and%20Think%20and%20Sometimes%20I%20Just%20Sit"
+  },
+  "I Love You Honeybear|Father John Misty|2015": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A gorgeously orchestrated album that uses cynicism as a shield for one of the most sincere love letters in modern music.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=I%20Love%20You%20Honeybear"
+  },
+  "Emotion|Carly Rae Jepsen|2015": {
+    "score": 80,
+    "score_normalized": 8,
+    "excerpt": "An immaculately crafted 80s-influenced pop album that turned a one-hit wonder into an indie darling.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Emotion"
+  },
+  "Lost in the Dream|The War on Drugs|2014": {
+    "score": 84,
+    "score_normalized": 8.4,
+    "excerpt": "A masterful blend of Springsteen-esque Americana and Krautrock propulsion that rewards deep, immersive listening.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Lost%20in%20the%20Dream"
+  },
+  "1989|Taylor Swift|2014": {
+    "score": 80,
+    "score_normalized": 8,
+    "excerpt": "The album that completed Swift's transformation from country star to global pop icon, with songwriting that transcends genre.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=1989"
+  },
+  "Run the Jewels 2|Run the Jewels|2014": {
+    "score": 89,
+    "score_normalized": 8.9,
+    "excerpt": "An explosive collaboration that channels righteous anger into some of the most electrifying hip-hop of the decade.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Run%20the%20Jewels%202"
+  },
+  "Yeezus|Kanye West|2013": {
+    "score": 82,
+    "score_normalized": 8.2,
+    "excerpt": "A deliberately abrasive, confrontational album that pushed hip-hop into abrasive new sonic territory.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Yeezus"
+  },
+  "Random Access Memories|Daft Punk|2013": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A painstakingly crafted homage to 70s studio craftsmanship that produced one of the biggest hits of all time.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Random%20Access%20Memories"
+  },
+  "Modern Vampires of the City|Vampire Weekend|2013": {
+    "score": 85,
+    "score_normalized": 8.5,
+    "excerpt": "A profound step forward that traded collegiate wit for existential questions, with the band's sharpest songwriting yet.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Modern%20Vampires%20of%20the%20City"
+  },
+  "Good Kid M.A.A.D City|Kendrick Lamar|2012": {
+    "score": 88,
+    "score_normalized": 8.8,
+    "excerpt": "A landmark concept album that established Lamar as the most important rapper of his generation.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Good%20Kid%20M.A.A.D%20City"
+  },
+  "Channel Orange|Frank Ocean|2012": {
+    "score": 86,
+    "score_normalized": 8.6,
+    "excerpt": "A stunning debut that seamlessly blends R&B, psychedelia, and pop into a cohesive, groundbreaking vision.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=Channel%20Orange"
+  },
+  "My Beautiful Dark Twisted Fantasy|Kanye West|2010": {
+    "score": 90,
+    "score_normalized": 9,
+    "excerpt": "One of the greatest albums of the century, a sprawling, ambitious work that captures the contradictions of genius.",
+    "source_url": "https://www.albumoftheyear.org/search/?q=My%20Beautiful%20Dark%20Twisted%20Fantasy"
+  }
+}
